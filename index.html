@@ -55,7 +55,8 @@
       e.preventDefault();
       $('#files').parse({
         config: {
-          delimiter: "auto",
+        delimiter: "",
+          header: false,
           complete: displayHTMLTable,
         },
         before: function(file, inputElem)
