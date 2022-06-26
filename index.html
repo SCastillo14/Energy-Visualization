@@ -58,8 +58,8 @@
     $('#header').load('../header-ads.html');
     $('#footer').load('../footer-ads.html');
 
-    $('#submit-file').on("click",funtion(e){
-      e.preventDefault();
+    //$('#submit-file').on("click",funtion(e){
+      //e.preventDefault();
       $('#files').parse({
         config: {
         delimiter: "",
@@ -79,7 +79,7 @@
           //console.log("Done with all files");
         }
       });
-    });
+    //});
 
     function displayHTMLTable(results){
       var table = "<table class='table'>";
