@@ -37,9 +37,7 @@
     <li>Información</li>
   </ul>
 
-  <div class="well">
-    <div class="row">
-      <form class="form-inline">
+  <form class="form-inline">
         <div class="form-group">
           <label for="files">Selecciona archivo .csv :</label>
           <input type="file" id="files"  class="form-control" accept=".csv" required />
@@ -48,18 +46,7 @@
           <button type="submit" id="submit-file" class="btn btn-primary">Upload File</button>
         </div>
       </form>
-    </div>
-    <div class="row" <div id="parsed_csv_list">
-    </div>
-  </div>
 
-  <script type="text/javascript">
-    $(document).ready(function(){
-    $('#header').load('../header-ads.html');
-    $('#footer').load('../footer-ads.html');
-
-    //$('#submit-file').on("click",funtion(e){
-      //e.preventDefault();
       $('#files').parse({
         config: {
         delimiter: "",
@@ -79,7 +66,7 @@
           //console.log("Done with all files");
         }
       });
-    //});
+    });
 
     function displayHTMLTable(results){
       var table = "<table class='table'>";
@@ -100,7 +87,5 @@
     table+= "</table>";
     $("#parsed_csv_list").html(table);
   }
-});
-</script>
 </body>
 </html>
