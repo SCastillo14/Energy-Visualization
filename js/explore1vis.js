@@ -1,13 +1,3 @@
-/**
- * Created by byan on 4/23/15.
- */
-/*
- *
- * ======================================================
- * We follow the vis template of init - wrangle - update
- * ======================================================
- *
- * */
 
 /**
  * @param _parentElement -- the HTML or SVG element (D3 node) to which to attach the vis
