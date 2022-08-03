@@ -220,7 +220,7 @@ EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
 		for (i = 0; i < filteredData.length; i++) {
 			if (dateFormatter.parse(filteredData[i].month) < dateFormatter.parse("2018-01-01") && dateFormatter.parse(filteredData[i].month) >= dateFormatter.parse("2018-01-01")) {
 				res.time.push(monthNameFormat(dateFormatter.parse(filteredData[i].month)));
-				res.data.push(filteredData[i].consumption / area * 100000);
+				res.data.push(filteredData[i].consumption / area * 10);
 			}
 		}
 	}
