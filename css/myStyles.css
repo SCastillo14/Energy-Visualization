@@ -4,7 +4,7 @@ body{
 
 
 .row{
-align: center;
+box-align: center;
 }
 
 
@@ -30,7 +30,7 @@ html,body {
 
 .selectWidth {
   width: auto;
-  //margin:10px;
+  margin:10px;
 }
 
 .controls {
@@ -97,7 +97,7 @@ div.tooltip_svg {
   width: 240px;
   height: 120px;
   padding: 2px;
-  //font: 11px sans-serif;
+  font: 11px sans-serif;
   background: lightsteelblue;
   border: 0px;
   border-radius: 8px;
@@ -110,7 +110,7 @@ div.tooltip_svg_weather {
   width: 60px;
   height: 20px;
   padding: 2px;
-  //font: 11px sans-serif;
+  font: 11px sans-serif;
   font-weight:900;
   border: 0px;
   border-radius: 8px;
@@ -123,7 +123,7 @@ div.tooltip_svg_exploreVis {
   width: 80px;
   height: 30px;
   padding: 2px;
-  //font: 11px sans-serif;
+  font: 11px sans-serif;
   font-weight:900;
   border: 0px;
   border-radius: 8px;
