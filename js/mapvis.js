@@ -119,7 +119,7 @@ MapVis.prototype.initVis = function() {
 
         that.overlay.draw = function() {
             that.projection = this.getProjection();
-            that.updateVis('Gund Hall');
+            that.updateVis('Durango');
         };
     };
 
