@@ -6156,60 +6156,2236 @@
                 "month": "2020-10-01"
             },
             {
-                "consumption": 380917.01, 
+                "consumption": 230175.33, 
                 "month": "2020-11-01"
             },
             {
-                "consumption": 214889.89, 
+                "consumption": 217612.6, 
                 "month": "2020-12-01"
             },
             {
-                "consumption": 233339, 
+                "consumption": 293424, 
                 "month": "2021-01-01"
             },
             {
-                "consumption": 284011, 
+                "consumption": 323233, 
                 "month": "2021-02-01"
             },
             {
-                "consumption": 316158, 
+                "consumption": 354658, 
                 "month": "2021-03-01"
             },
             {
-                "consumption": 298426, 
+                "consumption": 339448, 
                 "month": "2021-04-01"
             },
             {
-                "consumption": 317509, 
+                "consumption": 383872, 
                 "month": "2021-05-01"
             },
             {
-                "consumption": 358451, 
+                "consumption": 363402, 
                 "month": "2021-06-01"
             },
             {
-                "consumption": 307646, 
+                "consumption": 334177, 
                 "month": "2021-07-01"
             },
             {
-                "consumption": 352471, 
+                "consumption": 326463, 
                 "month": "2021-08-01"
             },
             {
-                "consumption": 385808, 
+                "consumption": 193250, 
                 "month": "2021-09-01"
             },
             {
-                "consumption": 374137, 
+                "consumption": 215315, 
                 "month": "2021-10-01"
             },
             {
-                "consumption": 225868, 
+                "consumption": 212094, 
                 "month": "2021-11-01"
             },
             {
-                "consumption": 253248, 
+                "consumption": 160803, 
                 "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Quintana Roo": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 1378.35, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 2030.27, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 7069.75, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 7152.73, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 24469.34,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 5046.09,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 10411.13,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 4555.49, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 4365.12, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 3664.55, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 1471.09, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 2366.86, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 2765.04, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 2680.98, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 5416.39, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 14296.38, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 32547.44, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 18287.06, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 8832.47, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 8346.98, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 11239.24, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 2337.11, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 1862.26, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 1759.47, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 2605.93, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 7535.06, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 6839.5, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 7995.29, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 26963.27, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 27742.18, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 40062.18, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 33047.21, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 68398.94, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 42299.42, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 27013.18, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 3683.02, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 2603.4, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 34943.34, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 45957.42, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 105647.34, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 127832.68, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 103929.62, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 85153.7, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 54445.92, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 24313.28, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 41259.13, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 37882.12, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 17369.81, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 325577.85, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 13376.88, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 22031.15, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 15059.57, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 16031.91, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 8891.78, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 16458.54, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 14949.66, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 21376.11, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 9820.33, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 18594.06, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 10466.43, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 7337, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 27748, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 7881, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 19098, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 12161, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 15563, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 16940, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 16201, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 9678, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 30374, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 5176, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 5277, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "San Luis Potosí": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 722550.73, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 699490.83, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 788916.31, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 829066.47, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 993003.36,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 1086190.02,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 985074.79,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 937601.45, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 994365, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 849473.52, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 814902.84, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 804699.57, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 921913.83, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 820833.8, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 943317.17, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 1028607.94, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 1171812.72, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 1066554.73, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 984401.94, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 1092830.82, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 827420.87, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 905962.35, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 897495.39, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 852632.74, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 834122.08, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 679121.39, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 837423.95, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 911992.12, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 1058199.25, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 1119279.64, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 1056255.44, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 1051775.36, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 1061271.66, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 894234.37, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 815737.68, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 753949.42, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 836643.02, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 945252.71, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 884405.35, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 1019063.43, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 1098932.58, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 1000553.78, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 952478.41, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 1017751.55, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 963423.58, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 885004.92, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 829615.88, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 646053.33, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 325577.85, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 665849.27, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 748132.34, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 621705.16, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 771262.55, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 774328.03, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 908288.95, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 964064.36, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 806642.27, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 874252.85, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 744658.5, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 501279.61, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 238983, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 297390, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 333998, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 332868, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 629047, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 663915, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 714934, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 710811, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 598710, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 611564, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 542229, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 531213, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Sinaloa": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 326773.54, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 363150.39, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 351246.97, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 510656.16, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 383531.81,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 368514.83,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 380815.8,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 522466.52, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 586143.51, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 553005.53, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 424986.94, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 356206.44, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 550632.13, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 456181.86, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 555544.76, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 442261.82, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 476146.46, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 624067.61, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 393074.03, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 717432.64, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 630621.28, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 674391.79, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 606119.79, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 399097.01, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 321965.09, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 294065.98, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 419695.46, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 449179.21, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 384333.04, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 460036.13, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 464849.75, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 589697.24, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 744573.67, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 715626.61, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 565488.41, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 375628.3, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 507358.24, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 556026.89, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 603150.43, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 450783.25, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 516617.66, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 458140.14, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 476666.89, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 715152.15, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 825661.76, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 881900.11, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 938422.51, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 953079.97, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 325577.85, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 770902.87, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 1025864.78, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 916122.67, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 971922.18, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 935827.2, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 882112.69, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 1108289.57, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 1004253.92, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 1018590.08, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 800231.46, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 707189.97, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 710850, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 697128, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 745563, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 741549, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 547897, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 806326, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 756561, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 958807, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 728155, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 844227, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 868238, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 801640, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Sonora": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 726144.43, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 678155.32, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 827760.71, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 965563.85, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 1018653.55,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 1134881.62,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 1195916.89,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 1094140.61, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 1014238.08, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 908143.39, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 787124.15, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 777452.78, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 996085.65, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 894200.08, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 981091.96, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 1043763.68, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 1277298.82, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 1307556.83, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 1298144.1, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 1383950.69, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 1156949.85, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 1070360.47, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 991152.98, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 867760.5, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 926653.64, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 885663.26, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 974417.99, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 1051214.91, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 1173808.54, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 1277111.36, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 1453285.92, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 1443873.42, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 1375673.65, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 1156530.22, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 1041088.92, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 920040.85, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 891859.66, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 807886.45, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 790100.27, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 980579.76, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 1057183.98, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 1280470.65, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 1377683.39, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 1419751.29, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 1284266.83, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 1112126.37, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 941249.78, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 931750.02, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 325577.85, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 906227.17, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 1021982.44, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 1062930.04, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 1212349.04, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 1283606.59, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 1486425.16, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 1486448.86, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 1143787.5, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 1395722.39, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 1017057.93, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 964322.79, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 1084345, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 1001344, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 1073835, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 1109542, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 1357902, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 1610550, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 1466764, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 1511970, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 1414758, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 1370296, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 1135480, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 1327290, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Tamaulipas": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 2354867.32, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 2329728.51, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 2698897.1, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 2781531.82, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 3087545.67,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 2940287.88,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 2829129.8,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 2943692.97, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 2963770.44, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 2970364.22, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 2688925.99, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 2437395.84, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 2229587.17, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 2280514.25, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 2693341.99, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 2448833.41, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 2691995.94, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 2516737.2, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 2486479.4, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 3021017.62, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 2810964.8, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 2761517.19, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 2798864.37, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 2342102.8, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 2401299.61, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 2641096.03, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 2595147.88, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 2455406.59, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 2617890.8, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 2444081.57, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 2841734.11, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 2897022.39, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 2375246.02, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 2508352.65, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 2504429.8, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 2264133.18, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 2277688.1, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 2235471.22, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 2476743.76, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 2167439.57, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 2779591.06, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 3065917.49, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 2892083.72, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 2969235.21, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 2659539.4, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 2790503.18, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 2286944.49, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 2017554.14, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 2277202.67, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 2443043.36, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 1021982.44, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 1857857.32, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 1815575.64, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 2124375.48, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 2630092.33, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 2751406.27, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 2403679.16, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 2135431.55, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 2004901.58, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 1757191.04, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 1919444, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 1972095, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 1902894, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 2111954, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 2074091, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 2168000, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 2220086, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 2237359, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 1953201, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 1878994, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 1508249, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 1783155, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Veracruz": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 2182411.54, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 2348868.62, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 2239444.51, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 2568141.76, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 2908075.41,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 3190080.07,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 3384116.13,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 3280860.34, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 3272109.51, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 3354883.52, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 3103455.36, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 3179593.13, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 3080130.28, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 2637857.06, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 3247863.79, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 2872122.25, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 2892107.96, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 3230214.67, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 3240716.7, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 2958548.87, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 2510306.15, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 2247979.23, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 2021712.73, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 2699346.94, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 3025468.14, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 2975375.53, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 3242074.69, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 2906947.7, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 3014417.35, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 2971060.31, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 3228907.68, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 3236579.88, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 3083922.81, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 2834486.73, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 2953706.14, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 3045581.47, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 2743753.19, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 2337660.94, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 3103762.25, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 2879689.18, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 3141608.17, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 3202846.24, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 3195573.53, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 3311801.01, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 3103101.27, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 3117910.46, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 2962943.32, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 2738682.96, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 2872532.21, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 906227.17, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 3171337, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 2785558.37, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 2714033.71, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 2533496.91, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 2660025.91, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 2480224.55, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 2103317.24, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 2665332.57, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 2245226.31, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 2285275.83, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 1727880, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 2082369, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 2857349, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 2800045, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 2995621, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 3077129, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 2891995, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 2753915, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 2806576, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 2488784, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 2303239, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 2519260, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Yucatán": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 538787.33, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 301085.42, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 314881.58, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 443124.52, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 535461.85,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 510830.64,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 589161.54,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 599854.53, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 573094.33, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 685216.92, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 551345.14, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 435559.83, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 371959.34, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 354571.11, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 312144.88, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 392515.73, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 379399.92, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 459873.44, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 453721.58, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 487914.77, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 432461.5, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 456986.57, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 348904.84, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 275912.23, 
+                "month": "2017-12-01"
+            }, 
+            {
+                "consumption": 261933.76, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 305204.93, 
+                "month": "2018-02-01"
+            }, 
+            {
+                "consumption": 348523.08, 
+                "month": "2018-03-01"
+            }, 
+            {
+                "consumption": 437022.72, 
+                "month": "2018-04-01"
+            }, 
+            {
+                "consumption": 409063.63, 
+                "month": "2018-05-01"
+            }, 
+            {
+                "consumption": 402329.95, 
+                "month": "2018-06-01"
+            }, 
+            {
+                "consumption": 409585.46, 
+                "month": "2018-07-01"
+            }, 
+            {
+                "consumption": 431415.05, 
+                "month": "2018-08-01"
+            },
+            {
+                "consumption": 314712.79, 
+                "month": "2018-09-01"
+            },
+            {
+                "consumption": 308492.35, 
+                "month": "2018-10-01"
+            },
+            {
+                "consumption": 351451.75, 
+                "month": "2018-11-01"
+            },
+            {
+                "consumption": 298651.07, 
+                "month": "2018-12-01"
+            },
+            {
+                "consumption": 298141.59, 
+                "month": "2019-01-01"
+            },
+            {
+                "consumption": 338466.99, 
+                "month": "2019-02-01"
+            },
+            {
+                "consumption": 288379.01, 
+                "month": "2019-03-01"
+            },
+            {
+                "consumption": 312455.32, 
+                "month": "2019-04-01"
+            },
+            {
+                "consumption": 370304.55, 
+                "month": "2019-05-01"
+            },
+            {
+                "consumption": 375817.26, 
+                "month": "2019-06-01"
+            },
+            {
+                "consumption": 383578.87, 
+                "month": "2019-07-01"
+            },
+            {
+                "consumption": 429572.04, 
+                "month": "2019-08-01"
+            },
+            {
+                "consumption": 423454.8, 
+                "month": "2019-09-01"
+            },
+            {
+                "consumption": 448625.6, 
+                "month": "2019-10-01"
+            },
+            {
+                "consumption": 402022.15, 
+                "month": "2019-11-01"
+            },
+            {
+                "consumption": 346160.72, 
+                "month": "2019-12-01"
+            },
+            {
+                "consumption": 2872532.21, 
+                "month": "2020-01-01"
+            },
+            {
+                "consumption": 403875.02, 
+                "month": "2020-02-01"
+            },
+            {
+                "consumption": 504962.38, 
+                "month": "2020-03-01"
+            },
+            {
+                "consumption": 390980.1, 
+                "month": "2020-04-01"
+            },
+            {
+                "consumption": 412507.82, 
+                "month": "2020-05-01"
+            },
+            {
+                "consumption": 343872.54, 
+                "month": "2020-06-01"
+            },
+            {
+                "consumption": 405178.23, 
+                "month": "2020-07-01"
+            },
+            {
+                "consumption": 399909.41, 
+                "month": "2020-08-01"
+            },
+            {
+                "consumption": 415312.91, 
+                "month": "2020-09-01"
+            },
+            {
+                "consumption": 525366.54, 
+                "month": "2020-10-01"
+            },
+            {
+                "consumption": 552340.15, 
+                "month": "2020-11-01"
+            },
+            {
+                "consumption": 560261.36, 
+                "month": "2020-12-01"
+            },
+            {
+                "consumption": 396987, 
+                "month": "2021-01-01"
+            },
+            {
+                "consumption": 577587, 
+                "month": "2021-02-01"
+            },
+            {
+                "consumption": 480001, 
+                "month": "2021-03-01"
+            },
+            {
+                "consumption": 479072, 
+                "month": "2021-04-01"
+            },
+            {
+                "consumption": 612743, 
+                "month": "2021-05-01"
+            },
+            {
+                "consumption": 591837, 
+                "month": "2021-06-01"
+            },
+            {
+                "consumption": 597078, 
+                "month": "2021-07-01"
+            },
+            {
+                "consumption": 609041, 
+                "month": "2021-08-01"
+            },
+            {
+                "consumption": 554167, 
+                "month": "2021-09-01"
+            },
+            {
+                "consumption": 468230, 
+                "month": "2021-10-01"
+            },
+            {
+                "consumption": 459731, 
+                "month": "2021-11-01"
+            },
+            {
+                "consumption": 563040, 
+                "month": "2021-12-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
+    },
+    "Plantas Móviles": {
+        "function": "dormitory", 
+        "Latitude": 21.016667,
+        "electric": [
+            {
+                "consumption": 613.92, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 1166.39, 
+                "month": "2016-02-01"
+            }, 
+            {
+                "consumption": 1639.02, 
+                "month": "2016-03-01"
+            }, 
+            {
+                "consumption": 11507.65, 
+                "month": "2016-04-01"
+            }, 
+            {
+                "consumption": 15578.64,                 
+                "month": "2016-05-01"
+            }, 
+            {
+                "consumption": 30864.22,                 
+                "month": "2016-06-01"
+            }, 
+            {
+                "consumption": 32875.23,                 
+                "month": "2016-07-01"
+            }, 
+            {
+                "consumption": 20705.43, 
+                "month": "2016-08-01"
+            }, 
+            {
+                "consumption": 27380.93, 
+                "month": "2016-09-01"
+            }, 
+            {
+                "consumption": 42094.49, 
+                "month": "2016-10-01"
+            }, 
+            {
+                "consumption": 16752.65, 
+                "month": "2016-11-01"
+            }, 
+            {
+                "consumption": 5917.77, 
+                "month": "2016-12-01"
+            }, 
+            {
+                "consumption": 5783.75, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 7912.4, 
+                "month": "2017-02-01"
+            }, 
+            {
+                "consumption": 5454.09, 
+                "month": "2017-03-01"
+            }, 
+            {
+                "consumption": 4587.82, 
+                "month": "2017-04-01"
+            }, 
+            {
+                "consumption": 9842.04, 
+                "month": "2017-05-01"
+            }, 
+            {
+                "consumption": 28317.91, 
+                "month": "2017-06-01"
+            }, 
+            {
+                "consumption": 55212.39, 
+                "month": "2017-07-01"
+            }, 
+            {
+                "consumption": 50776.5, 
+                "month": "2017-08-01"
+            }, 
+            {
+                "consumption": 52121.4, 
+                "month": "2017-09-01"
+            }, 
+            {
+                "consumption": 56549.43, 
+                "month": "2017-10-01"
+            }, 
+            {
+                "consumption": 38833.52, 
+                "month": "2017-11-01"
+            }, 
+            {
+                "consumption": 20403.8, 
+                "month": "2017-12-01"
             }
         ], 
         "longitude": -101.25, 
