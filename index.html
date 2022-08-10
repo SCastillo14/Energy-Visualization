@@ -175,11 +175,11 @@
         <div class="col-md-8"><span id="Map" class = "gray-tooltip-right">Map</span></div>
         <div class="col-md-4">
             <form class="form-inline">
-                <span id="Annual_Energy_Ranking" class = "gray-tooltip-left">Ranking | </span>
-                <label id = "Sort_ranking_by" class="gray-tooltip">Sort by:</label>
+                <span id="Annual_Energy_Ranking" class = "gray-tooltip-left">Filtrado | </span>
+                <label id = "Sort_ranking_by" class="gray-tooltip">Orden:</label>
                 <select id="rank_opt" class="form-control selectWidth controls input-sm">
-                    <option value="energyUse" selected>Energy use</option>
-                    <option value="buildingName">Building name</option>
+                    <option value="energyUse" selected>Energía</option>
+                    <option value="buildingName">A-Z</option>
                 </select>
             </form>
         </div>
@@ -509,7 +509,7 @@
 
         $('#Show_buildings_with_data_of').tooltip({
             placement : 'bottom',
-            title: "Map and ranking bar chart will show the buildings with the selected energy type."
+            title: "Esta barra de opciones te mostrará el tipo de información que deseas conocer."
         });
 
         $('#Select_energy_type').tooltip({
@@ -519,12 +519,12 @@
 
         $('#Filter_buildings_by_function').tooltip({
             placement : 'bottom',
-            title: "Map and ranking bar chart will show the buildings of the selected type."
+            title: "Esta barra de opiones filtrará los estados por su región con forme al Sistema Electrico Nacional"
         });
 
         $('#Sort_ranking_by').tooltip({
             placement : 'bottom',
-            title: "Sort ranking by energy use or building name"
+            title: "Este botón ordenará los datos por energía o en orden alfabético"
         });
 
         $('#Map').tooltip({
