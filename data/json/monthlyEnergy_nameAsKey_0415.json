@@ -1,6 +1,6 @@
 {
     "Baja California": {
-        "function": "residential", 
+        "function": "Baja California", 
         "latitude": 32.6245, 
         "electric": [
             {
@@ -296,7 +296,7 @@
         "area": 71550
     }, 
     "Baja California Sur": {
-        "function": "office and classroom", 
+        "function": "Baja California Sur", 
         "latitude": 27.3361, 
         "electric": [
             {
@@ -592,7 +592,7 @@
         "area": 73909
     }, 
     "Campeche": {
-        "function": "office and classroom", 
+        "function": "Peninsular", 
         "latitude": 19.8438600, 
         "electric": [
             {
@@ -888,7 +888,7 @@
         "area": 57484.9
     }, 
     "Chiapas": {
-        "function": "office and classroom",
+        "function": "Oriental",
         "latitude": 167569, 
         "electric": [
             {
@@ -1184,7 +1184,7 @@
         "longitude": -931292
     },
     "Chihuahua":  {
-            "function": "office and classroom",
+            "function": "Norte",
             "latitude": 28633, 
             "electric":[
                 {
@@ -1480,7 +1480,7 @@
             "longitude": -1060691
     },
     "Coahuila": {
-        "function": "residence hall",
+        "function": "Noroeste",
         "latitude": 25.4203,  
         "electric": [
             {
@@ -1776,7 +1776,7 @@
         "longitude": -100.9977 
     },
     "Colima": {
-        "function": "residence hall",
+        "function": "Occidental",
         "latitude": 19.2499700,  
         "electric": [
             {
@@ -2072,7 +2072,7 @@
         "longitude": -103.7271400 
     },
     "Ciudad de Mexico": {
-        "function": "office", 
+        "function": "Central", 
         "latitude": 19.4284700, 
         "electric": [
             {
@@ -2368,7 +2368,7 @@
         "area": 1485
     }, 
     "Durango": {
-        "function": "office",
+        "function": "Norte",
         "Latitude": 240277, 
         "electric": [
             {
@@ -2664,7 +2664,7 @@
         "area": 1485
     },
     "Estado de Mexico": {
-        "function": "dormitory",
+        "function": "Central",
         "Latitude": 194326,  
         "electric": [
             {
@@ -2960,7 +2960,7 @@
         "area": 22351.8
     }, 
     "Guanajuato": {
-        "function": "dormitory", 
+        "function": "Occidental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -3256,7 +3256,7 @@
         "area": 30607
     },
     "Guerrero": {
-        "function": "dormitory", 
+        "function": "Central", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -3552,7 +3552,7 @@
         "area": 30607
     },
     "Hidalgo": {
-        "function": "dormitory", 
+        "function": "Occidental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -3848,7 +3848,7 @@
         "area": 30607
     },
     "Jalisco": {
-        "function": "dormitory", 
+        "function": "Occidental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -4144,7 +4144,7 @@
         "area": 30607
     },
     "Michoacán": {
-        "function": "dormitory", 
+        "function": "Central", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -4440,7 +4440,7 @@
         "area": 30607
     },
     "Morelos": {
-        "function": "dormitory", 
+        "function": "Oriental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -4736,7 +4736,7 @@
         "area": 30607
     },
     "Nayarit": {
-        "function": "dormitory", 
+        "function": "Occidental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -5032,7 +5032,7 @@
         "area": 30607
     },
     "Nuevo León": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -5328,7 +5328,7 @@
         "area": 30607
     },
     "Oaxaca": {
-        "function": "dormitory", 
+        "function": "Oriental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -5624,7 +5624,7 @@
         "area": 30607
     },
     "Puebla": {
-        "function": "dormitory", 
+        "function": "Oriental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -5920,7 +5920,7 @@
         "area": 30607
     },
     "Querétaro": {
-        "function": "dormitory", 
+        "function": "Occidental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -6216,7 +6216,7 @@
         "area": 30607
     },
     "Quintana Roo": {
-        "function": "dormitory", 
+        "function": "Peninsular", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -6512,7 +6512,7 @@
         "area": 30607
     },
     "San Luis Potosí": {
-        "function": "dormitory", 
+        "function": "Occidental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -6808,7 +6808,7 @@
         "area": 30607
     },
     "Sinaloa": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -7104,7 +7104,7 @@
         "area": 30607
     },
     "Sonora": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -7400,7 +7400,7 @@
         "area": 30607
     },
     "Tamaulipas": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -7696,7 +7696,7 @@
         "area": 30607
     },
     "Veracruz": {
-        "function": "dormitory", 
+        "function": "Oriental", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -7992,7 +7992,7 @@
         "area": 30607
     },
     "Yucatán": {
-        "function": "dormitory", 
+        "function": "Peninsular", 
         "Latitude": 21.016667,
         "electric": [
             {
@@ -8288,7 +8288,7 @@
         "area": 30607
     },
     "Plantas Móviles": {
-        "function": "dormitory", 
+        "function": "Central", 
         "Latitude": 21.016667,
         "electric": [
             {
