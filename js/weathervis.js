@@ -129,7 +129,7 @@ WeatherVis.prototype.updateVis = function(_option){
 				return "Weather Data - Solar Radiation";
 			}
 			if (_option == "Wind") {
-				return "Weather Data - Wind Speed";
+				return "Weather Data - Total";
 			}
 		});
 	// updates graph
@@ -363,7 +363,7 @@ WeatherVis.prototype.filterAndAggregate = function(_option){
 		filter = "solar radiation";
 	}
 	else if (_option == "Wind"){
-		filter = "wind speed";
+		filter = "Total";
 	}
     //Dear JS hipster, a more hip variant of this construct would be:
     // var filter = _filter || function(){return true;}

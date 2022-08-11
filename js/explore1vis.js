@@ -149,7 +149,7 @@ Explore1Vis.prototype.updateVis = function(){
     // updates axis
     var unit = {"temperature": "(" + String.fromCharCode(176) + "C)", "dehumidification": "(kg/kg)",
         "cooling degrees": "(" + String.fromCharCode(176) + "C)", "heating degrees": "(" + String.fromCharCode(176) + "C)",
-        "solar radiation": "(W/m2)", "wind speed": "(m/s)",
+        "solar radiation": "(W/m2)", "Total": "(m/s)",
         "electric" : "(Wh/sf)", "chilled water": "(kg-Days/sf)", "steam" : "(kBtu/sf)"
     };
 
