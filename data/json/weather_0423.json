@@ -1,0 +1,6511 @@
+{
+  "hourly": [
+    {
+      "time": "2021/04/01 01:00",
+      "Total": 34918.2651,
+      "Eolica": 4421.7082,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 28.4775,
+      "Hidroelectrica": 3641.4473,
+      "Geotermoelectrica": 426.0419
+    },
+    {
+      "time": "2021/04/01 02:00",
+      "Total": 33446.5882,
+      "Eolica": 4357.8279,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 27.2376,
+      "Hidroelectrica": 3262.9772,
+      "Geotermoelectrica": 427.9699
+    },
+    {
+      "time": "2021/04/01 03:00",
+      "Total": 32566.8947,
+      "Eolica": 4534.9497,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 27.205,
+      "Hidroelectrica": 2853.9071,
+      "Geotermoelectrica": 428.6634
+    },
+    {
+      "time": "2021/04/01 04:00",
+      "Total": 32150.4491,
+      "Eolica": 4613.9906,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 26.2753,
+      "Hidroelectrica": 2732.5433,
+      "Geotermoelectrica": 429.3854
+    },
+    {
+      "time": "2021/04/01 05:00",
+      "Total": 31884.095,
+      "Eolica": 4714.9908,
+      "Fotovoltaica": 0.0283,
+      "Biomasa": 26.065,
+      "Hidroelectrica": 2506.0306,
+      "Geotermoelectrica": 430.2159
+    },
+    {
+      "time": "2021/04/01 06:00",
+      "Total": 31560.3418,
+      "Eolica": 4845.2098,
+      "Fotovoltaica": 0.1074,
+      "Biomasa": 26.4772,
+      "Hidroelectrica": 2496.4819,
+      "Geotermoelectrica": 430.4995
+    },
+    {
+      "time": "2021/04/01 07:00",
+      "Total": 31493.034,
+      "Eolica": 4701.3191,
+      "Fotovoltaica": 19.7317,
+      "Biomasa": 27.3045,
+      "Hidroelectrica": 2521.6364,
+      "Geotermoelectrica": 430.7705
+    },
+    {
+      "time": "2021/04/01 08:00",
+      "Total": 31899.0497,
+      "Eolica": 4633.8322,
+      "Fotovoltaica": 685.2541,
+      "Biomasa": 23.3918,
+      "Hidroelectrica": 2490.812,
+      "Geotermoelectrica": 429.8808
+    },
+    {
+      "time": "2021/04/01 09:00",
+      "Total": 33042.0376,
+      "Eolica": 4781.5603,
+      "Fotovoltaica": 2511.1833,
+      "Biomasa": 23.5749,
+      "Hidroelectrica": 2225.3153,
+      "Geotermoelectrica": 430.213
+    },
+    {
+      "time": "2021/04/01 10:00",
+      "Total": 34045.74,
+      "Eolica": 4811.5306,
+      "Fotovoltaica": 3690.1124,
+      "Biomasa": 24.5718,
+      "Hidroelectrica": 2249.0465,
+      "Geotermoelectrica": 430.586
+    },
+    {
+      "time": "2021/04/01 11:00",
+      "Total": 34452.3312,
+      "Eolica": 4898.0664,
+      "Fotovoltaica": 4409.423,
+      "Biomasa": 22.0574,
+      "Hidroelectrica": 1749.0293,
+      "Geotermoelectrica": 430.7571
+    },
+    {
+      "time": "2021/04/01 12:00",
+      "Total": 34644.7969,
+      "Eolica": 4843.4552,
+      "Fotovoltaica": 4718.6596,
+      "Biomasa": 20.51,
+      "Hidroelectrica": 1669.9552,
+      "Geotermoelectrica": 430.1132
+    },
+    {
+      "time": "2021/04/01 13:00",
+      "Total": 34929.4956,
+      "Eolica": 4825.3993,
+      "Fotovoltaica": 4812.6233,
+      "Biomasa": 23.0749,
+      "Hidroelectrica": 1619.7971,
+      "Geotermoelectrica": 429.979
+    },
+    {
+      "time": "2021/04/01 14:00",
+      "Total": 34946.3703,
+      "Eolica": 4453.6275,
+      "Fotovoltaica": 4774.7219,
+      "Biomasa": 23.8187,
+      "Hidroelectrica": 1865.1594,
+      "Geotermoelectrica": 429.7406
+    },
+    {
+      "time": "2021/04/01 15:00",
+      "Total": 34867.9696,
+      "Eolica": 3990.5991,
+      "Fotovoltaica": 4756.728,
+      "Biomasa": 26.7724,
+      "Hidroelectrica": 2182.1905,
+      "Geotermoelectrica": 429.4026
+    },
+    {
+      "time": "2021/04/01 16:00",
+      "Total": 34912.3682,
+      "Eolica": 3587.8734,
+      "Fotovoltaica": 4473.8528,
+      "Biomasa": 21.9462,
+      "Hidroelectrica": 2467.3112,
+      "Geotermoelectrica": 428.8937
+    },
+    {
+      "time": "2021/04/01 17:00",
+      "Total": 34657.3788,
+      "Eolica": 3779.8221,
+      "Fotovoltaica": 3990.2673,
+      "Biomasa": 25.1742,
+      "Hidroelectrica": 2691.8299,
+      "Geotermoelectrica": 428.1427
+    },
+    {
+      "time": "2021/04/01 18:00",
+      "Total": 34527.5838,
+      "Eolica": 4052.189,
+      "Fotovoltaica": 3088.6811,
+      "Biomasa": 27.3599,
+      "Hidroelectrica": 3827.372,
+      "Geotermoelectrica": 428.0678
+    },
+    {
+      "time": "2021/04/01 19:00",
+      "Total": 34628.6046,
+      "Eolica": 4111.401,
+      "Fotovoltaica": 1103.3613,
+      "Biomasa": 26.4459,
+      "Hidroelectrica": 5044.1772,
+      "Geotermoelectrica": 428.5473
+    },
+    {
+      "time": "2021/04/01 20:00",
+      "Total": 35962.684,
+      "Eolica": 4132.6475,
+      "Fotovoltaica": 63.131,
+      "Biomasa": 26.2948,
+      "Hidroelectrica": 5618.3082,
+      "Geotermoelectrica": 432.0652
+    },
+    {
+      "time": "2021/04/01 21:00",
+      "Total": 36173.0847,
+      "Eolica": 3954.5162,
+      "Fotovoltaica": 0.0507,
+      "Biomasa": 26.4393,
+      "Hidroelectrica": 5273.3891,
+      "Geotermoelectrica": 433.4368
+    },
+    {
+      "time": "2021/04/01 22:00",
+      "Total": 35470.9515,
+      "Eolica": 4047.6162,
+      "Fotovoltaica": 0.0506,
+      "Biomasa": 26.1555,
+      "Hidroelectrica": 5267.7537,
+      "Geotermoelectrica": 433.9577
+    },
+    {
+      "time": "2021/04/01 23:00",
+      "Total": 34245.1014,
+      "Eolica": 4034.1789,
+      "Fotovoltaica": 0.0506,
+      "Biomasa": 26.765,
+      "Hidroelectrica": 4217.3164,
+      "Geotermoelectrica": 434.5895
+    },
+    {
+      "time": "2021/04/02 00:00",
+      "Total": 32835.835,
+      "Eolica": 3822.4439,
+      "Fotovoltaica": 0.0505,
+      "Biomasa": 27.319,
+      "Hidroelectrica": 3886.1925,
+      "Geotermoelectrica": 434.5189
+    },
+    {
+      "time": "2021/04/02 01:00",
+      "Total": 31325.0244,
+      "Eolica": 3327.9435,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 23.8333,
+      "Hidroelectrica": 3371.6014,
+      "Geotermoelectrica": 434.7737
+    },
+    {
+      "time": "2021/04/02 02:00",
+      "Total": 29960.1667,
+      "Eolica": 3299.0101,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 25.234,
+      "Hidroelectrica": 2915.2165,
+      "Geotermoelectrica": 435.5235
+    },
+    {
+      "time": "2021/04/02 03:00",
+      "Total": 28929.3074,
+      "Eolica": 3128.2266,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 25.2266,
+      "Hidroelectrica": 2435.7482,
+      "Geotermoelectrica": 435.586
+    },
+    {
+      "time": "2021/04/02 04:00",
+      "Total": 28429.7016,
+      "Eolica": 2983.503,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 24.9489,
+      "Hidroelectrica": 2291.6058,
+      "Geotermoelectrica": 436.1094
+    },
+    {
+      "time": "2021/04/02 05:00",
+      "Total": 28074.6421,
+      "Eolica": 3024.5922,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 26.5811,
+      "Hidroelectrica": 2051.4751,
+      "Geotermoelectrica": 434.1849
+    },
+    {
+      "time": "2021/04/02 06:00",
+      "Total": 27708.2088,
+      "Eolica": 3169.1132,
+      "Fotovoltaica": 0.0135,
+      "Biomasa": 22.814,
+      "Hidroelectrica": 1925.4144,
+      "Geotermoelectrica": 432.8886
+    },
+    {
+      "time": "2021/04/02 07:00",
+      "Total": 27331.0927,
+      "Eolica": 3223.3888,
+      "Fotovoltaica": 20.2802,
+      "Biomasa": 24.4451,
+      "Hidroelectrica": 1888.4601,
+      "Geotermoelectrica": 433.3104
+    },
+    {
+      "time": "2021/04/02 08:00",
+      "Total": 27120.9597,
+      "Eolica": 3197.9167,
+      "Fotovoltaica": 1004.6129,
+      "Biomasa": 26.1405,
+      "Hidroelectrica": 1780.2859,
+      "Geotermoelectrica": 433.1615
+    },
+    {
+      "time": "2021/04/02 09:00",
+      "Total": 28287.2313,
+      "Eolica": 3031.0183,
+      "Fotovoltaica": 2416.2135,
+      "Biomasa": 22.387,
+      "Hidroelectrica": 1866.5293,
+      "Geotermoelectrica": 432.5779
+    },
+    {
+      "time": "2021/04/02 10:00",
+      "Total": 28937.2877,
+      "Eolica": 3156.0832,
+      "Fotovoltaica": 2710.5051,
+      "Biomasa": 12.0873,
+      "Hidroelectrica": 1843.3089,
+      "Geotermoelectrica": 430.7344
+    },
+    {
+      "time": "2021/04/02 11:00",
+      "Total": 29461.1834,
+      "Eolica": 3078.3365,
+      "Fotovoltaica": 3390.7259,
+      "Biomasa": 12.0556,
+      "Hidroelectrica": 1926.6263,
+      "Geotermoelectrica": 430.8689
+    },
+    {
+      "time": "2021/04/02 12:00",
+      "Total": 29786.8885,
+      "Eolica": 3036.3275,
+      "Fotovoltaica": 3501.4586,
+      "Biomasa": 19.0906,
+      "Hidroelectrica": 2064.652,
+      "Geotermoelectrica": 436.5697
+    },
+    {
+      "time": "2021/04/02 13:00",
+      "Total": 30161.7114,
+      "Eolica": 2998.0318,
+      "Fotovoltaica": 3687.3618,
+      "Biomasa": 24.1925,
+      "Hidroelectrica": 2222.4284,
+      "Geotermoelectrica": 457.6147
+    },
+    {
+      "time": "2021/04/02 14:00",
+      "Total": 30206.3789,
+      "Eolica": 2992.6884,
+      "Fotovoltaica": 3301.0824,
+      "Biomasa": 25.0217,
+      "Hidroelectrica": 2346.6709,
+      "Geotermoelectrica": 472.6532
+    },
+    {
+      "time": "2021/04/02 15:00",
+      "Total": 30161.1894,
+      "Eolica": 2982.4656,
+      "Fotovoltaica": 3175.4292,
+      "Biomasa": 26.5127,
+      "Hidroelectrica": 2647.9172,
+      "Geotermoelectrica": 471.5893
+    },
+    {
+      "time": "2021/04/02 16:00",
+      "Total": 30238.3808,
+      "Eolica": 3065.5155,
+      "Fotovoltaica": 3064.8254,
+      "Biomasa": 26.7593,
+      "Hidroelectrica": 2744.7479,
+      "Geotermoelectrica": 471.4948
+    },
+    {
+      "time": "2021/04/02 17:00",
+      "Total": 30204.1898,
+      "Eolica": 3116.0684,
+      "Fotovoltaica": 2474.8814,
+      "Biomasa": 26.4523,
+      "Hidroelectrica": 2741.5675,
+      "Geotermoelectrica": 471.0079
+    },
+    {
+      "time": "2021/04/02 18:00",
+      "Total": 30355.5478,
+      "Eolica": 3183.3534,
+      "Fotovoltaica": 1931.9743,
+      "Biomasa": 24.9014,
+      "Hidroelectrica": 2961.5237,
+      "Geotermoelectrica": 470.6547
+    },
+    {
+      "time": "2021/04/02 19:00",
+      "Total": 30709.0078,
+      "Eolica": 3974.7133,
+      "Fotovoltaica": 973.3298,
+      "Biomasa": 24.9877,
+      "Hidroelectrica": 3096.3603,
+      "Geotermoelectrica": 471.6439
+    },
+    {
+      "time": "2021/04/02 20:00",
+      "Total": 32549.0011,
+      "Eolica": 4148.0095,
+      "Fotovoltaica": 73.8891,
+      "Biomasa": 25.0951,
+      "Hidroelectrica": 4161.2329,
+      "Geotermoelectrica": 478.4916
+    },
+    {
+      "time": "2021/04/02 21:00",
+      "Total": 32994.7034,
+      "Eolica": 4188.7862,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 25.4966,
+      "Hidroelectrica": 4541.6619,
+      "Geotermoelectrica": 493.584
+    },
+    {
+      "time": "2021/04/02 22:00",
+      "Total": 32269.4219,
+      "Eolica": 4208.4134,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 21.9916,
+      "Hidroelectrica": 4622.6032,
+      "Geotermoelectrica": 494.3952
+    },
+    {
+      "time": "2021/04/02 23:00",
+      "Total": 31267.4006,
+      "Eolica": 4205.8123,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 23.321,
+      "Hidroelectrica": 4338.3138,
+      "Geotermoelectrica": 495.2327
+    },
+    {
+      "time": "2021/04/03 00:00",
+      "Total": 30125.743,
+      "Eolica": 4423.342,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 24.4544,
+      "Hidroelectrica": 3681.6122,
+      "Geotermoelectrica": 496.8798
+    },
+    {
+      "time": "2021/04/03 01:00",
+      "Total": 28692.699,
+      "Eolica": 4467.9551,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 25.0034,
+      "Hidroelectrica": 3355.9343,
+      "Geotermoelectrica": 498.0783
+    },
+    {
+      "time": "2021/04/03 02:00",
+      "Total": 27796.9553,
+      "Eolica": 4262.8299,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 24.5879,
+      "Hidroelectrica": 3248.1406,
+      "Geotermoelectrica": 499.0857
+    },
+    {
+      "time": "2021/04/03 03:00",
+      "Total": 27292.4877,
+      "Eolica": 4087.6635,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 25.239,
+      "Hidroelectrica": 3119.2901,
+      "Geotermoelectrica": 500.1918
+    },
+    {
+      "time": "2021/04/03 04:00",
+      "Total": 26836.9083,
+      "Eolica": 3730.0093,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 23.0777,
+      "Hidroelectrica": 2859.1841,
+      "Geotermoelectrica": 500.8602
+    },
+    {
+      "time": "2021/04/03 05:00",
+      "Total": 26723.432,
+      "Eolica": 3732.4229,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 19.5623,
+      "Hidroelectrica": 2551.1829,
+      "Geotermoelectrica": 501.6482
+    },
+    {
+      "time": "2021/04/03 06:00",
+      "Total": 26785.8576,
+      "Eolica": 3719.1471,
+      "Fotovoltaica": 0.0312,
+      "Biomasa": 22.7841,
+      "Hidroelectrica": 2400.8811,
+      "Geotermoelectrica": 501.9057
+    },
+    {
+      "time": "2021/04/03 07:00",
+      "Total": 26956.3934,
+      "Eolica": 3458.1442,
+      "Fotovoltaica": 22.7596,
+      "Biomasa": 22.0721,
+      "Hidroelectrica": 2386.5644,
+      "Geotermoelectrica": 502.0497
+    },
+    {
+      "time": "2021/04/03 08:00",
+      "Total": 27558.4053,
+      "Eolica": 3526.6639,
+      "Fotovoltaica": 922.2211,
+      "Biomasa": 15.7676,
+      "Hidroelectrica": 2195.1185,
+      "Geotermoelectrica": 501.8092
+    },
+    {
+      "time": "2021/04/03 09:00",
+      "Total": 28462.0528,
+      "Eolica": 3546.9759,
+      "Fotovoltaica": 2943.5544,
+      "Biomasa": 20.6532,
+      "Hidroelectrica": 1732.4562,
+      "Geotermoelectrica": 501.3308
+    },
+    {
+      "time": "2021/04/03 10:00",
+      "Total": 29756.1931,
+      "Eolica": 4122.664,
+      "Fotovoltaica": 3683.2629,
+      "Biomasa": 22.6124,
+      "Hidroelectrica": 1909.0917,
+      "Geotermoelectrica": 501.008
+    },
+    {
+      "time": "2021/04/03 11:00",
+      "Total": 30296.6434,
+      "Eolica": 4189.0186,
+      "Fotovoltaica": 3911.9591,
+      "Biomasa": 25.6342,
+      "Hidroelectrica": 2275.3029,
+      "Geotermoelectrica": 508.3189
+    },
+    {
+      "time": "2021/04/03 12:00",
+      "Total": 30890.9865,
+      "Eolica": 4269.4868,
+      "Fotovoltaica": 4048.0768,
+      "Biomasa": 23.3694,
+      "Hidroelectrica": 2732.0353,
+      "Geotermoelectrica": 507.8359
+    },
+    {
+      "time": "2021/04/03 13:00",
+      "Total": 31154.994,
+      "Eolica": 4292.9096,
+      "Fotovoltaica": 4109.9309,
+      "Biomasa": 23.6102,
+      "Hidroelectrica": 2941.8183,
+      "Geotermoelectrica": 507.227
+    },
+    {
+      "time": "2021/04/03 14:00",
+      "Total": 31525.2818,
+      "Eolica": 4247.2982,
+      "Fotovoltaica": 4239.457,
+      "Biomasa": 23.3183,
+      "Hidroelectrica": 2938.262,
+      "Geotermoelectrica": 507.2199
+    },
+    {
+      "time": "2021/04/03 15:00",
+      "Total": 31376.172,
+      "Eolica": 4116.4582,
+      "Fotovoltaica": 4594.5419,
+      "Biomasa": 26.0502,
+      "Hidroelectrica": 2939.88,
+      "Geotermoelectrica": 508.2104
+    },
+    {
+      "time": "2021/04/03 16:00",
+      "Total": 31434.416,
+      "Eolica": 4297.164,
+      "Fotovoltaica": 3950.0272,
+      "Biomasa": 24.4888,
+      "Hidroelectrica": 2897.1902,
+      "Geotermoelectrica": 508.0113
+    },
+    {
+      "time": "2021/04/03 17:00",
+      "Total": 31506.3116,
+      "Eolica": 4523.4758,
+      "Fotovoltaica": 3580.8481,
+      "Biomasa": 22.5942,
+      "Hidroelectrica": 2722.5576,
+      "Geotermoelectrica": 511.0836
+    },
+    {
+      "time": "2021/04/03 18:00",
+      "Total": 31975.2609,
+      "Eolica": 4650.9968,
+      "Fotovoltaica": 2910.0857,
+      "Biomasa": 17.1761,
+      "Hidroelectrica": 3132.9923,
+      "Geotermoelectrica": 510.8739
+    },
+    {
+      "time": "2021/04/03 19:00",
+      "Total": 32722.1689,
+      "Eolica": 4734.1506,
+      "Fotovoltaica": 1157.6315,
+      "Biomasa": 21.9349,
+      "Hidroelectrica": 3797.9645,
+      "Geotermoelectrica": 513.7218
+    },
+    {
+      "time": "2021/04/03 20:00",
+      "Total": 34964.3507,
+      "Eolica": 4830.398,
+      "Fotovoltaica": 71.5884,
+      "Biomasa": 22.059,
+      "Hidroelectrica": 5067.3393,
+      "Geotermoelectrica": 514.0556
+    },
+    {
+      "time": "2021/04/03 21:00",
+      "Total": 35011.4487,
+      "Eolica": 4669.9358,
+      "Fotovoltaica": 0.0127,
+      "Biomasa": 19.829,
+      "Hidroelectrica": 5037.2163,
+      "Geotermoelectrica": 514.4401
+    },
+    {
+      "time": "2021/04/03 22:00",
+      "Total": 34219.8689,
+      "Eolica": 4590.9671,
+      "Fotovoltaica": 0.0126,
+      "Biomasa": 20.7278,
+      "Hidroelectrica": 4976.1984,
+      "Geotermoelectrica": 517.3526
+    },
+    {
+      "time": "2021/04/03 23:00",
+      "Total": 33010.4053,
+      "Eolica": 4367.1724,
+      "Fotovoltaica": 0.0127,
+      "Biomasa": 16.2471,
+      "Hidroelectrica": 4876.3448,
+      "Geotermoelectrica": 520.2259
+    },
+    {
+      "time": "2021/04/04 00:00",
+      "Total": 31027.4071,
+      "Eolica": 4196.7266,
+      "Fotovoltaica": 0.0126,
+      "Biomasa": 17.8816,
+      "Hidroelectrica": 4135.9059,
+      "Geotermoelectrica": 521.0642
+    },
+    {
+      "time": "2021/04/04 01:00",
+      "Total": 29449.3724,
+      "Eolica": 3998.4739,
+      "Fotovoltaica": 0.0127,
+      "Biomasa": 19.7102,
+      "Hidroelectrica": 3459.6267,
+      "Geotermoelectrica": 522.1559
+    },
+    {
+      "time": "2021/04/04 02:00",
+      "Total": 28181.1148,
+      "Eolica": 3730.875,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 22.2769,
+      "Hidroelectrica": 3149.6042,
+      "Geotermoelectrica": 522.2553
+    },
+    {
+      "time": "2021/04/04 03:00",
+      "Total": 27628.0219,
+      "Eolica": 3596.3786,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 21.7875,
+      "Hidroelectrica": 3184.1193,
+      "Geotermoelectrica": 522.7195
+    },
+    {
+      "time": "2021/04/04 04:00",
+      "Total": 27217.516,
+      "Eolica": 3674.5013,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 23.2098,
+      "Hidroelectrica": 2491.7256,
+      "Geotermoelectrica": 522.3416
+    },
+    {
+      "time": "2021/04/04 05:00",
+      "Total": 26890.342,
+      "Eolica": 3526.6134,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 23.3418,
+      "Hidroelectrica": 1738.5897,
+      "Geotermoelectrica": 522.9304
+    },
+    {
+      "time": "2021/04/04 06:00",
+      "Total": 27009.3745,
+      "Eolica": 3466.7127,
+      "Fotovoltaica": 0.0441,
+      "Biomasa": 24.159,
+      "Hidroelectrica": 1896.5354,
+      "Geotermoelectrica": 522.1725
+    },
+    {
+      "time": "2021/04/04 07:00",
+      "Total": 26782.0951,
+      "Eolica": 3340.5104,
+      "Fotovoltaica": 33.2751,
+      "Biomasa": 25.0755,
+      "Hidroelectrica": 1651.0632,
+      "Geotermoelectrica": 521.5752
+    },
+    {
+      "time": "2021/04/04 08:00",
+      "Total": 27018.4782,
+      "Eolica": 3223.7308,
+      "Fotovoltaica": 1008.3756,
+      "Biomasa": 23.0679,
+      "Hidroelectrica": 1326.3926,
+      "Geotermoelectrica": 520.3489
+    },
+    {
+      "time": "2021/04/04 09:00",
+      "Total": 27681.3864,
+      "Eolica": 3013.7022,
+      "Fotovoltaica": 2343.4163,
+      "Biomasa": 21.3416,
+      "Hidroelectrica": 1257.1561,
+      "Geotermoelectrica": 486.164
+    },
+    {
+      "time": "2021/04/04 10:00",
+      "Total": 28348.4152,
+      "Eolica": 3150.4641,
+      "Fotovoltaica": 2741.091,
+      "Biomasa": 21.22,
+      "Hidroelectrica": 1429.8554,
+      "Geotermoelectrica": 510.9581
+    },
+    {
+      "time": "2021/04/04 11:00",
+      "Total": 28802.0764,
+      "Eolica": 3238.4038,
+      "Fotovoltaica": 3046.4081,
+      "Biomasa": 22.1051,
+      "Hidroelectrica": 1927.679,
+      "Geotermoelectrica": 516.5325
+    },
+    {
+      "time": "2021/04/04 12:00",
+      "Total": 29310.849,
+      "Eolica": 3348.905,
+      "Fotovoltaica": 3384.1222,
+      "Biomasa": 24.5503,
+      "Hidroelectrica": 2096.2666,
+      "Geotermoelectrica": 514.6638
+    },
+    {
+      "time": "2021/04/04 13:00",
+      "Total": 29621.0014,
+      "Eolica": 3541.3551,
+      "Fotovoltaica": 3355.9988,
+      "Biomasa": 23.5135,
+      "Hidroelectrica": 2271.5199,
+      "Geotermoelectrica": 513.3236
+    },
+    {
+      "time": "2021/04/04 14:00",
+      "Total": 29914.0485,
+      "Eolica": 3612.9409,
+      "Fotovoltaica": 3572.4807,
+      "Biomasa": 10.7904,
+      "Hidroelectrica": 2495.2995,
+      "Geotermoelectrica": 513.1551
+    },
+    {
+      "time": "2021/04/04 15:00",
+      "Total": 29977.7666,
+      "Eolica": 3982.1996,
+      "Fotovoltaica": 3174.3324,
+      "Biomasa": 19.1969,
+      "Hidroelectrica": 2639.4131,
+      "Geotermoelectrica": 512.2975
+    },
+    {
+      "time": "2021/04/04 16:00",
+      "Total": 30261.5442,
+      "Eolica": 3987.0744,
+      "Fotovoltaica": 3690.3951,
+      "Biomasa": 23.1315,
+      "Hidroelectrica": 2741.7486,
+      "Geotermoelectrica": 512.674
+    },
+    {
+      "time": "2021/04/04 17:00",
+      "Total": 30522.6322,
+      "Eolica": 4274.2355,
+      "Fotovoltaica": 3664.4987,
+      "Biomasa": 23.784,
+      "Hidroelectrica": 2641.9807,
+      "Geotermoelectrica": 513.9777
+    },
+    {
+      "time": "2021/04/04 18:00",
+      "Total": 30941.2184,
+      "Eolica": 4705.0558,
+      "Fotovoltaica": 2770.2756,
+      "Biomasa": 18.3353,
+      "Hidroelectrica": 2758.2094,
+      "Geotermoelectrica": 514.3644
+    },
+    {
+      "time": "2021/04/04 19:00",
+      "Total": 31832.4075,
+      "Eolica": 4763.1364,
+      "Fotovoltaica": 1152.8182,
+      "Biomasa": 17.4979,
+      "Hidroelectrica": 3018.8373,
+      "Geotermoelectrica": 515.9828
+    },
+    {
+      "time": "2021/04/04 20:00",
+      "Total": 34556.5216,
+      "Eolica": 4572.5082,
+      "Fotovoltaica": 78.3231,
+      "Biomasa": 20.1082,
+      "Hidroelectrica": 4760.9062,
+      "Geotermoelectrica": 516.3808
+    },
+    {
+      "time": "2021/04/04 21:00",
+      "Total": 35326.9026,
+      "Eolica": 4349.319,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 23.4988,
+      "Hidroelectrica": 5294.9214,
+      "Geotermoelectrica": 519.5797
+    },
+    {
+      "time": "2021/04/04 22:00",
+      "Total": 34513.5483,
+      "Eolica": 4293.2275,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 20.3419,
+      "Hidroelectrica": 4927.7766,
+      "Geotermoelectrica": 521.2076
+    },
+    {
+      "time": "2021/04/04 23:00",
+      "Total": 32988.1505,
+      "Eolica": 4275.6556,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 12.8675,
+      "Hidroelectrica": 4428.938,
+      "Geotermoelectrica": 521.7985
+    },
+    {
+      "time": "2021/04/05 00:00",
+      "Total": 1307.1795,
+      "Eolica": 25.4508,
+      "Fotovoltaica": 0,
+      "Biomasa": 0,
+      "Hidroelectrica": 0,
+      "Geotermoelectrica": 283.581
+    },
+    {
+      "time": "2021/04/05 01:00",
+      "Total": 30840.6082,
+      "Eolica": 4395.5286,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 17.2644,
+      "Hidroelectrica": 3186.8421,
+      "Geotermoelectrica": 522.8959
+    },
+    {
+      "time": "2021/04/05 02:00",
+      "Total": 29694.9587,
+      "Eolica": 4284.4618,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 20.2783,
+      "Hidroelectrica": 2693.906,
+      "Geotermoelectrica": 523.4734
+    },
+    {
+      "time": "2021/04/05 03:00",
+      "Total": 28832.9653,
+      "Eolica": 4124.6553,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 22.043,
+      "Hidroelectrica": 2407.6213,
+      "Geotermoelectrica": 524.0636
+    },
+    {
+      "time": "2021/04/05 04:00",
+      "Total": 28464.6685,
+      "Eolica": 4056.677,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 24.1713,
+      "Hidroelectrica": 2291.707,
+      "Geotermoelectrica": 523.9453
+    },
+    {
+      "time": "2021/04/05 05:00",
+      "Total": 28256.0635,
+      "Eolica": 3730.6326,
+      "Fotovoltaica": 0.0009,
+      "Biomasa": 22.8812,
+      "Hidroelectrica": 2424.2838,
+      "Geotermoelectrica": 524.851
+    },
+    {
+      "time": "2021/04/05 06:00",
+      "Total": 28606.0646,
+      "Eolica": 3742.2402,
+      "Fotovoltaica": 0.0239,
+      "Biomasa": 21.9475,
+      "Hidroelectrica": 2296.7717,
+      "Geotermoelectrica": 523.4023
+    },
+    {
+      "time": "2021/04/05 07:00",
+      "Total": 30026.2062,
+      "Eolica": 3488.0427,
+      "Fotovoltaica": 2.0891,
+      "Biomasa": 24.2943,
+      "Hidroelectrica": 2430.795,
+      "Geotermoelectrica": 521.759
+    },
+    {
+      "time": "2021/04/05 08:00",
+      "Total": 31883.5331,
+      "Eolica": 3331.5351,
+      "Fotovoltaica": 73.7961,
+      "Biomasa": 22.414,
+      "Hidroelectrica": 2544.7998,
+      "Geotermoelectrica": 523.2879
+    },
+    {
+      "time": "2021/04/05 09:00",
+      "Total": 33452.1391,
+      "Eolica": 3216.8032,
+      "Fotovoltaica": 1369.1354,
+      "Biomasa": 23.8078,
+      "Hidroelectrica": 3013.2409,
+      "Geotermoelectrica": 521.4928
+    },
+    {
+      "time": "2021/04/05 10:00",
+      "Total": 34916.1304,
+      "Eolica": 3217.3568,
+      "Fotovoltaica": 3728.5959,
+      "Biomasa": 24.8502,
+      "Hidroelectrica": 2583.1252,
+      "Geotermoelectrica": 517.2925
+    },
+    {
+      "time": "2021/04/05 11:00",
+      "Total": 35460.7654,
+      "Eolica": 3435.6262,
+      "Fotovoltaica": 4891.683,
+      "Biomasa": 23.5356,
+      "Hidroelectrica": 2591.5925,
+      "Geotermoelectrica": 513.4649
+    },
+    {
+      "time": "2021/04/05 12:00",
+      "Total": 36350.5671,
+      "Eolica": 3674.8633,
+      "Fotovoltaica": 5038.7403,
+      "Biomasa": 23.9408,
+      "Hidroelectrica": 2926.7496,
+      "Geotermoelectrica": 511.0137
+    },
+    {
+      "time": "2021/04/05 13:00",
+      "Total": 37159.8376,
+      "Eolica": 3964.4996,
+      "Fotovoltaica": 5101.7907,
+      "Biomasa": 22.1206,
+      "Hidroelectrica": 2726.9645,
+      "Geotermoelectrica": 507.4873
+    },
+    {
+      "time": "2021/04/05 14:00",
+      "Total": 37676.4094,
+      "Eolica": 4290.7547,
+      "Fotovoltaica": 5169.8571,
+      "Biomasa": 24.9283,
+      "Hidroelectrica": 2771.8939,
+      "Geotermoelectrica": 502.3332
+    },
+    {
+      "time": "2021/04/05 15:00",
+      "Total": 38152.8399,
+      "Eolica": 4492.8405,
+      "Fotovoltaica": 4775.0102,
+      "Biomasa": 21.875,
+      "Hidroelectrica": 3261.1352,
+      "Geotermoelectrica": 513.6667
+    },
+    {
+      "time": "2021/04/05 16:00",
+      "Total": 38724.029,
+      "Eolica": 4648.1397,
+      "Fotovoltaica": 4363.3202,
+      "Biomasa": 23.7403,
+      "Hidroelectrica": 4024.9998,
+      "Geotermoelectrica": 511.0159
+    },
+    {
+      "time": "2021/04/05 17:00",
+      "Total": 38961.4208,
+      "Eolica": 4901.2349,
+      "Fotovoltaica": 3837.6677,
+      "Biomasa": 23.2775,
+      "Hidroelectrica": 4619.2277,
+      "Geotermoelectrica": 512.145
+    },
+    {
+      "time": "2021/04/05 18:00",
+      "Total": 38877.0963,
+      "Eolica": 5063.6231,
+      "Fotovoltaica": 2934.5165,
+      "Biomasa": 23.4622,
+      "Hidroelectrica": 4903.6523,
+      "Geotermoelectrica": 513.6504
+    },
+    {
+      "time": "2021/04/05 19:00",
+      "Total": 38113.3893,
+      "Eolica": 5103.4763,
+      "Fotovoltaica": 1587.2729,
+      "Biomasa": 23.8305,
+      "Hidroelectrica": 4982.3212,
+      "Geotermoelectrica": 515.6693
+    },
+    {
+      "time": "2021/04/05 20:00",
+      "Total": 38082.9557,
+      "Eolica": 5191.901,
+      "Fotovoltaica": 615.3697,
+      "Biomasa": 22.897,
+      "Hidroelectrica": 5530.4093,
+      "Geotermoelectrica": 517.544
+    },
+    {
+      "time": "2021/04/05 21:00",
+      "Total": 39393.5775,
+      "Eolica": 4953.6868,
+      "Fotovoltaica": 51.8843,
+      "Biomasa": 23.2363,
+      "Hidroelectrica": 6822.8448,
+      "Geotermoelectrica": 518.8218
+    },
+    {
+      "time": "2021/04/05 22:00",
+      "Total": 39376.6668,
+      "Eolica": 4454.8446,
+      "Fotovoltaica": 0.0009,
+      "Biomasa": 22.8679,
+      "Hidroelectrica": 6609.4912,
+      "Geotermoelectrica": 519.2655
+    },
+    {
+      "time": "2021/04/05 23:00",
+      "Total": 38790.5359,
+      "Eolica": 4590.7309,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 22.6607,
+      "Hidroelectrica": 6001.0215,
+      "Geotermoelectrica": 523.316
+    },
+    {
+      "time": "2021/04/06 00:00",
+      "Total": 37128.9713,
+      "Eolica": 4575.0564,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 19.8384,
+      "Hidroelectrica": 4662.7988,
+      "Geotermoelectrica": 522.1772
+    },
+    {
+      "time": "2021/04/06 01:00",
+      "Total": 35297.4233,
+      "Eolica": 4237.3952,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 22.5916,
+      "Hidroelectrica": 4061.8441,
+      "Geotermoelectrica": 521.9819
+    },
+    {
+      "time": "2021/04/06 02:00",
+      "Total": 33837.3624,
+      "Eolica": 3731.0078,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 21.9468,
+      "Hidroelectrica": 3311.0968,
+      "Geotermoelectrica": 523.6289
+    },
+    {
+      "time": "2021/04/06 03:00",
+      "Total": 32845.1874,
+      "Eolica": 3465.5606,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 21.7215,
+      "Hidroelectrica": 2713.5896,
+      "Geotermoelectrica": 524.127
+    },
+    {
+      "time": "2021/04/06 04:00",
+      "Total": 32166.2691,
+      "Eolica": 3405.1721,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 22.9968,
+      "Hidroelectrica": 2136.6765,
+      "Geotermoelectrica": 522.0971
+    },
+    {
+      "time": "2021/04/06 05:00",
+      "Total": 31986.368,
+      "Eolica": 3368.2183,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 25.3722,
+      "Hidroelectrica": 1907.7607,
+      "Geotermoelectrica": 522.0365
+    },
+    {
+      "time": "2021/04/06 06:00",
+      "Total": 32231.6694,
+      "Eolica": 3131.598,
+      "Fotovoltaica": 0.0236,
+      "Biomasa": 24.1088,
+      "Hidroelectrica": 2065.9326,
+      "Geotermoelectrica": 523.6491
+    },
+    {
+      "time": "2021/04/06 07:00",
+      "Total": 33050.5613,
+      "Eolica": 2915.381,
+      "Fotovoltaica": 1.4806,
+      "Biomasa": 22.0735,
+      "Hidroelectrica": 2451.4451,
+      "Geotermoelectrica": 524.9675
+    },
+    {
+      "time": "2021/04/06 08:00",
+      "Total": 34374.8798,
+      "Eolica": 2916.0146,
+      "Fotovoltaica": 75.3226,
+      "Biomasa": 20.5767,
+      "Hidroelectrica": 2875.5731,
+      "Geotermoelectrica": 524.488
+    },
+    {
+      "time": "2021/04/06 09:00",
+      "Total": 35452.0122,
+      "Eolica": 2544.1689,
+      "Fotovoltaica": 1636.117,
+      "Biomasa": 21.7137,
+      "Hidroelectrica": 2546.7414,
+      "Geotermoelectrica": 522.9309
+    },
+    {
+      "time": "2021/04/06 10:00",
+      "Total": 36647.3371,
+      "Eolica": 2409.2614,
+      "Fotovoltaica": 3919.5318,
+      "Biomasa": 21.3348,
+      "Hidroelectrica": 2722.8164,
+      "Geotermoelectrica": 518.5641
+    },
+    {
+      "time": "2021/04/06 11:00",
+      "Total": 37350.7963,
+      "Eolica": 2573.9675,
+      "Fotovoltaica": 4594.3227,
+      "Biomasa": 23.3927,
+      "Hidroelectrica": 3346.2882,
+      "Geotermoelectrica": 518.1282
+    },
+    {
+      "time": "2021/04/06 12:00",
+      "Total": 37745.1495,
+      "Eolica": 2505.4985,
+      "Fotovoltaica": 4831.6218,
+      "Biomasa": 22.5591,
+      "Hidroelectrica": 3318.0496,
+      "Geotermoelectrica": 516.8613
+    },
+    {
+      "time": "2021/04/06 13:00",
+      "Total": 38705.4249,
+      "Eolica": 2313.9023,
+      "Fotovoltaica": 4932.2623,
+      "Biomasa": 23.1371,
+      "Hidroelectrica": 3742.7641,
+      "Geotermoelectrica": 516.1693
+    },
+    {
+      "time": "2021/04/06 14:00",
+      "Total": 39089.1904,
+      "Eolica": 2210.5701,
+      "Fotovoltaica": 4720.6825,
+      "Biomasa": 24.1251,
+      "Hidroelectrica": 4172.0705,
+      "Geotermoelectrica": 516.8731
+    },
+    {
+      "time": "2021/04/06 15:00",
+      "Total": 39439.9671,
+      "Eolica": 2276.2686,
+      "Fotovoltaica": 4564.589,
+      "Biomasa": 21.3402,
+      "Hidroelectrica": 4455.6671,
+      "Geotermoelectrica": 517.9085
+    },
+    {
+      "time": "2021/04/06 16:00",
+      "Total": 40019.2879,
+      "Eolica": 2541.1676,
+      "Fotovoltaica": 4119.502,
+      "Biomasa": 16.9389,
+      "Hidroelectrica": 5003.1108,
+      "Geotermoelectrica": 516.123
+    },
+    {
+      "time": "2021/04/06 17:00",
+      "Total": 40496.5211,
+      "Eolica": 2534.6797,
+      "Fotovoltaica": 3817.6681,
+      "Biomasa": 23.7798,
+      "Hidroelectrica": 5584.4012,
+      "Geotermoelectrica": 516.4159
+    },
+    {
+      "time": "2021/04/06 18:00",
+      "Total": 40166.3932,
+      "Eolica": 2623.6745,
+      "Fotovoltaica": 3351.8085,
+      "Biomasa": 24.6043,
+      "Hidroelectrica": 5257.2644,
+      "Geotermoelectrica": 516.714
+    },
+    {
+      "time": "2021/04/06 19:00",
+      "Total": 39316.0479,
+      "Eolica": 2861.8502,
+      "Fotovoltaica": 2581.341,
+      "Biomasa": 22.0206,
+      "Hidroelectrica": 4716.2468,
+      "Geotermoelectrica": 517.7984
+    },
+    {
+      "time": "2021/04/06 20:00",
+      "Total": 39195.7579,
+      "Eolica": 2903.3068,
+      "Fotovoltaica": 925.4208,
+      "Biomasa": 23.305,
+      "Hidroelectrica": 5483.4581,
+      "Geotermoelectrica": 518.884
+    },
+    {
+      "time": "2021/04/06 21:00",
+      "Total": 40341.6358,
+      "Eolica": 2957.0703,
+      "Fotovoltaica": 24.9695,
+      "Biomasa": 22.6261,
+      "Hidroelectrica": 6805.1871,
+      "Geotermoelectrica": 519.3093
+    },
+    {
+      "time": "2021/04/06 22:00",
+      "Total": 40668.687,
+      "Eolica": 2966.3614,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 19.319,
+      "Hidroelectrica": 6955.2165,
+      "Geotermoelectrica": 520.3895
+    },
+    {
+      "time": "2021/04/06 23:00",
+      "Total": 39985.4582,
+      "Eolica": 2990.4575,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 21.1694,
+      "Hidroelectrica": 6108.0309,
+      "Geotermoelectrica": 520.8328
+    },
+    {
+      "time": "2021/04/07 00:00",
+      "Total": 38360.3205,
+      "Eolica": 3081.0296,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 21.9058,
+      "Hidroelectrica": 4245.4867,
+      "Geotermoelectrica": 521.1188
+    },
+    {
+      "time": "2021/04/07 01:00",
+      "Total": 36481.1132,
+      "Eolica": 3025.7676,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 22.0664,
+      "Hidroelectrica": 3522.8565,
+      "Geotermoelectrica": 519.913
+    },
+    {
+      "time": "2021/04/07 02:00",
+      "Total": 34976.6958,
+      "Eolica": 2911.5292,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 20.6365,
+      "Hidroelectrica": 2919.261,
+      "Geotermoelectrica": 521.8877
+    },
+    {
+      "time": "2021/04/07 03:00",
+      "Total": 34019.5133,
+      "Eolica": 2877.7594,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 20.9121,
+      "Hidroelectrica": 2335.3373,
+      "Geotermoelectrica": 523.0218
+    },
+    {
+      "time": "2021/04/07 04:00",
+      "Total": 33284.1325,
+      "Eolica": 2889.1753,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 17.9005,
+      "Hidroelectrica": 2313.7679,
+      "Geotermoelectrica": 504.9019
+    },
+    {
+      "time": "2021/04/07 05:00",
+      "Total": 33054.1545,
+      "Eolica": 2920.5452,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 22.6385,
+      "Hidroelectrica": 2040.3205,
+      "Geotermoelectrica": 500.8349
+    },
+    {
+      "time": "2021/04/07 06:00",
+      "Total": 33168.3062,
+      "Eolica": 2900.984,
+      "Fotovoltaica": 0.0381,
+      "Biomasa": 22.0991,
+      "Hidroelectrica": 2044.7314,
+      "Geotermoelectrica": 501.1929
+    },
+    {
+      "time": "2021/04/07 07:00",
+      "Total": 33858.6351,
+      "Eolica": 2874.0008,
+      "Fotovoltaica": 1.5775,
+      "Biomasa": 22.4233,
+      "Hidroelectrica": 2497.7654,
+      "Geotermoelectrica": 501.0531
+    },
+    {
+      "time": "2021/04/07 08:00",
+      "Total": 34896.9471,
+      "Eolica": 2903.9904,
+      "Fotovoltaica": 78.6546,
+      "Biomasa": 22.7358,
+      "Hidroelectrica": 2925.6239,
+      "Geotermoelectrica": 501.4481
+    },
+    {
+      "time": "2021/04/07 09:00",
+      "Total": 36247.4062,
+      "Eolica": 2887.1429,
+      "Fotovoltaica": 1895.085,
+      "Biomasa": 20.6275,
+      "Hidroelectrica": 2728.26,
+      "Geotermoelectrica": 498.3966
+    },
+    {
+      "time": "2021/04/07 10:00",
+      "Total": 37579.1189,
+      "Eolica": 2630.1789,
+      "Fotovoltaica": 4390.2244,
+      "Biomasa": 22.6701,
+      "Hidroelectrica": 2399.7882,
+      "Geotermoelectrica": 492.7277
+    },
+    {
+      "time": "2021/04/07 11:00",
+      "Total": 38359.0626,
+      "Eolica": 2362.2696,
+      "Fotovoltaica": 4976.7223,
+      "Biomasa": 18.6835,
+      "Hidroelectrica": 3472.2042,
+      "Geotermoelectrica": 493.3274
+    },
+    {
+      "time": "2021/04/07 12:00",
+      "Total": 38898.9505,
+      "Eolica": 1832.6484,
+      "Fotovoltaica": 5241.6386,
+      "Biomasa": 21.9061,
+      "Hidroelectrica": 3798.6136,
+      "Geotermoelectrica": 490.5147
+    },
+    {
+      "time": "2021/04/07 13:00",
+      "Total": 39644.2711,
+      "Eolica": 1259.6655,
+      "Fotovoltaica": 5296.2043,
+      "Biomasa": 18.5859,
+      "Hidroelectrica": 4246.5236,
+      "Geotermoelectrica": 489.0397
+    },
+    {
+      "time": "2021/04/07 14:00",
+      "Total": 40338.1103,
+      "Eolica": 1175.2293,
+      "Fotovoltaica": 5344.3143,
+      "Biomasa": 20.0088,
+      "Hidroelectrica": 4321.7065,
+      "Geotermoelectrica": 487.7372
+    },
+    {
+      "time": "2021/04/07 15:00",
+      "Total": 40593.5899,
+      "Eolica": 1181.8002,
+      "Fotovoltaica": 5258.2455,
+      "Biomasa": 21.4986,
+      "Hidroelectrica": 4593.7864,
+      "Geotermoelectrica": 488.462
+    },
+    {
+      "time": "2021/04/07 16:00",
+      "Total": 41142.0571,
+      "Eolica": 1431.7815,
+      "Fotovoltaica": 5049.9865,
+      "Biomasa": 18.802,
+      "Hidroelectrica": 4735.8589,
+      "Geotermoelectrica": 487.1239
+    },
+    {
+      "time": "2021/04/07 17:00",
+      "Total": 41284.5177,
+      "Eolica": 1767.0701,
+      "Fotovoltaica": 4902.8032,
+      "Biomasa": 17.3945,
+      "Hidroelectrica": 4536.7182,
+      "Geotermoelectrica": 488.6465
+    },
+    {
+      "time": "2021/04/07 18:00",
+      "Total": 40980.8216,
+      "Eolica": 1911.9963,
+      "Fotovoltaica": 4368.5287,
+      "Biomasa": 10.8209,
+      "Hidroelectrica": 4361.022,
+      "Geotermoelectrica": 489.7454
+    },
+    {
+      "time": "2021/04/07 19:00",
+      "Total": 40182.232,
+      "Eolica": 1465.8554,
+      "Fotovoltaica": 3536.5086,
+      "Biomasa": 16.5748,
+      "Hidroelectrica": 4766.634,
+      "Geotermoelectrica": 490.0736
+    },
+    {
+      "time": "2021/04/07 20:00",
+      "Total": 40023.4762,
+      "Eolica": 1412.6584,
+      "Fotovoltaica": 1334.375,
+      "Biomasa": 20.7361,
+      "Hidroelectrica": 6247.518,
+      "Geotermoelectrica": 491.0497
+    },
+    {
+      "time": "2021/04/07 21:00",
+      "Total": 41481.0015,
+      "Eolica": 1580.5333,
+      "Fotovoltaica": 75.9114,
+      "Biomasa": 20.7652,
+      "Hidroelectrica": 7862.122,
+      "Geotermoelectrica": 493.3443
+    },
+    {
+      "time": "2021/04/07 22:00",
+      "Total": 41410.1782,
+      "Eolica": 1431.4392,
+      "Fotovoltaica": 0.0117,
+      "Biomasa": 17.2596,
+      "Hidroelectrica": 7681.5501,
+      "Geotermoelectrica": 494.1243
+    },
+    {
+      "time": "2021/04/07 23:00",
+      "Total": 40834.9603,
+      "Eolica": 1243.3091,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 20.7026,
+      "Hidroelectrica": 7408.94,
+      "Geotermoelectrica": 494.6223
+    },
+    {
+      "time": "2021/04/08 00:00",
+      "Total": 39695.729,
+      "Eolica": 1353.2429,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 21.1239,
+      "Hidroelectrica": 6160.3711,
+      "Geotermoelectrica": 494.7011
+    },
+    {
+      "time": "2021/04/08 01:00",
+      "Total": 38009.4648,
+      "Eolica": 1339.7028,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 21.6084,
+      "Hidroelectrica": 4533.5906,
+      "Geotermoelectrica": 494.9652
+    },
+    {
+      "time": "2021/04/08 02:00",
+      "Total": 36560.8198,
+      "Eolica": 1136.8723,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 20.6777,
+      "Hidroelectrica": 3454.8379,
+      "Geotermoelectrica": 494.862
+    },
+    {
+      "time": "2021/04/08 03:00",
+      "Total": 35459.5225,
+      "Eolica": 1119.3019,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 21.0845,
+      "Hidroelectrica": 2297.4722,
+      "Geotermoelectrica": 492.9044
+    },
+    {
+      "time": "2021/04/08 04:00",
+      "Total": 34485.7194,
+      "Eolica": 981.2553,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 22.6683,
+      "Hidroelectrica": 1954.6147,
+      "Geotermoelectrica": 502.6519
+    },
+    {
+      "time": "2021/04/08 05:00",
+      "Total": 34267.8828,
+      "Eolica": 774.066,
+      "Fotovoltaica": 0.0028,
+      "Biomasa": 21.8625,
+      "Hidroelectrica": 1883.893,
+      "Geotermoelectrica": 507.9486
+    },
+    {
+      "time": "2021/04/08 06:00",
+      "Total": 34231.6244,
+      "Eolica": 683.3498,
+      "Fotovoltaica": 0.0081,
+      "Biomasa": 22.4852,
+      "Hidroelectrica": 2094.0343,
+      "Geotermoelectrica": 515.9059
+    },
+    {
+      "time": "2021/04/08 07:00",
+      "Total": 34880.2011,
+      "Eolica": 504.4182,
+      "Fotovoltaica": 2.8577,
+      "Biomasa": 22.5223,
+      "Hidroelectrica": 2749.5228,
+      "Geotermoelectrica": 517.6684
+    },
+    {
+      "time": "2021/04/08 08:00",
+      "Total": 35867.951,
+      "Eolica": 393.3883,
+      "Fotovoltaica": 89.3279,
+      "Biomasa": 22.7119,
+      "Hidroelectrica": 3399.8891,
+      "Geotermoelectrica": 514.9145
+    },
+    {
+      "time": "2021/04/08 09:00",
+      "Total": 36967.4663,
+      "Eolica": 299.5209,
+      "Fotovoltaica": 1965.2262,
+      "Biomasa": 22.7771,
+      "Hidroelectrica": 2790.7749,
+      "Geotermoelectrica": 515.9496
+    },
+    {
+      "time": "2021/04/08 10:00",
+      "Total": 38156.0026,
+      "Eolica": 328.5802,
+      "Fotovoltaica": 4308.8636,
+      "Biomasa": 25.5348,
+      "Hidroelectrica": 2760.2087,
+      "Geotermoelectrica": 511.9465
+    },
+    {
+      "time": "2021/04/08 11:00",
+      "Total": 38792.1698,
+      "Eolica": 348.6383,
+      "Fotovoltaica": 4912.8949,
+      "Biomasa": 20.5422,
+      "Hidroelectrica": 4339.1951,
+      "Geotermoelectrica": 510.7992
+    },
+    {
+      "time": "2021/04/08 12:00",
+      "Total": 39818.5621,
+      "Eolica": 355.7565,
+      "Fotovoltaica": 5164.4542,
+      "Biomasa": 14.3501,
+      "Hidroelectrica": 4226.1938,
+      "Geotermoelectrica": 510.9425
+    },
+    {
+      "time": "2021/04/08 13:00",
+      "Total": 40681.6658,
+      "Eolica": 406.3937,
+      "Fotovoltaica": 5186.1871,
+      "Biomasa": 10.4062,
+      "Hidroelectrica": 4022.8047,
+      "Geotermoelectrica": 510.6585
+    },
+    {
+      "time": "2021/04/08 14:00",
+      "Total": 41168.2277,
+      "Eolica": 577.0491,
+      "Fotovoltaica": 5153.1279,
+      "Biomasa": 17.5528,
+      "Hidroelectrica": 4556.6543,
+      "Geotermoelectrica": 511.4342
+    },
+    {
+      "time": "2021/04/08 15:00",
+      "Total": 41563.346,
+      "Eolica": 865.919,
+      "Fotovoltaica": 4785.7431,
+      "Biomasa": 25.1693,
+      "Hidroelectrica": 4447.9728,
+      "Geotermoelectrica": 509.6835
+    },
+    {
+      "time": "2021/04/08 16:00",
+      "Total": 42122.9744,
+      "Eolica": 1287.2827,
+      "Fotovoltaica": 4613.1758,
+      "Biomasa": 19.5266,
+      "Hidroelectrica": 3841.6988,
+      "Geotermoelectrica": 505.4946
+    },
+    {
+      "time": "2021/04/08 17:00",
+      "Total": 42330.8965,
+      "Eolica": 1663.3173,
+      "Fotovoltaica": 3961.6495,
+      "Biomasa": 22.3736,
+      "Hidroelectrica": 4094.1043,
+      "Geotermoelectrica": 508.8394
+    },
+    {
+      "time": "2021/04/08 18:00",
+      "Total": 42072.9608,
+      "Eolica": 2002.3807,
+      "Fotovoltaica": 3576.8945,
+      "Biomasa": 20.9674,
+      "Hidroelectrica": 4027.5713,
+      "Geotermoelectrica": 509.3667
+    },
+    {
+      "time": "2021/04/08 19:00",
+      "Total": 41360.3652,
+      "Eolica": 2262.159,
+      "Fotovoltaica": 3178.6378,
+      "Biomasa": 21.0645,
+      "Hidroelectrica": 3479.8166,
+      "Geotermoelectrica": 512.8505
+    },
+    {
+      "time": "2021/04/08 20:00",
+      "Total": 41388.8911,
+      "Eolica": 2533.7896,
+      "Fotovoltaica": 1389.4404,
+      "Biomasa": 22.147,
+      "Hidroelectrica": 4649.4796,
+      "Geotermoelectrica": 515.8272
+    },
+    {
+      "time": "2021/04/08 21:00",
+      "Total": 42835.7161,
+      "Eolica": 2821.9501,
+      "Fotovoltaica": 94.4338,
+      "Biomasa": 19.7386,
+      "Hidroelectrica": 6468.2903,
+      "Geotermoelectrica": 515.9435
+    },
+    {
+      "time": "2021/04/08 22:00",
+      "Total": 42943.3379,
+      "Eolica": 2673.4269,
+      "Fotovoltaica": 0.0563,
+      "Biomasa": 19.0726,
+      "Hidroelectrica": 6657.8173,
+      "Geotermoelectrica": 518.1014
+    },
+    {
+      "time": "2021/04/08 23:00",
+      "Total": 42208.1579,
+      "Eolica": 2519.8899,
+      "Fotovoltaica": 0.0563,
+      "Biomasa": 20.4737,
+      "Hidroelectrica": 6426.8592,
+      "Geotermoelectrica": 518.6639
+    },
+    {
+      "time": "2021/04/09 00:00",
+      "Total": 40945.2623,
+      "Eolica": 2221.9617,
+      "Fotovoltaica": 0.0562,
+      "Biomasa": 19.4526,
+      "Hidroelectrica": 5531.9621,
+      "Geotermoelectrica": 518.8152
+    },
+    {
+      "time": "2021/04/09 01:00",
+      "Total": 39098.164,
+      "Eolica": 2390.3409,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 20.5038,
+      "Hidroelectrica": 4473.0984,
+      "Geotermoelectrica": 511.8982
+    },
+    {
+      "time": "2021/04/09 02:00",
+      "Total": 37640.1645,
+      "Eolica": 2630.3149,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 20.204,
+      "Hidroelectrica": 3434.0986,
+      "Geotermoelectrica": 512.3543
+    },
+    {
+      "time": "2021/04/09 03:00",
+      "Total": 36449.0982,
+      "Eolica": 2498.2137,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 21.708,
+      "Hidroelectrica": 2810.5586,
+      "Geotermoelectrica": 514.3846
+    },
+    {
+      "time": "2021/04/09 04:00",
+      "Total": 35475.5298,
+      "Eolica": 2254.1627,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 12.6987,
+      "Hidroelectrica": 2787.6437,
+      "Geotermoelectrica": 516.947
+    },
+    {
+      "time": "2021/04/09 05:00",
+      "Total": 35073.4628,
+      "Eolica": 1839.8761,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 17.0061,
+      "Hidroelectrica": 3046.6769,
+      "Geotermoelectrica": 516.8156
+    },
+    {
+      "time": "2021/04/09 06:00",
+      "Total": 35053.3138,
+      "Eolica": 2162.8243,
+      "Fotovoltaica": 0.0235,
+      "Biomasa": 19.4624,
+      "Hidroelectrica": 2726.5401,
+      "Geotermoelectrica": 516.9892
+    },
+    {
+      "time": "2021/04/09 07:00",
+      "Total": 35596.9729,
+      "Eolica": 2365.7003,
+      "Fotovoltaica": 2.2476,
+      "Biomasa": 22.0623,
+      "Hidroelectrica": 2620.4025,
+      "Geotermoelectrica": 517.1682
+    },
+    {
+      "time": "2021/04/09 08:00",
+      "Total": 36419.2871,
+      "Eolica": 2239.3163,
+      "Fotovoltaica": 92.4025,
+      "Biomasa": 23.3495,
+      "Hidroelectrica": 3272.0422,
+      "Geotermoelectrica": 516.5598
+    },
+    {
+      "time": "2021/04/09 09:00",
+      "Total": 37384.5653,
+      "Eolica": 2444.9234,
+      "Fotovoltaica": 2062.8183,
+      "Biomasa": 22.9466,
+      "Hidroelectrica": 2516.0072,
+      "Geotermoelectrica": 508.973
+    },
+    {
+      "time": "2021/04/09 10:00",
+      "Total": 38684.5201,
+      "Eolica": 2435.0341,
+      "Fotovoltaica": 4942.8187,
+      "Biomasa": 23.9049,
+      "Hidroelectrica": 2641.863,
+      "Geotermoelectrica": 505.498
+    },
+    {
+      "time": "2021/04/09 11:00",
+      "Total": 39523.3729,
+      "Eolica": 2562.7911,
+      "Fotovoltaica": 5752.5214,
+      "Biomasa": 19.819,
+      "Hidroelectrica": 2890.8758,
+      "Geotermoelectrica": 510.6158
+    },
+    {
+      "time": "2021/04/09 12:00",
+      "Total": 40252.8675,
+      "Eolica": 2775.2925,
+      "Fotovoltaica": 5956.8446,
+      "Biomasa": 20.3127,
+      "Hidroelectrica": 3114.5092,
+      "Geotermoelectrica": 512.3189
+    },
+    {
+      "time": "2021/04/09 13:00",
+      "Total": 41123.0888,
+      "Eolica": 2625.949,
+      "Fotovoltaica": 6041.2588,
+      "Biomasa": 22.036,
+      "Hidroelectrica": 3504.5624,
+      "Geotermoelectrica": 512.88
+    },
+    {
+      "time": "2021/04/09 14:00",
+      "Total": 41543.773,
+      "Eolica": 2415.8795,
+      "Fotovoltaica": 5914.0163,
+      "Biomasa": 21.5845,
+      "Hidroelectrica": 3639.0118,
+      "Geotermoelectrica": 513.2095
+    },
+    {
+      "time": "2021/04/09 15:00",
+      "Total": 42071.5654,
+      "Eolica": 2484.2917,
+      "Fotovoltaica": 5716.7223,
+      "Biomasa": 19.9811,
+      "Hidroelectrica": 3781.7296,
+      "Geotermoelectrica": 512.6152
+    },
+    {
+      "time": "2021/04/09 16:00",
+      "Total": 42615.0409,
+      "Eolica": 2556.4114,
+      "Fotovoltaica": 5594.0751,
+      "Biomasa": 19.018,
+      "Hidroelectrica": 3948.4452,
+      "Geotermoelectrica": 510.5489
+    },
+    {
+      "time": "2021/04/09 17:00",
+      "Total": 42700.9066,
+      "Eolica": 2529.3804,
+      "Fotovoltaica": 5469.3075,
+      "Biomasa": 22.1604,
+      "Hidroelectrica": 4572.0445,
+      "Geotermoelectrica": 512.1381
+    },
+    {
+      "time": "2021/04/09 18:00",
+      "Total": 42188.0018,
+      "Eolica": 2494.7825,
+      "Fotovoltaica": 5134.9684,
+      "Biomasa": 18.8826,
+      "Hidroelectrica": 4076.277,
+      "Geotermoelectrica": 511.868
+    },
+    {
+      "time": "2021/04/09 19:00",
+      "Total": 41426.2449,
+      "Eolica": 2471.835,
+      "Fotovoltaica": 4193.8042,
+      "Biomasa": 21.6542,
+      "Hidroelectrica": 3783.4143,
+      "Geotermoelectrica": 513.0463
+    },
+    {
+      "time": "2021/04/09 20:00",
+      "Total": 41191.7197,
+      "Eolica": 2155.3646,
+      "Fotovoltaica": 1723.519,
+      "Biomasa": 20.8241,
+      "Hidroelectrica": 5664.3077,
+      "Geotermoelectrica": 514.6975
+    },
+    {
+      "time": "2021/04/09 21:00",
+      "Total": 42006.4461,
+      "Eolica": 1915.068,
+      "Fotovoltaica": 99.1692,
+      "Biomasa": 22.6039,
+      "Hidroelectrica": 7481.1345,
+      "Geotermoelectrica": 514.683
+    },
+    {
+      "time": "2021/04/09 22:00",
+      "Total": 42212.7956,
+      "Eolica": 2010.184,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 20.7189,
+      "Hidroelectrica": 7713.0552,
+      "Geotermoelectrica": 517.716
+    },
+    {
+      "time": "2021/04/09 23:00",
+      "Total": 41727.7813,
+      "Eolica": 2046.7913,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 16.6179,
+      "Hidroelectrica": 7323.9541,
+      "Geotermoelectrica": 521.3267
+    },
+    {
+      "time": "2021/04/10 00:00",
+      "Total": 40956.5959,
+      "Eolica": 1886.4914,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 17.7007,
+      "Hidroelectrica": 6543.8542,
+      "Geotermoelectrica": 519.9999
+    },
+    {
+      "time": "2021/04/10 01:00",
+      "Total": 39437.6115,
+      "Eolica": 1440.5816,
+      "Fotovoltaica": 0.0125,
+      "Biomasa": 19.9636,
+      "Hidroelectrica": 5907.6468,
+      "Geotermoelectrica": 531.8157
+    },
+    {
+      "time": "2021/04/10 02:00",
+      "Total": 37843.5564,
+      "Eolica": 1385.9581,
+      "Fotovoltaica": 0.0125,
+      "Biomasa": 20.7482,
+      "Hidroelectrica": 4859.5327,
+      "Geotermoelectrica": 532.135
+    },
+    {
+      "time": "2021/04/10 03:00",
+      "Total": 36428.0354,
+      "Eolica": 1193.1513,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 17.4801,
+      "Hidroelectrica": 3794.1872,
+      "Geotermoelectrica": 533.9982
+    },
+    {
+      "time": "2021/04/10 04:00",
+      "Total": 35602.5102,
+      "Eolica": 1230.9127,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 5.7516,
+      "Hidroelectrica": 2836.8683,
+      "Geotermoelectrica": 534.5934
+    },
+    {
+      "time": "2021/04/10 05:00",
+      "Total": 35033.1842,
+      "Eolica": 1278.361,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 3.2303,
+      "Hidroelectrica": 2820.3773,
+      "Geotermoelectrica": 534.6904
+    },
+    {
+      "time": "2021/04/10 06:00",
+      "Total": 34849.0643,
+      "Eolica": 1244.1432,
+      "Fotovoltaica": 0.0252,
+      "Biomasa": 4.9709,
+      "Hidroelectrica": 2454.6645,
+      "Geotermoelectrica": 534.7414
+    },
+    {
+      "time": "2021/04/10 07:00",
+      "Total": 35008.8976,
+      "Eolica": 1140.0116,
+      "Fotovoltaica": 1.0061,
+      "Biomasa": 18.476,
+      "Hidroelectrica": 2523.3961,
+      "Geotermoelectrica": 534.7059
+    },
+    {
+      "time": "2021/04/10 08:00",
+      "Total": 35271.8091,
+      "Eolica": 1122.9551,
+      "Fotovoltaica": 99.2289,
+      "Biomasa": 18.2564,
+      "Hidroelectrica": 2739.3855,
+      "Geotermoelectrica": 534.2362
+    },
+    {
+      "time": "2021/04/10 09:00",
+      "Total": 35920.1981,
+      "Eolica": 1084.603,
+      "Fotovoltaica": 2192.7323,
+      "Biomasa": 18.9636,
+      "Hidroelectrica": 2486.1824,
+      "Geotermoelectrica": 533.83
+    },
+    {
+      "time": "2021/04/10 10:00",
+      "Total": 36967.9197,
+      "Eolica": 1476.4891,
+      "Fotovoltaica": 5206.2785,
+      "Biomasa": 22.6867,
+      "Hidroelectrica": 2360.356,
+      "Geotermoelectrica": 531.3208
+    },
+    {
+      "time": "2021/04/10 11:00",
+      "Total": 37342.5145,
+      "Eolica": 1886.9135,
+      "Fotovoltaica": 6190.8502,
+      "Biomasa": 21.41,
+      "Hidroelectrica": 2216.9514,
+      "Geotermoelectrica": 529.6078
+    },
+    {
+      "time": "2021/04/10 12:00",
+      "Total": 37890.836,
+      "Eolica": 2211.4263,
+      "Fotovoltaica": 6267.9749,
+      "Biomasa": 21.0935,
+      "Hidroelectrica": 2654.1899,
+      "Geotermoelectrica": 527.6843
+    },
+    {
+      "time": "2021/04/10 13:00",
+      "Total": 38785.6335,
+      "Eolica": 2518.3526,
+      "Fotovoltaica": 6345.3687,
+      "Biomasa": 25.3218,
+      "Hidroelectrica": 3047.4747,
+      "Geotermoelectrica": 527.3121
+    },
+    {
+      "time": "2021/04/10 14:00",
+      "Total": 38792.0164,
+      "Eolica": 2658.6872,
+      "Fotovoltaica": 6081.4965,
+      "Biomasa": 23.2166,
+      "Hidroelectrica": 3059.4096,
+      "Geotermoelectrica": 526.7811
+    },
+    {
+      "time": "2021/04/10 15:00",
+      "Total": 39044.8245,
+      "Eolica": 2849.4136,
+      "Fotovoltaica": 6020.3286,
+      "Biomasa": 24.4814,
+      "Hidroelectrica": 2957.8078,
+      "Geotermoelectrica": 526.0541
+    },
+    {
+      "time": "2021/04/10 16:00",
+      "Total": 38957.791,
+      "Eolica": 2584.1438,
+      "Fotovoltaica": 5886.5254,
+      "Biomasa": 23.4701,
+      "Hidroelectrica": 3065.6242,
+      "Geotermoelectrica": 524.3177
+    },
+    {
+      "time": "2021/04/10 17:00",
+      "Total": 39154.2397,
+      "Eolica": 2365.5087,
+      "Fotovoltaica": 5727.2132,
+      "Biomasa": 23.1483,
+      "Hidroelectrica": 3130.5711,
+      "Geotermoelectrica": 523.4562
+    },
+    {
+      "time": "2021/04/10 18:00",
+      "Total": 39258.341,
+      "Eolica": 2475.4807,
+      "Fotovoltaica": 5495.1548,
+      "Biomasa": 20.7708,
+      "Hidroelectrica": 3069.8627,
+      "Geotermoelectrica": 523.9974
+    },
+    {
+      "time": "2021/04/10 19:00",
+      "Total": 38849.4659,
+      "Eolica": 2588.7432,
+      "Fotovoltaica": 4359.9514,
+      "Biomasa": 21.7232,
+      "Hidroelectrica": 3121.3023,
+      "Geotermoelectrica": 522.8384
+    },
+    {
+      "time": "2021/04/10 20:00",
+      "Total": 39211.0963,
+      "Eolica": 2538.4258,
+      "Fotovoltaica": 1654.4259,
+      "Biomasa": 19.4035,
+      "Hidroelectrica": 3958.4798,
+      "Geotermoelectrica": 526.4044
+    },
+    {
+      "time": "2021/04/10 21:00",
+      "Total": 41182.2627,
+      "Eolica": 2291.4254,
+      "Fotovoltaica": 85.3128,
+      "Biomasa": 19.9632,
+      "Hidroelectrica": 6100.5081,
+      "Geotermoelectrica": 527.4621
+    },
+    {
+      "time": "2021/04/10 22:00",
+      "Total": 41247.46,
+      "Eolica": 2119.0095,
+      "Fotovoltaica": 0.0128,
+      "Biomasa": 5.3525,
+      "Hidroelectrica": 6386.5538,
+      "Geotermoelectrica": 528.2984
+    },
+    {
+      "time": "2021/04/10 23:00",
+      "Total": 40198.1336,
+      "Eolica": 1919.3509,
+      "Fotovoltaica": 0.0127,
+      "Biomasa": 7.8576,
+      "Hidroelectrica": 5390.7644,
+      "Geotermoelectrica": 529.4703
+    },
+    {
+      "time": "2021/04/11 00:00",
+      "Total": 38698.1537,
+      "Eolica": 1874.9973,
+      "Fotovoltaica": 0.0125,
+      "Biomasa": 15.8331,
+      "Hidroelectrica": 4191.569,
+      "Geotermoelectrica": 529.7471
+    },
+    {
+      "time": "2021/04/11 01:00",
+      "Total": 36888.4658,
+      "Eolica": 1592.3193,
+      "Fotovoltaica": 0.0124,
+      "Biomasa": 19.6622,
+      "Hidroelectrica": 3374.5311,
+      "Geotermoelectrica": 528.1698
+    },
+    {
+      "time": "2021/04/11 02:00",
+      "Total": 35484.4814,
+      "Eolica": 1546.1788,
+      "Fotovoltaica": 0.0124,
+      "Biomasa": 20.8233,
+      "Hidroelectrica": 2634.4396,
+      "Geotermoelectrica": 528.968
+    },
+    {
+      "time": "2021/04/11 03:00",
+      "Total": 34271.4891,
+      "Eolica": 1463.5503,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 21.834,
+      "Hidroelectrica": 2184.7745,
+      "Geotermoelectrica": 529.6987
+    },
+    {
+      "time": "2021/04/11 04:00",
+      "Total": 33150.3898,
+      "Eolica": 1348.9796,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 20.5879,
+      "Hidroelectrica": 1829.4291,
+      "Geotermoelectrica": 529.7289
+    },
+    {
+      "time": "2021/04/11 05:00",
+      "Total": 32849.4886,
+      "Eolica": 1278.2982,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 18.7679,
+      "Hidroelectrica": 1844.0869,
+      "Geotermoelectrica": 529.4455
+    },
+    {
+      "time": "2021/04/11 06:00",
+      "Total": 32394.5265,
+      "Eolica": 1176.7764,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 20.041,
+      "Hidroelectrica": 1979.4009,
+      "Geotermoelectrica": 528.8544
+    },
+    {
+      "time": "2021/04/11 07:00",
+      "Total": 32156.181,
+      "Eolica": 1057.0754,
+      "Fotovoltaica": 1.5389,
+      "Biomasa": 22.3828,
+      "Hidroelectrica": 2236.0063,
+      "Geotermoelectrica": 529.08
+    },
+    {
+      "time": "2021/04/11 08:00",
+      "Total": 31569.6437,
+      "Eolica": 896.3611,
+      "Fotovoltaica": 89.0584,
+      "Biomasa": 20.4948,
+      "Hidroelectrica": 2184.9917,
+      "Geotermoelectrica": 528.6772
+    },
+    {
+      "time": "2021/04/11 09:00",
+      "Total": 31705.7198,
+      "Eolica": 695.9186,
+      "Fotovoltaica": 1884.6182,
+      "Biomasa": 22.9142,
+      "Hidroelectrica": 1489.4775,
+      "Geotermoelectrica": 527.6504
+    },
+    {
+      "time": "2021/04/11 10:00",
+      "Total": 32340.776,
+      "Eolica": 577.4928,
+      "Fotovoltaica": 4560.1161,
+      "Biomasa": 23.887,
+      "Hidroelectrica": 830.6354,
+      "Geotermoelectrica": 524.6073
+    },
+    {
+      "time": "2021/04/11 11:00",
+      "Total": 32689.3388,
+      "Eolica": 638.5624,
+      "Fotovoltaica": 5460.7037,
+      "Biomasa": 23.3028,
+      "Hidroelectrica": 1146.0741,
+      "Geotermoelectrica": 523.5281
+    },
+    {
+      "time": "2021/04/11 12:00",
+      "Total": 33123.8851,
+      "Eolica": 749.6364,
+      "Fotovoltaica": 5761.791,
+      "Biomasa": 23.8872,
+      "Hidroelectrica": 1303.0387,
+      "Geotermoelectrica": 523.1507
+    },
+    {
+      "time": "2021/04/11 13:00",
+      "Total": 33679.4172,
+      "Eolica": 829.0442,
+      "Fotovoltaica": 5900.8307,
+      "Biomasa": 24.03,
+      "Hidroelectrica": 1730.1797,
+      "Geotermoelectrica": 521.8037
+    },
+    {
+      "time": "2021/04/11 14:00",
+      "Total": 33946.8051,
+      "Eolica": 998.4348,
+      "Fotovoltaica": 5877.3731,
+      "Biomasa": 23.6347,
+      "Hidroelectrica": 1828.5089,
+      "Geotermoelectrica": 521.4902
+    },
+    {
+      "time": "2021/04/11 15:00",
+      "Total": 34268.2163,
+      "Eolica": 1145.6663,
+      "Fotovoltaica": 5822.8714,
+      "Biomasa": 19.6238,
+      "Hidroelectrica": 2103.191,
+      "Geotermoelectrica": 521.1226
+    },
+    {
+      "time": "2021/04/11 16:00",
+      "Total": 34438.6703,
+      "Eolica": 1251.3088,
+      "Fotovoltaica": 5589.2055,
+      "Biomasa": 13.2873,
+      "Hidroelectrica": 2348.0773,
+      "Geotermoelectrica": 520.6271
+    },
+    {
+      "time": "2021/04/11 17:00",
+      "Total": 34889.8177,
+      "Eolica": 1338.8831,
+      "Fotovoltaica": 5317.1251,
+      "Biomasa": 14.8687,
+      "Hidroelectrica": 2609.1767,
+      "Geotermoelectrica": 520.4755
+    },
+    {
+      "time": "2021/04/11 18:00",
+      "Total": 35452.3851,
+      "Eolica": 1630.7966,
+      "Fotovoltaica": 4661.1528,
+      "Biomasa": 18.4825,
+      "Hidroelectrica": 2645.2792,
+      "Geotermoelectrica": 520.9322
+    },
+    {
+      "time": "2021/04/11 19:00",
+      "Total": 35453.9631,
+      "Eolica": 1709.5182,
+      "Fotovoltaica": 3195.7626,
+      "Biomasa": 24.6235,
+      "Hidroelectrica": 2144.7072,
+      "Geotermoelectrica": 518.7042
+    },
+    {
+      "time": "2021/04/11 20:00",
+      "Total": 36174.5582,
+      "Eolica": 1696.3919,
+      "Fotovoltaica": 949.6345,
+      "Biomasa": 19.5698,
+      "Hidroelectrica": 3734.1874,
+      "Geotermoelectrica": 518.5907
+    },
+    {
+      "time": "2021/04/11 21:00",
+      "Total": 38636.3898,
+      "Eolica": 1788.6434,
+      "Fotovoltaica": 43.1152,
+      "Biomasa": 19.2541,
+      "Hidroelectrica": 5996.7356,
+      "Geotermoelectrica": 503.1332
+    },
+    {
+      "time": "2021/04/11 22:00",
+      "Total": 39620.4365,
+      "Eolica": 1707.8099,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 16.8932,
+      "Hidroelectrica": 6429.942,
+      "Geotermoelectrica": 496.7867
+    },
+    {
+      "time": "2021/04/11 23:00",
+      "Total": 39126.7545,
+      "Eolica": 1841.9791,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 20.7876,
+      "Hidroelectrica": 5734.9135,
+      "Geotermoelectrica": 497.8289
+    },
+    {
+      "time": "2021/04/12 00:00",
+      "Total": 37874.1732,
+      "Eolica": 1855.0032,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 18.8792,
+      "Hidroelectrica": 5181.5739,
+      "Geotermoelectrica": 497.4394
+    },
+    {
+      "time": "2021/04/12 01:00",
+      "Total": 35919.3532,
+      "Eolica": 1812.1935,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 18.3625,
+      "Hidroelectrica": 3684.1875,
+      "Geotermoelectrica": 498.0568
+    },
+    {
+      "time": "2021/04/12 02:00",
+      "Total": 34581.074,
+      "Eolica": 1868.7421,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 20.7239,
+      "Hidroelectrica": 2442.0521,
+      "Geotermoelectrica": 499.1562
+    },
+    {
+      "time": "2021/04/12 03:00",
+      "Total": 33784.1791,
+      "Eolica": 1755.5902,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 11.0038,
+      "Hidroelectrica": 2126.5036,
+      "Geotermoelectrica": 500.3536
+    },
+    {
+      "time": "2021/04/12 04:00",
+      "Total": 32963.0246,
+      "Eolica": 1824.8661,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 6.8016,
+      "Hidroelectrica": 1931.3447,
+      "Geotermoelectrica": 501.1791
+    },
+    {
+      "time": "2021/04/12 05:00",
+      "Total": 32614.1997,
+      "Eolica": 1656.0444,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 6.4502,
+      "Hidroelectrica": 2249.6371,
+      "Geotermoelectrica": 501.6966
+    },
+    {
+      "time": "2021/04/12 06:00",
+      "Total": 32702.1053,
+      "Eolica": 1649.8117,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 4.065,
+      "Hidroelectrica": 2243.02,
+      "Geotermoelectrica": 501.8334
+    },
+    {
+      "time": "2021/04/12 07:00",
+      "Total": 34016.3381,
+      "Eolica": 1597.7807,
+      "Fotovoltaica": 3.0275,
+      "Biomasa": 4.2059,
+      "Hidroelectrica": 2665.1431,
+      "Geotermoelectrica": 502.3883
+    },
+    {
+      "time": "2021/04/12 08:00",
+      "Total": 35226.0256,
+      "Eolica": 1277.0969,
+      "Fotovoltaica": 94.015,
+      "Biomasa": 6.5413,
+      "Hidroelectrica": 2902.6569,
+      "Geotermoelectrica": 501.151
+    },
+    {
+      "time": "2021/04/12 09:00",
+      "Total": 36865.858,
+      "Eolica": 1029.3379,
+      "Fotovoltaica": 2012.5121,
+      "Biomasa": 5.4326,
+      "Hidroelectrica": 2771.4539,
+      "Geotermoelectrica": 496.9856
+    },
+    {
+      "time": "2021/04/12 10:00",
+      "Total": 38590.2851,
+      "Eolica": 936.6777,
+      "Fotovoltaica": 4305.0712,
+      "Biomasa": 9.3766,
+      "Hidroelectrica": 3026.0544,
+      "Geotermoelectrica": 494.08
+    },
+    {
+      "time": "2021/04/12 11:00",
+      "Total": 39700.0893,
+      "Eolica": 1042.6566,
+      "Fotovoltaica": 5093.4283,
+      "Biomasa": 10.5298,
+      "Hidroelectrica": 3257.7357,
+      "Geotermoelectrica": 491.1801
+    },
+    {
+      "time": "2021/04/12 12:00",
+      "Total": 40356.095,
+      "Eolica": 1238.1521,
+      "Fotovoltaica": 5401.0896,
+      "Biomasa": 5.4896,
+      "Hidroelectrica": 3353.4957,
+      "Geotermoelectrica": 491.4558
+    },
+    {
+      "time": "2021/04/12 13:00",
+      "Total": 40843.0117,
+      "Eolica": 1492.9971,
+      "Fotovoltaica": 5465.0781,
+      "Biomasa": 4.1297,
+      "Hidroelectrica": 3292.6567,
+      "Geotermoelectrica": 491.407
+    },
+    {
+      "time": "2021/04/12 14:00",
+      "Total": 41553.7733,
+      "Eolica": 1617.1243,
+      "Fotovoltaica": 5419.6065,
+      "Biomasa": 4.1034,
+      "Hidroelectrica": 3567.5689,
+      "Geotermoelectrica": 492.7112
+    },
+    {
+      "time": "2021/04/12 15:00",
+      "Total": 42295.6816,
+      "Eolica": 1969.6213,
+      "Fotovoltaica": 5302.1966,
+      "Biomasa": 3.3528,
+      "Hidroelectrica": 3488.4728,
+      "Geotermoelectrica": 486.3612
+    },
+    {
+      "time": "2021/04/12 16:00",
+      "Total": 42707.4041,
+      "Eolica": 1863.0819,
+      "Fotovoltaica": 5156.5455,
+      "Biomasa": 3.6651,
+      "Hidroelectrica": 4055.3139,
+      "Geotermoelectrica": 395.2172
+    },
+    {
+      "time": "2021/04/12 17:00",
+      "Total": 42962.5538,
+      "Eolica": 1611.9649,
+      "Fotovoltaica": 4838.1898,
+      "Biomasa": 3.3374,
+      "Hidroelectrica": 4609.0588,
+      "Geotermoelectrica": 400.5321
+    },
+    {
+      "time": "2021/04/12 18:00",
+      "Total": 42685.1851,
+      "Eolica": 1656.72,
+      "Fotovoltaica": 4295.9404,
+      "Biomasa": 4.2704,
+      "Hidroelectrica": 4539.1538,
+      "Geotermoelectrica": 429.5124
+    },
+    {
+      "time": "2021/04/12 19:00",
+      "Total": 41777.8114,
+      "Eolica": 1584.5507,
+      "Fotovoltaica": 3351.5044,
+      "Biomasa": 4.9633,
+      "Hidroelectrica": 4273.9387,
+      "Geotermoelectrica": 454.9218
+    },
+    {
+      "time": "2021/04/12 20:00",
+      "Total": 41345.7103,
+      "Eolica": 1669.4561,
+      "Fotovoltaica": 1145.4499,
+      "Biomasa": 6.8932,
+      "Hidroelectrica": 5605.5587,
+      "Geotermoelectrica": 467.1542
+    },
+    {
+      "time": "2021/04/12 21:00",
+      "Total": 42718.4796,
+      "Eolica": 1845.3265,
+      "Fotovoltaica": 31.919,
+      "Biomasa": 7.184,
+      "Hidroelectrica": 7275.3813,
+      "Geotermoelectrica": 489.4828
+    },
+    {
+      "time": "2021/04/12 22:00",
+      "Total": 43186.9118,
+      "Eolica": 2112.5852,
+      "Fotovoltaica": 0.0008,
+      "Biomasa": 10.7492,
+      "Hidroelectrica": 7073.1404,
+      "Geotermoelectrica": 492.2415
+    },
+    {
+      "time": "2021/04/12 23:00",
+      "Total": 42675.8074,
+      "Eolica": 2213.0827,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 14.5339,
+      "Hidroelectrica": 6502.4529,
+      "Geotermoelectrica": 493.4202
+    },
+    {
+      "time": "2021/04/13 00:00",
+      "Total": 41303.5419,
+      "Eolica": 2041.4904,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 16.2685,
+      "Hidroelectrica": 5630.141,
+      "Geotermoelectrica": 494.4335
+    },
+    {
+      "time": "2021/04/13 01:00",
+      "Total": 39243.2183,
+      "Eolica": 1918.323,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 16.815,
+      "Hidroelectrica": 4766.1825,
+      "Geotermoelectrica": 498.8297
+    },
+    {
+      "time": "2021/04/13 02:00",
+      "Total": 37851.8247,
+      "Eolica": 1658.195,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 19.0649,
+      "Hidroelectrica": 3484.607,
+      "Geotermoelectrica": 500.245
+    },
+    {
+      "time": "2021/04/13 03:00",
+      "Total": 36542.8054,
+      "Eolica": 1448.4775,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 18.6789,
+      "Hidroelectrica": 2641.7371,
+      "Geotermoelectrica": 500.738
+    },
+    {
+      "time": "2021/04/13 04:00",
+      "Total": 35810.6945,
+      "Eolica": 1095.401,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 15.1928,
+      "Hidroelectrica": 2346.2322,
+      "Geotermoelectrica": 501.3854
+    },
+    {
+      "time": "2021/04/13 05:00",
+      "Total": 35446.7865,
+      "Eolica": 954.0138,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 17.0801,
+      "Hidroelectrica": 2128.428,
+      "Geotermoelectrica": 501.8788
+    },
+    {
+      "time": "2021/04/13 06:00",
+      "Total": 35257.9437,
+      "Eolica": 858.4667,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 18.3238,
+      "Hidroelectrica": 2106.2569,
+      "Geotermoelectrica": 502.563
+    },
+    {
+      "time": "2021/04/13 07:00",
+      "Total": 35940.2333,
+      "Eolica": 900.0491,
+      "Fotovoltaica": 3.448,
+      "Biomasa": 20.9657,
+      "Hidroelectrica": 2535.9059,
+      "Geotermoelectrica": 504.3795
+    },
+    {
+      "time": "2021/04/13 08:00",
+      "Total": 36760.8374,
+      "Eolica": 789.132,
+      "Fotovoltaica": 118.1072,
+      "Biomasa": 20.9828,
+      "Hidroelectrica": 3102.3529,
+      "Geotermoelectrica": 505.807
+    },
+    {
+      "time": "2021/04/13 09:00",
+      "Total": 37942.3055,
+      "Eolica": 572.2694,
+      "Fotovoltaica": 2024.4956,
+      "Biomasa": 20.1805,
+      "Hidroelectrica": 3034.1511,
+      "Geotermoelectrica": 501.0858
+    },
+    {
+      "time": "2021/04/13 10:00",
+      "Total": 39069.5229,
+      "Eolica": 431.2252,
+      "Fotovoltaica": 4291.753,
+      "Biomasa": 20.7844,
+      "Hidroelectrica": 2198.8244,
+      "Geotermoelectrica": 494.359
+    },
+    {
+      "time": "2021/04/13 11:00",
+      "Total": 40040.2559,
+      "Eolica": 438.065,
+      "Fotovoltaica": 4966.462,
+      "Biomasa": 21.613,
+      "Hidroelectrica": 2371.3538,
+      "Geotermoelectrica": 492.3444
+    },
+    {
+      "time": "2021/04/13 12:00",
+      "Total": 40493.9663,
+      "Eolica": 494.6238,
+      "Fotovoltaica": 5187.2042,
+      "Biomasa": 20.9881,
+      "Hidroelectrica": 2492.0422,
+      "Geotermoelectrica": 493.8789
+    },
+    {
+      "time": "2021/04/13 13:00",
+      "Total": 41285.6301,
+      "Eolica": 577.4872,
+      "Fotovoltaica": 5192.7077,
+      "Biomasa": 19.3209,
+      "Hidroelectrica": 3018.0833,
+      "Geotermoelectrica": 495.791
+    },
+    {
+      "time": "2021/04/13 14:00",
+      "Total": 41807.5136,
+      "Eolica": 731.4808,
+      "Fotovoltaica": 5323.3351,
+      "Biomasa": 21.2059,
+      "Hidroelectrica": 3119.2271,
+      "Geotermoelectrica": 495.5618
+    },
+    {
+      "time": "2021/04/13 15:00",
+      "Total": 42365.6534,
+      "Eolica": 1040.1695,
+      "Fotovoltaica": 5260.8725,
+      "Biomasa": 22.1631,
+      "Hidroelectrica": 3136.0741,
+      "Geotermoelectrica": 496.4934
+    },
+    {
+      "time": "2021/04/13 16:00",
+      "Total": 42876.4362,
+      "Eolica": 1349.3206,
+      "Fotovoltaica": 5058.2689,
+      "Biomasa": 20.8555,
+      "Hidroelectrica": 3529.329,
+      "Geotermoelectrica": 495.4586
+    },
+    {
+      "time": "2021/04/13 17:00",
+      "Total": 43219.4402,
+      "Eolica": 1470.6354,
+      "Fotovoltaica": 4784.5425,
+      "Biomasa": 20.6659,
+      "Hidroelectrica": 3669.0042,
+      "Geotermoelectrica": 495.1032
+    },
+    {
+      "time": "2021/04/13 18:00",
+      "Total": 42960.0586,
+      "Eolica": 1520.9945,
+      "Fotovoltaica": 4272.2274,
+      "Biomasa": 18.071,
+      "Hidroelectrica": 3614.1697,
+      "Geotermoelectrica": 494.3953
+    },
+    {
+      "time": "2021/04/13 19:00",
+      "Total": 42338.7356,
+      "Eolica": 1693.6657,
+      "Fotovoltaica": 3344.8266,
+      "Biomasa": 19.6602,
+      "Hidroelectrica": 3702.8762,
+      "Geotermoelectrica": 495.2556
+    },
+    {
+      "time": "2021/04/13 20:00",
+      "Total": 42000.751,
+      "Eolica": 1642.717,
+      "Fotovoltaica": 1137.3015,
+      "Biomasa": 19.2412,
+      "Hidroelectrica": 5066.4755,
+      "Geotermoelectrica": 499.7254
+    },
+    {
+      "time": "2021/04/13 21:00",
+      "Total": 43275.1575,
+      "Eolica": 1474.8552,
+      "Fotovoltaica": 47.0113,
+      "Biomasa": 18.5169,
+      "Hidroelectrica": 6889.0582,
+      "Geotermoelectrica": 500.9283
+    },
+    {
+      "time": "2021/04/13 22:00",
+      "Total": 43118.9991,
+      "Eolica": 1417.6572,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 17.982,
+      "Hidroelectrica": 7034.329,
+      "Geotermoelectrica": 500.3109
+    },
+    {
+      "time": "2021/04/13 23:00",
+      "Total": 42645.4196,
+      "Eolica": 1595.8399,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 20.6445,
+      "Hidroelectrica": 6390.2168,
+      "Geotermoelectrica": 503.6526
+    },
+    {
+      "time": "2021/04/14 00:00",
+      "Total": 41273.1081,
+      "Eolica": 1539.6106,
+      "Fotovoltaica": 0.0003,
+      "Biomasa": 19.4067,
+      "Hidroelectrica": 5716.6847,
+      "Geotermoelectrica": 503.9632
+    },
+    {
+      "time": "2021/04/14 01:00",
+      "Total": 39363.314,
+      "Eolica": 1368.9472,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 17.1699,
+      "Hidroelectrica": 5095.1954,
+      "Geotermoelectrica": 503.8968
+    },
+    {
+      "time": "2021/04/14 02:00",
+      "Total": 37679.8542,
+      "Eolica": 1272.0965,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 17.5434,
+      "Hidroelectrica": 3778.1048,
+      "Geotermoelectrica": 504.7654
+    },
+    {
+      "time": "2021/04/14 03:00",
+      "Total": 36512.6706,
+      "Eolica": 1087.0337,
+      "Fotovoltaica": 0.0003,
+      "Biomasa": 15.7706,
+      "Hidroelectrica": 3052.6775,
+      "Geotermoelectrica": 505.4606
+    },
+    {
+      "time": "2021/04/14 04:00",
+      "Total": 35797.7087,
+      "Eolica": 913.6722,
+      "Fotovoltaica": 0.0003,
+      "Biomasa": 14.3173,
+      "Hidroelectrica": 2484.9217,
+      "Geotermoelectrica": 506.5994
+    },
+    {
+      "time": "2021/04/14 05:00",
+      "Total": 35425.3364,
+      "Eolica": 868.9108,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 15.9726,
+      "Hidroelectrica": 2145.6998,
+      "Geotermoelectrica": 507.0677
+    },
+    {
+      "time": "2021/04/14 06:00",
+      "Total": 35351.4731,
+      "Eolica": 789.5401,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 13.7078,
+      "Hidroelectrica": 2052.4246,
+      "Geotermoelectrica": 507.4518
+    },
+    {
+      "time": "2021/04/14 07:00",
+      "Total": 35942.4976,
+      "Eolica": 717.3732,
+      "Fotovoltaica": 1.5272,
+      "Biomasa": 18.4858,
+      "Hidroelectrica": 2305.3195,
+      "Geotermoelectrica": 507.6392
+    },
+    {
+      "time": "2021/04/14 08:00",
+      "Total": 36875.9241,
+      "Eolica": 720.7069,
+      "Fotovoltaica": 96.2851,
+      "Biomasa": 20.1576,
+      "Hidroelectrica": 3100.6192,
+      "Geotermoelectrica": 507.273
+    },
+    {
+      "time": "2021/04/14 09:00",
+      "Total": 38067.4728,
+      "Eolica": 612.4424,
+      "Fotovoltaica": 1887.6489,
+      "Biomasa": 24.608,
+      "Hidroelectrica": 3295.7661,
+      "Geotermoelectrica": 505.3243
+    },
+    {
+      "time": "2021/04/14 10:00",
+      "Total": 39357.4585,
+      "Eolica": 570.8837,
+      "Fotovoltaica": 4173.308,
+      "Biomasa": 27.7435,
+      "Hidroelectrica": 2982.6194,
+      "Geotermoelectrica": 500.7307
+    },
+    {
+      "time": "2021/04/14 11:00",
+      "Total": 40202.0083,
+      "Eolica": 786.3672,
+      "Fotovoltaica": 4898.1707,
+      "Biomasa": 25.1381,
+      "Hidroelectrica": 3304.4499,
+      "Geotermoelectrica": 498.5991
+    },
+    {
+      "time": "2021/04/14 12:00",
+      "Total": 40854.7125,
+      "Eolica": 971.7293,
+      "Fotovoltaica": 5103.2572,
+      "Biomasa": 21.6811,
+      "Hidroelectrica": 3531.7259,
+      "Geotermoelectrica": 497.134
+    },
+    {
+      "time": "2021/04/14 13:00",
+      "Total": 41562.666,
+      "Eolica": 948.1203,
+      "Fotovoltaica": 5080.6314,
+      "Biomasa": 25.3124,
+      "Hidroelectrica": 3516.206,
+      "Geotermoelectrica": 494.5625
+    },
+    {
+      "time": "2021/04/14 14:00",
+      "Total": 42274.3615,
+      "Eolica": 1039.2756,
+      "Fotovoltaica": 4957.9632,
+      "Biomasa": 24.4926,
+      "Hidroelectrica": 3523.2329,
+      "Geotermoelectrica": 497.8245
+    },
+    {
+      "time": "2021/04/14 15:00",
+      "Total": 42901.4608,
+      "Eolica": 1171.6589,
+      "Fotovoltaica": 4674.7998,
+      "Biomasa": 23.2933,
+      "Hidroelectrica": 3873.4513,
+      "Geotermoelectrica": 498.4926
+    },
+    {
+      "time": "2021/04/14 16:00",
+      "Total": 43335.1209,
+      "Eolica": 1173.265,
+      "Fotovoltaica": 4529.4955,
+      "Biomasa": 24.0865,
+      "Hidroelectrica": 4286.7876,
+      "Geotermoelectrica": 497.4614
+    },
+    {
+      "time": "2021/04/14 17:00",
+      "Total": 43581.8187,
+      "Eolica": 1457.0191,
+      "Fotovoltaica": 4444.2297,
+      "Biomasa": 25.2682,
+      "Hidroelectrica": 4224.9295,
+      "Geotermoelectrica": 497.4016
+    },
+    {
+      "time": "2021/04/14 18:00",
+      "Total": 43450.0612,
+      "Eolica": 1808.3154,
+      "Fotovoltaica": 3782.6223,
+      "Biomasa": 16.1644,
+      "Hidroelectrica": 4151.4329,
+      "Geotermoelectrica": 497.7734
+    },
+    {
+      "time": "2021/04/14 19:00",
+      "Total": 42571.8971,
+      "Eolica": 1885.7113,
+      "Fotovoltaica": 2799.312,
+      "Biomasa": 20.6117,
+      "Hidroelectrica": 3886.9546,
+      "Geotermoelectrica": 498.2044
+    },
+    {
+      "time": "2021/04/14 20:00",
+      "Total": 42347.2884,
+      "Eolica": 2072.9112,
+      "Fotovoltaica": 848.8561,
+      "Biomasa": 23.7855,
+      "Hidroelectrica": 5019.3296,
+      "Geotermoelectrica": 497.3119
+    },
+    {
+      "time": "2021/04/14 21:00",
+      "Total": 43780.6743,
+      "Eolica": 2301.7532,
+      "Fotovoltaica": 58.4574,
+      "Biomasa": 21.891,
+      "Hidroelectrica": 6104.4704,
+      "Geotermoelectrica": 497.9687
+    },
+    {
+      "time": "2021/04/14 22:00",
+      "Total": 43799.4619,
+      "Eolica": 1817.9847,
+      "Fotovoltaica": 0.0021,
+      "Biomasa": 22.013,
+      "Hidroelectrica": 7072.2769,
+      "Geotermoelectrica": 498.5941
+    },
+    {
+      "time": "2021/04/14 23:00",
+      "Total": 43143.3958,
+      "Eolica": 1754.3925,
+      "Fotovoltaica": 0.0072,
+      "Biomasa": 23.1109,
+      "Hidroelectrica": 7622.0969,
+      "Geotermoelectrica": 500.0294
+    },
+    {
+      "time": "2021/04/15 00:00",
+      "Total": 41936.3905,
+      "Eolica": 1684.8241,
+      "Fotovoltaica": 0.0077,
+      "Biomasa": 24.7078,
+      "Hidroelectrica": 6794.1942,
+      "Geotermoelectrica": 501.8623
+    },
+    {
+      "time": "2021/04/15 01:00",
+      "Total": 39970.1959,
+      "Eolica": 1686.5986,
+      "Fotovoltaica": 0.008,
+      "Biomasa": 24.0988,
+      "Hidroelectrica": 5242.8689,
+      "Geotermoelectrica": 503.4198
+    },
+    {
+      "time": "2021/04/15 02:00",
+      "Total": 38410.1326,
+      "Eolica": 1510.0918,
+      "Fotovoltaica": 0.0098,
+      "Biomasa": 24.7784,
+      "Hidroelectrica": 4090.6651,
+      "Geotermoelectrica": 505.2142
+    },
+    {
+      "time": "2021/04/15 03:00",
+      "Total": 37355.9382,
+      "Eolica": 1192.2956,
+      "Fotovoltaica": 0.0112,
+      "Biomasa": 24.8376,
+      "Hidroelectrica": 3727.7421,
+      "Geotermoelectrica": 506.2321
+    },
+    {
+      "time": "2021/04/15 04:00",
+      "Total": 36373.8598,
+      "Eolica": 1148.0503,
+      "Fotovoltaica": 0.0074,
+      "Biomasa": 25.8448,
+      "Hidroelectrica": 3041.3259,
+      "Geotermoelectrica": 506.3815
+    },
+    {
+      "time": "2021/04/15 05:00",
+      "Total": 35835.2183,
+      "Eolica": 1171.3801,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 27.724,
+      "Hidroelectrica": 2257.0813,
+      "Geotermoelectrica": 506.4754
+    },
+    {
+      "time": "2021/04/15 06:00",
+      "Total": 36077.0183,
+      "Eolica": 1220.7831,
+      "Fotovoltaica": 0.0006,
+      "Biomasa": 26.1539,
+      "Hidroelectrica": 2318.3736,
+      "Geotermoelectrica": 507.4295
+    },
+    {
+      "time": "2021/04/15 07:00",
+      "Total": 36403.5652,
+      "Eolica": 1142.3509,
+      "Fotovoltaica": 1.9502,
+      "Biomasa": 23.855,
+      "Hidroelectrica": 2256.642,
+      "Geotermoelectrica": 508.0414
+    },
+    {
+      "time": "2021/04/15 08:00",
+      "Total": 37067.5597,
+      "Eolica": 1221.5616,
+      "Fotovoltaica": 124.9597,
+      "Biomasa": 25.265,
+      "Hidroelectrica": 2396.4355,
+      "Geotermoelectrica": 507.1034
+    },
+    {
+      "time": "2021/04/15 09:00",
+      "Total": 38410.7096,
+      "Eolica": 1073.426,
+      "Fotovoltaica": 1907.4789,
+      "Biomasa": 27.2541,
+      "Hidroelectrica": 2695.9617,
+      "Geotermoelectrica": 503.2041
+    },
+    {
+      "time": "2021/04/15 10:00",
+      "Total": 39506.3619,
+      "Eolica": 1050.4005,
+      "Fotovoltaica": 3923.3337,
+      "Biomasa": 25.246,
+      "Hidroelectrica": 2726.3708,
+      "Geotermoelectrica": 496.8352
+    },
+    {
+      "time": "2021/04/15 11:00",
+      "Total": 40204.054,
+      "Eolica": 1206.6236,
+      "Fotovoltaica": 4590.0501,
+      "Biomasa": 18.9692,
+      "Hidroelectrica": 2603.14,
+      "Geotermoelectrica": 496.645
+    },
+    {
+      "time": "2021/04/15 12:00",
+      "Total": 40786.9831,
+      "Eolica": 1358.9671,
+      "Fotovoltaica": 4952.1418,
+      "Biomasa": 20.9317,
+      "Hidroelectrica": 2814.4476,
+      "Geotermoelectrica": 496.5428
+    },
+    {
+      "time": "2021/04/15 13:00",
+      "Total": 41483.8739,
+      "Eolica": 1459.7429,
+      "Fotovoltaica": 5054.5144,
+      "Biomasa": 24.2335,
+      "Hidroelectrica": 3306.4268,
+      "Geotermoelectrica": 495.2162
+    },
+    {
+      "time": "2021/04/15 14:00",
+      "Total": 42086.8307,
+      "Eolica": 1546.0403,
+      "Fotovoltaica": 5129.9608,
+      "Biomasa": 20.703,
+      "Hidroelectrica": 3441.3561,
+      "Geotermoelectrica": 495.6426
+    },
+    {
+      "time": "2021/04/15 15:00",
+      "Total": 42481.4794,
+      "Eolica": 1738.0766,
+      "Fotovoltaica": 5115.4732,
+      "Biomasa": 22.0104,
+      "Hidroelectrica": 3582.4976,
+      "Geotermoelectrica": 494.9645
+    },
+    {
+      "time": "2021/04/15 16:00",
+      "Total": 42948.6047,
+      "Eolica": 1936.8389,
+      "Fotovoltaica": 4875.5429,
+      "Biomasa": 22.2958,
+      "Hidroelectrica": 4039.1022,
+      "Geotermoelectrica": 494.3369
+    },
+    {
+      "time": "2021/04/15 17:00",
+      "Total": 43354.7138,
+      "Eolica": 1922.7652,
+      "Fotovoltaica": 4651.47,
+      "Biomasa": 19.502,
+      "Hidroelectrica": 4520.9423,
+      "Geotermoelectrica": 494.2664
+    },
+    {
+      "time": "2021/04/15 18:00",
+      "Total": 42957.0237,
+      "Eolica": 1915.6593,
+      "Fotovoltaica": 3855.6123,
+      "Biomasa": 17.534,
+      "Hidroelectrica": 4794.6969,
+      "Geotermoelectrica": 494.4285
+    },
+    {
+      "time": "2021/04/15 19:00",
+      "Total": 42093.2469,
+      "Eolica": 1843.6321,
+      "Fotovoltaica": 2430.4297,
+      "Biomasa": 22.6517,
+      "Hidroelectrica": 5429.5005,
+      "Geotermoelectrica": 495.1421
+    },
+    {
+      "time": "2021/04/15 20:00",
+      "Total": 41559.0146,
+      "Eolica": 1841.3246,
+      "Fotovoltaica": 794.1633,
+      "Biomasa": 22.5452,
+      "Hidroelectrica": 5930.1797,
+      "Geotermoelectrica": 498.1537
+    },
+    {
+      "time": "2021/04/15 21:00",
+      "Total": 42867.7218,
+      "Eolica": 2305.5287,
+      "Fotovoltaica": 38.8652,
+      "Biomasa": 18.3828,
+      "Hidroelectrica": 6988.3601,
+      "Geotermoelectrica": 499.2771
+    },
+    {
+      "time": "2021/04/15 22:00",
+      "Total": 43227.3022,
+      "Eolica": 2482.9192,
+      "Fotovoltaica": 0.0369,
+      "Biomasa": 17.6439,
+      "Hidroelectrica": 7147.7274,
+      "Geotermoelectrica": 498.198
+    },
+    {
+      "time": "2021/04/15 23:00",
+      "Total": 42573.5935,
+      "Eolica": 2481.7323,
+      "Fotovoltaica": 0.0004,
+      "Biomasa": 23.0288,
+      "Hidroelectrica": 7026.5945,
+      "Geotermoelectrica": 500.0242
+    },
+    {
+      "time": "2021/04/16 00:00",
+      "Total": 41337.8137,
+      "Eolica": 2307.4667,
+      "Fotovoltaica": 0.0003,
+      "Biomasa": 16.763,
+      "Hidroelectrica": 6163.2177,
+      "Geotermoelectrica": 501.858
+    },
+    {
+      "time": "2021/04/16 01:00",
+      "Total": 39507.4186,
+      "Eolica": 2066.7288,
+      "Fotovoltaica": 0.0002,
+      "Biomasa": 19.8868,
+      "Hidroelectrica": 4657.9505,
+      "Geotermoelectrica": 504.5827
+    },
+    {
+      "time": "2021/04/16 02:00",
+      "Total": 38017.8113,
+      "Eolica": 1990.4606,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.0251,
+      "Hidroelectrica": 3432.7475,
+      "Geotermoelectrica": 506.1522
+    },
+    {
+      "time": "2021/04/16 03:00",
+      "Total": 36905.1589,
+      "Eolica": 1691.5297,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.1771,
+      "Hidroelectrica": 2617.9071,
+      "Geotermoelectrica": 506.4899
+    },
+    {
+      "time": "2021/04/16 04:00",
+      "Total": 36163.9976,
+      "Eolica": 1510.7091,
+      "Fotovoltaica": 0,
+      "Biomasa": 25.8802,
+      "Hidroelectrica": 2213.5366,
+      "Geotermoelectrica": 507.315
+    },
+    {
+      "time": "2021/04/16 05:00",
+      "Total": 35769.2437,
+      "Eolica": 1327.2868,
+      "Fotovoltaica": 0.0007,
+      "Biomasa": 25.8864,
+      "Hidroelectrica": 1875.5238,
+      "Geotermoelectrica": 507.3972
+    },
+    {
+      "time": "2021/04/16 06:00",
+      "Total": 35670.2858,
+      "Eolica": 1145.9761,
+      "Fotovoltaica": 0.0257,
+      "Biomasa": 26.023,
+      "Hidroelectrica": 1800.7749,
+      "Geotermoelectrica": 507.3256
+    },
+    {
+      "time": "2021/04/16 07:00",
+      "Total": 36030.7588,
+      "Eolica": 1163.1429,
+      "Fotovoltaica": 1.1446,
+      "Biomasa": 24.8487,
+      "Hidroelectrica": 1999.9638,
+      "Geotermoelectrica": 507.0538
+    },
+    {
+      "time": "2021/04/16 08:00",
+      "Total": 36877.8325,
+      "Eolica": 1104.2091,
+      "Fotovoltaica": 115.8382,
+      "Biomasa": 22.9467,
+      "Hidroelectrica": 2772.9207,
+      "Geotermoelectrica": 506.8081
+    },
+    {
+      "time": "2021/04/16 09:00",
+      "Total": 38099.9606,
+      "Eolica": 1027.4202,
+      "Fotovoltaica": 2026.5882,
+      "Biomasa": 22.8573,
+      "Hidroelectrica": 3272.5859,
+      "Geotermoelectrica": 504.0337
+    },
+    {
+      "time": "2021/04/16 10:00",
+      "Total": 39401.8387,
+      "Eolica": 1038.7139,
+      "Fotovoltaica": 4107.0059,
+      "Biomasa": 23.9525,
+      "Hidroelectrica": 2924.3572,
+      "Geotermoelectrica": 497.7579
+    },
+    {
+      "time": "2021/04/16 11:00",
+      "Total": 40220.5507,
+      "Eolica": 1107.083,
+      "Fotovoltaica": 4833.2536,
+      "Biomasa": 24.2636,
+      "Hidroelectrica": 3232.1513,
+      "Geotermoelectrica": 494.7909
+    },
+    {
+      "time": "2021/04/16 12:00",
+      "Total": 40849.4581,
+      "Eolica": 1313.3173,
+      "Fotovoltaica": 5218.289,
+      "Biomasa": 21.7364,
+      "Hidroelectrica": 3085.7043,
+      "Geotermoelectrica": 495.7207
+    },
+    {
+      "time": "2021/04/16 13:00",
+      "Total": 41586.9654,
+      "Eolica": 1502.2897,
+      "Fotovoltaica": 5335.6988,
+      "Biomasa": 22.0908,
+      "Hidroelectrica": 3442.6575,
+      "Geotermoelectrica": 496.5526
+    },
+    {
+      "time": "2021/04/16 14:00",
+      "Total": 42011.8901,
+      "Eolica": 1809.671,
+      "Fotovoltaica": 5352.2918,
+      "Biomasa": 19.8327,
+      "Hidroelectrica": 3535.538,
+      "Geotermoelectrica": 498.7078
+    },
+    {
+      "time": "2021/04/16 15:00",
+      "Total": 42349.3915,
+      "Eolica": 1938.9424,
+      "Fotovoltaica": 5127.9373,
+      "Biomasa": 19.2852,
+      "Hidroelectrica": 3802.6157,
+      "Geotermoelectrica": 500.9622
+    },
+    {
+      "time": "2021/04/16 16:00",
+      "Total": 43051.3658,
+      "Eolica": 1924.0735,
+      "Fotovoltaica": 4944.2433,
+      "Biomasa": 17.2263,
+      "Hidroelectrica": 4457.2781,
+      "Geotermoelectrica": 499.7529
+    },
+    {
+      "time": "2021/04/16 17:00",
+      "Total": 43284.6625,
+      "Eolica": 1938.8963,
+      "Fotovoltaica": 4715.0719,
+      "Biomasa": 18.7917,
+      "Hidroelectrica": 4150.2088,
+      "Geotermoelectrica": 498.719
+    },
+    {
+      "time": "2021/04/16 18:00",
+      "Total": 42906.7,
+      "Eolica": 2067.7431,
+      "Fotovoltaica": 4013.1382,
+      "Biomasa": 15.0505,
+      "Hidroelectrica": 3982.9064,
+      "Geotermoelectrica": 497.2125
+    },
+    {
+      "time": "2021/04/16 19:00",
+      "Total": 41885.3028,
+      "Eolica": 2398.401,
+      "Fotovoltaica": 2741.9675,
+      "Biomasa": 17.9631,
+      "Hidroelectrica": 3334.6745,
+      "Geotermoelectrica": 498.1303
+    },
+    {
+      "time": "2021/04/16 20:00",
+      "Total": 41545.0002,
+      "Eolica": 2431.2062,
+      "Fotovoltaica": 832.2769,
+      "Biomasa": 22.7002,
+      "Hidroelectrica": 4407.081,
+      "Geotermoelectrica": 501.8225
+    },
+    {
+      "time": "2021/04/16 21:00",
+      "Total": 42881.4692,
+      "Eolica": 2266.0971,
+      "Fotovoltaica": 92.0421,
+      "Biomasa": 16.2221,
+      "Hidroelectrica": 6602.7486,
+      "Geotermoelectrica": 502.5291
+    },
+    {
+      "time": "2021/04/16 22:00",
+      "Total": 43119.9464,
+      "Eolica": 2048.5898,
+      "Fotovoltaica": 0.0001,
+      "Biomasa": 20.5998,
+      "Hidroelectrica": 7754.4919,
+      "Geotermoelectrica": 502.6539
+    },
+    {
+      "time": "2021/04/16 23:00",
+      "Total": 42709.1147,
+      "Eolica": 1892.9629,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.7925,
+      "Hidroelectrica": 8034.3421,
+      "Geotermoelectrica": 504.5376
+    },
+    {
+      "time": "2021/04/17 00:00",
+      "Total": 41697.9118,
+      "Eolica": 1770.8917,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.5006,
+      "Hidroelectrica": 7401.0018,
+      "Geotermoelectrica": 504.9789
+    },
+    {
+      "time": "2021/04/17 01:00",
+      "Total": 40168.1208,
+      "Eolica": 1719.1509,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.1593,
+      "Hidroelectrica": 6487.9002,
+      "Geotermoelectrica": 506.1153
+    },
+    {
+      "time": "2021/04/17 02:00",
+      "Total": 38651.8222,
+      "Eolica": 1580.7683,
+      "Fotovoltaica": 0,
+      "Biomasa": 15.4088,
+      "Hidroelectrica": 4717.4735,
+      "Geotermoelectrica": 506.2633
+    },
+    {
+      "time": "2021/04/17 03:00",
+      "Total": 37176.1093,
+      "Eolica": 1735.5719,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.369,
+      "Hidroelectrica": 3230.012,
+      "Geotermoelectrica": 506.881
+    },
+    {
+      "time": "2021/04/17 04:00",
+      "Total": 36122.4131,
+      "Eolica": 1960.1026,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.9676,
+      "Hidroelectrica": 3157.4772,
+      "Geotermoelectrica": 507.5428
+    },
+    {
+      "time": "2021/04/17 05:00",
+      "Total": 35405.2661,
+      "Eolica": 2137.3519,
+      "Fotovoltaica": 0.0005,
+      "Biomasa": 22.093,
+      "Hidroelectrica": 2928.8517,
+      "Geotermoelectrica": 508.2699
+    },
+    {
+      "time": "2021/04/17 06:00",
+      "Total": 34937.5681,
+      "Eolica": 2771.0126,
+      "Fotovoltaica": 0.0204,
+      "Biomasa": 18.8304,
+      "Hidroelectrica": 2242.3599,
+      "Geotermoelectrica": 507.2319
+    },
+    {
+      "time": "2021/04/17 07:00",
+      "Total": 34951.4511,
+      "Eolica": 2763.2486,
+      "Fotovoltaica": 4.0677,
+      "Biomasa": 17.981,
+      "Hidroelectrica": 2689.6382,
+      "Geotermoelectrica": 488.9501
+    },
+    {
+      "time": "2021/04/17 08:00",
+      "Total": 35111.446,
+      "Eolica": 2671.2841,
+      "Fotovoltaica": 133.39,
+      "Biomasa": 20.1372,
+      "Hidroelectrica": 3125.86,
+      "Geotermoelectrica": 490.8855
+    },
+    {
+      "time": "2021/04/17 09:00",
+      "Total": 35868.5672,
+      "Eolica": 2394.6753,
+      "Fotovoltaica": 2087.5334,
+      "Biomasa": 18.1771,
+      "Hidroelectrica": 2822.1672,
+      "Geotermoelectrica": 487.247
+    },
+    {
+      "time": "2021/04/17 10:00",
+      "Total": 36815.9613,
+      "Eolica": 2765.6508,
+      "Fotovoltaica": 4688.2922,
+      "Biomasa": 21.5532,
+      "Hidroelectrica": 2128.66,
+      "Geotermoelectrica": 494.5467
+    },
+    {
+      "time": "2021/04/17 11:00",
+      "Total": 37411.9084,
+      "Eolica": 3232.817,
+      "Fotovoltaica": 5435.1534,
+      "Biomasa": 22.4479,
+      "Hidroelectrica": 1948.4849,
+      "Geotermoelectrica": 495.2036
+    },
+    {
+      "time": "2021/04/17 12:00",
+      "Total": 37904.5322,
+      "Eolica": 3300.155,
+      "Fotovoltaica": 6003.4685,
+      "Biomasa": 21.753,
+      "Hidroelectrica": 2320.7928,
+      "Geotermoelectrica": 493.0515
+    },
+    {
+      "time": "2021/04/17 13:00",
+      "Total": 38144.3052,
+      "Eolica": 3462.7516,
+      "Fotovoltaica": 6173.7133,
+      "Biomasa": 24.2334,
+      "Hidroelectrica": 2330.9406,
+      "Geotermoelectrica": 492.8814
+    },
+    {
+      "time": "2021/04/17 14:00",
+      "Total": 38117.0046,
+      "Eolica": 3621.1174,
+      "Fotovoltaica": 6122.5871,
+      "Biomasa": 23.6337,
+      "Hidroelectrica": 2151.484,
+      "Geotermoelectrica": 491.1622
+    },
+    {
+      "time": "2021/04/17 15:00",
+      "Total": 37768.1485,
+      "Eolica": 3722.9999,
+      "Fotovoltaica": 5976.4661,
+      "Biomasa": 21.0999,
+      "Hidroelectrica": 2613.5181,
+      "Geotermoelectrica": 489.2771
+    },
+    {
+      "time": "2021/04/17 16:00",
+      "Total": 37779.6835,
+      "Eolica": 3770.2242,
+      "Fotovoltaica": 5835.1502,
+      "Biomasa": 19.7795,
+      "Hidroelectrica": 3291.5735,
+      "Geotermoelectrica": 488.7137
+    },
+    {
+      "time": "2021/04/17 17:00",
+      "Total": 37739.7883,
+      "Eolica": 3753.5895,
+      "Fotovoltaica": 5440.4696,
+      "Biomasa": 17.1692,
+      "Hidroelectrica": 3860.9777,
+      "Geotermoelectrica": 488.9918
+    },
+    {
+      "time": "2021/04/17 18:00",
+      "Total": 37687.9319,
+      "Eolica": 3525.9757,
+      "Fotovoltaica": 5052.7416,
+      "Biomasa": 15.3508,
+      "Hidroelectrica": 4270.3222,
+      "Geotermoelectrica": 488.8098
+    },
+    {
+      "time": "2021/04/17 19:00",
+      "Total": 37267.8287,
+      "Eolica": 3130.7429,
+      "Fotovoltaica": 3954.9377,
+      "Biomasa": 19.6856,
+      "Hidroelectrica": 4571.6547,
+      "Geotermoelectrica": 489.5259
+    },
+    {
+      "time": "2021/04/17 20:00",
+      "Total": 37546.9313,
+      "Eolica": 2704.9798,
+      "Fotovoltaica": 1588.3398,
+      "Biomasa": 16.8305,
+      "Hidroelectrica": 5762.1577,
+      "Geotermoelectrica": 489.1156
+    },
+    {
+      "time": "2021/04/17 21:00",
+      "Total": 39401.3738,
+      "Eolica": 2269.9749,
+      "Fotovoltaica": 132.2913,
+      "Biomasa": 16.2582,
+      "Hidroelectrica": 7122.0417,
+      "Geotermoelectrica": 492.0799
+    },
+    {
+      "time": "2021/04/17 22:00",
+      "Total": 39623.9872,
+      "Eolica": 1962.6672,
+      "Fotovoltaica": 0,
+      "Biomasa": 14.5038,
+      "Hidroelectrica": 6883.0484,
+      "Geotermoelectrica": 494.3417
+    },
+    {
+      "time": "2021/04/17 23:00",
+      "Total": 38679.5468,
+      "Eolica": 1920.7967,
+      "Fotovoltaica": 0,
+      "Biomasa": 16.8363,
+      "Hidroelectrica": 5943.8359,
+      "Geotermoelectrica": 492.6566
+    },
+    {
+      "time": "2021/04/18 00:00",
+      "Total": 37020.1576,
+      "Eolica": 1896.8538,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.4426,
+      "Hidroelectrica": 4411.6173,
+      "Geotermoelectrica": 491.95
+    },
+    {
+      "time": "2021/04/18 01:00",
+      "Total": 35178.6783,
+      "Eolica": 1735.4974,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.5138,
+      "Hidroelectrica": 3554.1891,
+      "Geotermoelectrica": 516.1874
+    },
+    {
+      "time": "2021/04/18 02:00",
+      "Total": 33848.1407,
+      "Eolica": 1673.5376,
+      "Fotovoltaica": 0,
+      "Biomasa": 18.1782,
+      "Hidroelectrica": 2760.5998,
+      "Geotermoelectrica": 516.0061
+    },
+    {
+      "time": "2021/04/18 03:00",
+      "Total": 32935.7922,
+      "Eolica": 1805.6454,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.8905,
+      "Hidroelectrica": 2262.6817,
+      "Geotermoelectrica": 511.0897
+    },
+    {
+      "time": "2021/04/18 04:00",
+      "Total": 32149.1948,
+      "Eolica": 2091.1722,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.9887,
+      "Hidroelectrica": 2152.7828,
+      "Geotermoelectrica": 506.6765
+    },
+    {
+      "time": "2021/04/18 05:00",
+      "Total": 31555.1262,
+      "Eolica": 2194.5588,
+      "Fotovoltaica": 0.0014,
+      "Biomasa": 21.7154,
+      "Hidroelectrica": 2087.6418,
+      "Geotermoelectrica": 507.3596
+    },
+    {
+      "time": "2021/04/18 06:00",
+      "Total": 31159.8743,
+      "Eolica": 2242.1276,
+      "Fotovoltaica": 0.0334,
+      "Biomasa": 16.7297,
+      "Hidroelectrica": 2151.5715,
+      "Geotermoelectrica": 506.9672
+    },
+    {
+      "time": "2021/04/18 07:00",
+      "Total": 30865.2849,
+      "Eolica": 2218.457,
+      "Fotovoltaica": 4.0285,
+      "Biomasa": 20.2839,
+      "Hidroelectrica": 2384.792,
+      "Geotermoelectrica": 507.0377
+    },
+    {
+      "time": "2021/04/18 08:00",
+      "Total": 30521.9747,
+      "Eolica": 1775.6585,
+      "Fotovoltaica": 152.3963,
+      "Biomasa": 21.914,
+      "Hidroelectrica": 2488.0413,
+      "Geotermoelectrica": 510.9718
+    },
+    {
+      "time": "2021/04/18 09:00",
+      "Total": 30515.9574,
+      "Eolica": 1612.7598,
+      "Fotovoltaica": 2503.9904,
+      "Biomasa": 18.3447,
+      "Hidroelectrica": 1880.2466,
+      "Geotermoelectrica": 514.305
+    },
+    {
+      "time": "2021/04/18 10:00",
+      "Total": 31106.1912,
+      "Eolica": 1554.8072,
+      "Fotovoltaica": 5425.7938,
+      "Biomasa": 18.2711,
+      "Hidroelectrica": 1738.7413,
+      "Geotermoelectrica": 508.9795
+    },
+    {
+      "time": "2021/04/18 11:00",
+      "Total": 31729.3634,
+      "Eolica": 1575.9541,
+      "Fotovoltaica": 6220.2841,
+      "Biomasa": 16.9229,
+      "Hidroelectrica": 1967.2768,
+      "Geotermoelectrica": 505.064
+    },
+    {
+      "time": "2021/04/18 12:00",
+      "Total": 32204.9101,
+      "Eolica": 1609.7089,
+      "Fotovoltaica": 6344.8671,
+      "Biomasa": 19.861,
+      "Hidroelectrica": 2055.7557,
+      "Geotermoelectrica": 505.4999
+    },
+    {
+      "time": "2021/04/18 13:00",
+      "Total": 32343.3728,
+      "Eolica": 1717.9331,
+      "Fotovoltaica": 6329.2817,
+      "Biomasa": 19.7006,
+      "Hidroelectrica": 2010.4966,
+      "Geotermoelectrica": 506.0677
+    },
+    {
+      "time": "2021/04/18 14:00",
+      "Total": 32687.3512,
+      "Eolica": 1856.6592,
+      "Fotovoltaica": 6332.9277,
+      "Biomasa": 21.5837,
+      "Hidroelectrica": 2078.6526,
+      "Geotermoelectrica": 505.7631
+    },
+    {
+      "time": "2021/04/18 15:00",
+      "Total": 32724.3901,
+      "Eolica": 1841.5058,
+      "Fotovoltaica": 6329.5141,
+      "Biomasa": 22.8517,
+      "Hidroelectrica": 2019.241,
+      "Geotermoelectrica": 504.9359
+    },
+    {
+      "time": "2021/04/18 16:00",
+      "Total": 32752.7944,
+      "Eolica": 1908.5574,
+      "Fotovoltaica": 6237.4455,
+      "Biomasa": 17.4758,
+      "Hidroelectrica": 1965.4109,
+      "Geotermoelectrica": 504.621
+    },
+    {
+      "time": "2021/04/18 17:00",
+      "Total": 32986.9004,
+      "Eolica": 1901.506,
+      "Fotovoltaica": 6035.8421,
+      "Biomasa": 18.9115,
+      "Hidroelectrica": 2219.3103,
+      "Geotermoelectrica": 505.2217
+    },
+    {
+      "time": "2021/04/18 18:00",
+      "Total": 33174.4299,
+      "Eolica": 1990.2179,
+      "Fotovoltaica": 5421.0345,
+      "Biomasa": 19.1987,
+      "Hidroelectrica": 2672.568,
+      "Geotermoelectrica": 504.2471
+    },
+    {
+      "time": "2021/04/18 19:00",
+      "Total": 33349.1171,
+      "Eolica": 1978.2488,
+      "Fotovoltaica": 4413.7477,
+      "Biomasa": 22.1997,
+      "Hidroelectrica": 3150.7507,
+      "Geotermoelectrica": 505.3057
+    },
+    {
+      "time": "2021/04/18 20:00",
+      "Total": 34020.5968,
+      "Eolica": 2025.2152,
+      "Fotovoltaica": 1701.5181,
+      "Biomasa": 21.9451,
+      "Hidroelectrica": 4691.5553,
+      "Geotermoelectrica": 508.462
+    },
+    {
+      "time": "2021/04/18 21:00",
+      "Total": 36620.0463,
+      "Eolica": 2118.7395,
+      "Fotovoltaica": 142.1487,
+      "Biomasa": 22.5514,
+      "Hidroelectrica": 6461.8541,
+      "Geotermoelectrica": 511.5945
+    },
+    {
+      "time": "2021/04/18 22:00",
+      "Total": 37308.35,
+      "Eolica": 2508.0836,
+      "Fotovoltaica": 0.0077,
+      "Biomasa": 24.4499,
+      "Hidroelectrica": 6146.102,
+      "Geotermoelectrica": 515.6966
+    },
+    {
+      "time": "2021/04/18 23:00",
+      "Total": 36296.7413,
+      "Eolica": 2874.9622,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.5151,
+      "Hidroelectrica": 5181.8177,
+      "Geotermoelectrica": 517.0135
+    },
+    {
+      "time": "2021/04/19 00:00",
+      "Total": 34702.5732,
+      "Eolica": 2908.5517,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.7356,
+      "Hidroelectrica": 3834.2961,
+      "Geotermoelectrica": 503.9926
+    },
+    {
+      "time": "2021/04/19 01:00",
+      "Total": 33120.9855,
+      "Eolica": 2745.5277,
+      "Fotovoltaica": 0.0578,
+      "Biomasa": 24.6333,
+      "Hidroelectrica": 2623.6256,
+      "Geotermoelectrica": 486.6104
+    },
+    {
+      "time": "2021/04/19 02:00",
+      "Total": 31823.2526,
+      "Eolica": 2599.5445,
+      "Fotovoltaica": 0.0608,
+      "Biomasa": 19.2865,
+      "Hidroelectrica": 2271.5635,
+      "Geotermoelectrica": 488.164
+    },
+    {
+      "time": "2021/04/19 03:00",
+      "Total": 30887.6525,
+      "Eolica": 2412.8948,
+      "Fotovoltaica": 0.0596,
+      "Biomasa": 15.337,
+      "Hidroelectrica": 2213.2482,
+      "Geotermoelectrica": 486.8529
+    },
+    {
+      "time": "2021/04/19 04:00",
+      "Total": 30566.5073,
+      "Eolica": 2421.6301,
+      "Fotovoltaica": 0.0603,
+      "Biomasa": 17.6137,
+      "Hidroelectrica": 2251.6128,
+      "Geotermoelectrica": 486.7546
+    },
+    {
+      "time": "2021/04/19 05:00",
+      "Total": 30364.4329,
+      "Eolica": 2360.3876,
+      "Fotovoltaica": 0.0577,
+      "Biomasa": 23.369,
+      "Hidroelectrica": 2008.1728,
+      "Geotermoelectrica": 486.6817
+    },
+    {
+      "time": "2021/04/19 06:00",
+      "Total": 30627.5692,
+      "Eolica": 2372.9922,
+      "Fotovoltaica": 0.0604,
+      "Biomasa": 22.8555,
+      "Hidroelectrica": 2071.3134,
+      "Geotermoelectrica": 486.2099
+    },
+    {
+      "time": "2021/04/19 07:00",
+      "Total": 32086.9149,
+      "Eolica": 2194.8042,
+      "Fotovoltaica": 5.2679,
+      "Biomasa": 19.9411,
+      "Hidroelectrica": 2944.5097,
+      "Geotermoelectrica": 487.3669
+    },
+    {
+      "time": "2021/04/19 08:00",
+      "Total": 33678.9574,
+      "Eolica": 2006.4637,
+      "Fotovoltaica": 164.4469,
+      "Biomasa": 23.0276,
+      "Hidroelectrica": 3447.0584,
+      "Geotermoelectrica": 488.0498
+    },
+    {
+      "time": "2021/04/19 09:00",
+      "Total": 35330.3975,
+      "Eolica": 1884.4199,
+      "Fotovoltaica": 2404.8057,
+      "Biomasa": 20.0967,
+      "Hidroelectrica": 2902.7976,
+      "Geotermoelectrica": 482.7657
+    },
+    {
+      "time": "2021/04/19 10:00",
+      "Total": 36878.2362,
+      "Eolica": 1937.116,
+      "Fotovoltaica": 5116.129,
+      "Biomasa": 23.15,
+      "Hidroelectrica": 2508.6018,
+      "Geotermoelectrica": 480.1035
+    },
+    {
+      "time": "2021/04/19 11:00",
+      "Total": 37613.1442,
+      "Eolica": 1945.7456,
+      "Fotovoltaica": 5952.7275,
+      "Biomasa": 23.5239,
+      "Hidroelectrica": 2905.177,
+      "Geotermoelectrica": 478.1309
+    },
+    {
+      "time": "2021/04/19 12:00",
+      "Total": 38314.7788,
+      "Eolica": 2005.0567,
+      "Fotovoltaica": 6080.6767,
+      "Biomasa": 22.8411,
+      "Hidroelectrica": 3108.9106,
+      "Geotermoelectrica": 478.7041
+    },
+    {
+      "time": "2021/04/19 13:00",
+      "Total": 38881.4154,
+      "Eolica": 2034.8733,
+      "Fotovoltaica": 6343.4157,
+      "Biomasa": 20.2287,
+      "Hidroelectrica": 3153.5311,
+      "Geotermoelectrica": 485.2424
+    },
+    {
+      "time": "2021/04/19 14:00",
+      "Total": 39193.2146,
+      "Eolica": 1990.9784,
+      "Fotovoltaica": 6434.4575,
+      "Biomasa": 19.3503,
+      "Hidroelectrica": 2915.5632,
+      "Geotermoelectrica": 489.5532
+    },
+    {
+      "time": "2021/04/19 15:00",
+      "Total": 39426.1457,
+      "Eolica": 1814.4514,
+      "Fotovoltaica": 6370.8226,
+      "Biomasa": 11.3173,
+      "Hidroelectrica": 3195.4618,
+      "Geotermoelectrica": 494.2835
+    },
+    {
+      "time": "2021/04/19 16:00",
+      "Total": 39535.8899,
+      "Eolica": 1747.2226,
+      "Fotovoltaica": 6231.5662,
+      "Biomasa": 15.442,
+      "Hidroelectrica": 3686.6838,
+      "Geotermoelectrica": 493.8172
+    },
+    {
+      "time": "2021/04/19 17:00",
+      "Total": 39661.7205,
+      "Eolica": 1888.6326,
+      "Fotovoltaica": 5795.1133,
+      "Biomasa": 16.3709,
+      "Hidroelectrica": 4208.6847,
+      "Geotermoelectrica": 493.9335
+    },
+    {
+      "time": "2021/04/19 18:00",
+      "Total": 39322.194,
+      "Eolica": 2096.2088,
+      "Fotovoltaica": 5336.4304,
+      "Biomasa": 16.9172,
+      "Hidroelectrica": 4180.3605,
+      "Geotermoelectrica": 495.5097
+    },
+    {
+      "time": "2021/04/19 19:00",
+      "Total": 38842.1759,
+      "Eolica": 2401.6069,
+      "Fotovoltaica": 4389.3329,
+      "Biomasa": 18.9799,
+      "Hidroelectrica": 4063.0887,
+      "Geotermoelectrica": 496.0212
+    },
+    {
+      "time": "2021/04/19 20:00",
+      "Total": 38612.1316,
+      "Eolica": 2515.6547,
+      "Fotovoltaica": 1933.7354,
+      "Biomasa": 26.449,
+      "Hidroelectrica": 5579.6522,
+      "Geotermoelectrica": 496.5118
+    },
+    {
+      "time": "2021/04/19 21:00",
+      "Total": 40191.6725,
+      "Eolica": 2266.0026,
+      "Fotovoltaica": 162.0837,
+      "Biomasa": 22.1088,
+      "Hidroelectrica": 7750.3941,
+      "Geotermoelectrica": 496.5807
+    },
+    {
+      "time": "2021/04/19 22:00",
+      "Total": 40677.0593,
+      "Eolica": 2153.2643,
+      "Fotovoltaica": 0.0035,
+      "Biomasa": 21.3236,
+      "Hidroelectrica": 8055.1244,
+      "Geotermoelectrica": 494.1725
+    },
+    {
+      "time": "2021/04/19 23:00",
+      "Total": 39764.1116,
+      "Eolica": 1967.4186,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.9831,
+      "Hidroelectrica": 7451.1622,
+      "Geotermoelectrica": 500.2894
+    },
+    {
+      "time": "2021/04/20 00:00",
+      "Total": 38205.4506,
+      "Eolica": 1666.6584,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.0015,
+      "Hidroelectrica": 6517.7316,
+      "Geotermoelectrica": 502.0883
+    },
+    {
+      "time": "2021/04/20 01:00",
+      "Total": 36172.7762,
+      "Eolica": 1695.8089,
+      "Fotovoltaica": 0,
+      "Biomasa": 25.4556,
+      "Hidroelectrica": 4786.3366,
+      "Geotermoelectrica": 504.0115
+    },
+    {
+      "time": "2021/04/20 02:00",
+      "Total": 34962.5304,
+      "Eolica": 1567.32,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.2066,
+      "Hidroelectrica": 3656.9925,
+      "Geotermoelectrica": 505.0401
+    },
+    {
+      "time": "2021/04/20 03:00",
+      "Total": 33803.8802,
+      "Eolica": 1385.2124,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.2528,
+      "Hidroelectrica": 2575.6143,
+      "Geotermoelectrica": 505.0536
+    },
+    {
+      "time": "2021/04/20 04:00",
+      "Total": 33229.9001,
+      "Eolica": 1244.0644,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.9952,
+      "Hidroelectrica": 2259.5722,
+      "Geotermoelectrica": 505.9708
+    },
+    {
+      "time": "2021/04/20 05:00",
+      "Total": 32898.3666,
+      "Eolica": 992.4252,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.958,
+      "Hidroelectrica": 2139.3824,
+      "Geotermoelectrica": 507.0589
+    },
+    {
+      "time": "2021/04/20 06:00",
+      "Total": 33033.5567,
+      "Eolica": 770.979,
+      "Fotovoltaica": 0.024,
+      "Biomasa": 23.8193,
+      "Hidroelectrica": 2504.841,
+      "Geotermoelectrica": 507.5923
+    },
+    {
+      "time": "2021/04/20 07:00",
+      "Total": 33901.4813,
+      "Eolica": 631.7804,
+      "Fotovoltaica": 5.5912,
+      "Biomasa": 24.2582,
+      "Hidroelectrica": 3177.2351,
+      "Geotermoelectrica": 506.2491
+    },
+    {
+      "time": "2021/04/20 08:00",
+      "Total": 34815.3526,
+      "Eolica": 534.7216,
+      "Fotovoltaica": 166.2713,
+      "Biomasa": 24.2062,
+      "Hidroelectrica": 3523.0322,
+      "Geotermoelectrica": 498.2398
+    },
+    {
+      "time": "2021/04/20 09:00",
+      "Total": 36118.395,
+      "Eolica": 453.0547,
+      "Fotovoltaica": 2602.2366,
+      "Biomasa": 22.6397,
+      "Hidroelectrica": 3249.2056,
+      "Geotermoelectrica": 491.4214
+    },
+    {
+      "time": "2021/04/20 10:00",
+      "Total": 37454.3147,
+      "Eolica": 421.8324,
+      "Fotovoltaica": 5454.224,
+      "Biomasa": 14.8032,
+      "Hidroelectrica": 3496.9576,
+      "Geotermoelectrica": 487.6398
+    },
+    {
+      "time": "2021/04/20 11:00",
+      "Total": 38228.9236,
+      "Eolica": 313.7973,
+      "Fotovoltaica": 6252.0987,
+      "Biomasa": 15.9982,
+      "Hidroelectrica": 3590.3701,
+      "Geotermoelectrica": 486.8648
+    },
+    {
+      "time": "2021/04/20 12:00",
+      "Total": 38908.6466,
+      "Eolica": 252.3173,
+      "Fotovoltaica": 6390.1962,
+      "Biomasa": 21.1657,
+      "Hidroelectrica": 3779.5164,
+      "Geotermoelectrica": 485.5052
+    },
+    {
+      "time": "2021/04/20 13:00",
+      "Total": 39284.0377,
+      "Eolica": 314.9612,
+      "Fotovoltaica": 6434.569,
+      "Biomasa": 15.7861,
+      "Hidroelectrica": 3773.649,
+      "Geotermoelectrica": 497.2682
+    },
+    {
+      "time": "2021/04/20 14:00",
+      "Total": 39423.3211,
+      "Eolica": 433.1466,
+      "Fotovoltaica": 6463.5145,
+      "Biomasa": 18.8671,
+      "Hidroelectrica": 3448.6193,
+      "Geotermoelectrica": 497.01
+    },
+    {
+      "time": "2021/04/20 15:00",
+      "Total": 40008.3807,
+      "Eolica": 724.2849,
+      "Fotovoltaica": 6442.0539,
+      "Biomasa": 20.1958,
+      "Hidroelectrica": 3749.1649,
+      "Geotermoelectrica": 496.3654
+    },
+    {
+      "time": "2021/04/20 16:00",
+      "Total": 40321.3631,
+      "Eolica": 1127.6821,
+      "Fotovoltaica": 6367.4948,
+      "Biomasa": 19.935,
+      "Hidroelectrica": 3773.7501,
+      "Geotermoelectrica": 493.804
+    },
+    {
+      "time": "2021/04/20 17:00",
+      "Total": 40589.6319,
+      "Eolica": 1533.1632,
+      "Fotovoltaica": 6158.8,
+      "Biomasa": 19.7553,
+      "Hidroelectrica": 3809.7952,
+      "Geotermoelectrica": 494.3604
+    },
+    {
+      "time": "2021/04/20 18:00",
+      "Total": 40462.3224,
+      "Eolica": 2205.5864,
+      "Fotovoltaica": 5826.8429,
+      "Biomasa": 12.4093,
+      "Hidroelectrica": 3572.3053,
+      "Geotermoelectrica": 492.159
+    },
+    {
+      "time": "2021/04/20 19:00",
+      "Total": 39804.2771,
+      "Eolica": 2939.7755,
+      "Fotovoltaica": 4712.0732,
+      "Biomasa": 18.9765,
+      "Hidroelectrica": 3246.2673,
+      "Geotermoelectrica": 495.7386
+    },
+    {
+      "time": "2021/04/20 20:00",
+      "Total": 39523.1822,
+      "Eolica": 3232.2764,
+      "Fotovoltaica": 1953.7624,
+      "Biomasa": 22.1191,
+      "Hidroelectrica": 4738.4354,
+      "Geotermoelectrica": 498.7862
+    },
+    {
+      "time": "2021/04/20 21:00",
+      "Total": 41172.8014,
+      "Eolica": 3156.3708,
+      "Fotovoltaica": 166.4444,
+      "Biomasa": 24.6467,
+      "Hidroelectrica": 7674.9946,
+      "Geotermoelectrica": 499.6237
+    },
+    {
+      "time": "2021/04/20 22:00",
+      "Total": 41371.879,
+      "Eolica": 3144.6795,
+      "Fotovoltaica": 0.0766,
+      "Biomasa": 17.0976,
+      "Hidroelectrica": 8059.7675,
+      "Geotermoelectrica": 502.2416
+    },
+    {
+      "time": "2021/04/20 23:00",
+      "Total": 40592.247,
+      "Eolica": 2831.3319,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.1503,
+      "Hidroelectrica": 8200.4922,
+      "Geotermoelectrica": 503.1176
+    },
+    {
+      "time": "2021/04/21 00:00",
+      "Total": 39017.6636,
+      "Eolica": 2433.5235,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.1341,
+      "Hidroelectrica": 7522.9769,
+      "Geotermoelectrica": 502.721
+    },
+    {
+      "time": "2021/04/21 01:00",
+      "Total": 37066.8779,
+      "Eolica": 2335.6874,
+      "Fotovoltaica": 0,
+      "Biomasa": 18.5521,
+      "Hidroelectrica": 5448.3437,
+      "Geotermoelectrica": 504.3149
+    },
+    {
+      "time": "2021/04/21 02:00",
+      "Total": 35771.6269,
+      "Eolica": 2449.9078,
+      "Fotovoltaica": 0,
+      "Biomasa": 18.5617,
+      "Hidroelectrica": 3717.4236,
+      "Geotermoelectrica": 504.1986
+    },
+    {
+      "time": "2021/04/21 03:00",
+      "Total": 34734.0746,
+      "Eolica": 2621.7559,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.4837,
+      "Hidroelectrica": 2750.2522,
+      "Geotermoelectrica": 504.8919
+    },
+    {
+      "time": "2021/04/21 04:00",
+      "Total": 34123.8145,
+      "Eolica": 2634.0329,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.7731,
+      "Hidroelectrica": 1945.7797,
+      "Geotermoelectrica": 504.0634
+    },
+    {
+      "time": "2021/04/21 05:00",
+      "Total": 33734.0303,
+      "Eolica": 2573.9103,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.3174,
+      "Hidroelectrica": 1960.8718,
+      "Geotermoelectrica": 505.4411
+    },
+    {
+      "time": "2021/04/21 06:00",
+      "Total": 33836.5413,
+      "Eolica": 2501.7238,
+      "Fotovoltaica": 0.001,
+      "Biomasa": 21.215,
+      "Hidroelectrica": 2141.6131,
+      "Geotermoelectrica": 506.7269
+    },
+    {
+      "time": "2021/04/21 07:00",
+      "Total": 34627.4794,
+      "Eolica": 2334.0521,
+      "Fotovoltaica": 5.5562,
+      "Biomasa": 21.5613,
+      "Hidroelectrica": 2455.6861,
+      "Geotermoelectrica": 507.8009
+    },
+    {
+      "time": "2021/04/21 08:00",
+      "Total": 35566.8297,
+      "Eolica": 2675.9532,
+      "Fotovoltaica": 171.4974,
+      "Biomasa": 22.1836,
+      "Hidroelectrica": 2532.7482,
+      "Geotermoelectrica": 506.1361
+    },
+    {
+      "time": "2021/04/21 09:00",
+      "Total": 36873.4389,
+      "Eolica": 2693.5149,
+      "Fotovoltaica": 2461.9545,
+      "Biomasa": 21.6755,
+      "Hidroelectrica": 2190.689,
+      "Geotermoelectrica": 503.39
+    },
+    {
+      "time": "2021/04/21 10:00",
+      "Total": 37968.0309,
+      "Eolica": 2883.7442,
+      "Fotovoltaica": 5373.3359,
+      "Biomasa": 14.6819,
+      "Hidroelectrica": 2157.678,
+      "Geotermoelectrica": 501.1671
+    },
+    {
+      "time": "2021/04/21 11:00",
+      "Total": 38515.3439,
+      "Eolica": 3141.9356,
+      "Fotovoltaica": 6242.2609,
+      "Biomasa": 6.6516,
+      "Hidroelectrica": 2583.0909,
+      "Geotermoelectrica": 499.9744
+    },
+    {
+      "time": "2021/04/21 12:00",
+      "Total": 39170.7177,
+      "Eolica": 3354.4346,
+      "Fotovoltaica": 6405.4743,
+      "Biomasa": 15.9403,
+      "Hidroelectrica": 2935.085,
+      "Geotermoelectrica": 501.553
+    },
+    {
+      "time": "2021/04/21 13:00",
+      "Total": 39601.7804,
+      "Eolica": 3565.5545,
+      "Fotovoltaica": 6465.2126,
+      "Biomasa": 17.6767,
+      "Hidroelectrica": 3100.5229,
+      "Geotermoelectrica": 500.8542
+    },
+    {
+      "time": "2021/04/21 14:00",
+      "Total": 40075.7694,
+      "Eolica": 3808.1,
+      "Fotovoltaica": 6483.8173,
+      "Biomasa": 17.8551,
+      "Hidroelectrica": 3384.4707,
+      "Geotermoelectrica": 500.29
+    },
+    {
+      "time": "2021/04/21 15:00",
+      "Total": 40331.0369,
+      "Eolica": 4073.0626,
+      "Fotovoltaica": 6413.3496,
+      "Biomasa": 17.9388,
+      "Hidroelectrica": 3897.979,
+      "Geotermoelectrica": 499.9362
+    },
+    {
+      "time": "2021/04/21 16:00",
+      "Total": 40653.3283,
+      "Eolica": 4203.8073,
+      "Fotovoltaica": 6336.9518,
+      "Biomasa": 21.5999,
+      "Hidroelectrica": 4594.8484,
+      "Geotermoelectrica": 499.0126
+    },
+    {
+      "time": "2021/04/21 17:00",
+      "Total": 40727.7918,
+      "Eolica": 4335.6775,
+      "Fotovoltaica": 6050.3294,
+      "Biomasa": 19.6353,
+      "Hidroelectrica": 4543.4387,
+      "Geotermoelectrica": 498.3092
+    },
+    {
+      "time": "2021/04/21 18:00",
+      "Total": 40406.0905,
+      "Eolica": 4643.0334,
+      "Fotovoltaica": 5441.4254,
+      "Biomasa": 23.5994,
+      "Hidroelectrica": 4237.0146,
+      "Geotermoelectrica": 495.9161
+    },
+    {
+      "time": "2021/04/21 19:00",
+      "Total": 39703.0922,
+      "Eolica": 4656.4977,
+      "Fotovoltaica": 4465.5571,
+      "Biomasa": 23.8955,
+      "Hidroelectrica": 4137.0424,
+      "Geotermoelectrica": 496.2461
+    },
+    {
+      "time": "2021/04/21 20:00",
+      "Total": 39625.93,
+      "Eolica": 4565.1782,
+      "Fotovoltaica": 1778.0419,
+      "Biomasa": 23.4978,
+      "Hidroelectrica": 6003.3053,
+      "Geotermoelectrica": 499.9581
+    },
+    {
+      "time": "2021/04/21 21:00",
+      "Total": 41246.9286,
+      "Eolica": 4602.9864,
+      "Fotovoltaica": 171.9467,
+      "Biomasa": 24.2165,
+      "Hidroelectrica": 7868.7123,
+      "Geotermoelectrica": 498.7839
+    },
+    {
+      "time": "2021/04/21 22:00",
+      "Total": 41374.7653,
+      "Eolica": 4716.9054,
+      "Fotovoltaica": 0.0227,
+      "Biomasa": 21.5732,
+      "Hidroelectrica": 7962.7915,
+      "Geotermoelectrica": 500.3035
+    },
+    {
+      "time": "2021/04/21 23:00",
+      "Total": 40506.4239,
+      "Eolica": 4475.6812,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.65,
+      "Hidroelectrica": 6965.2086,
+      "Geotermoelectrica": 502.516
+    },
+    {
+      "time": "2021/04/22 00:00",
+      "Total": 38930.3887,
+      "Eolica": 4206.0802,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.3848,
+      "Hidroelectrica": 5559.1899,
+      "Geotermoelectrica": 503.2928
+    },
+    {
+      "time": "2021/04/22 01:00",
+      "Total": 37143.9538,
+      "Eolica": 4010.4993,
+      "Fotovoltaica": 0,
+      "Biomasa": 18.0557,
+      "Hidroelectrica": 4222.0441,
+      "Geotermoelectrica": 505.8517
+    },
+    {
+      "time": "2021/04/22 02:00",
+      "Total": 35615.012,
+      "Eolica": 3726.4957,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.9909,
+      "Hidroelectrica": 3314.5272,
+      "Geotermoelectrica": 506.3277
+    },
+    {
+      "time": "2021/04/22 03:00",
+      "Total": 34605.4286,
+      "Eolica": 3625.1262,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.9541,
+      "Hidroelectrica": 3067.508,
+      "Geotermoelectrica": 506.8049
+    },
+    {
+      "time": "2021/04/22 04:00",
+      "Total": 33973.6685,
+      "Eolica": 3595.5462,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.9389,
+      "Hidroelectrica": 2987.4591,
+      "Geotermoelectrica": 507.7532
+    },
+    {
+      "time": "2021/04/22 05:00",
+      "Total": 33833.1469,
+      "Eolica": 3478.5481,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.7759,
+      "Hidroelectrica": 3034.356,
+      "Geotermoelectrica": 507.9889
+    },
+    {
+      "time": "2021/04/22 06:00",
+      "Total": 33960.9264,
+      "Eolica": 3404.4892,
+      "Fotovoltaica": 0.001,
+      "Biomasa": 17.7258,
+      "Hidroelectrica": 3098.3465,
+      "Geotermoelectrica": 508.1324
+    },
+    {
+      "time": "2021/04/22 07:00",
+      "Total": 34546.82,
+      "Eolica": 3297.7796,
+      "Fotovoltaica": 1.489,
+      "Biomasa": 19.4957,
+      "Hidroelectrica": 3336.378,
+      "Geotermoelectrica": 509.4174
+    },
+    {
+      "time": "2021/04/22 08:00",
+      "Total": 35642.6179,
+      "Eolica": 3306.3384,
+      "Fotovoltaica": 155.1276,
+      "Biomasa": 20.3458,
+      "Hidroelectrica": 3853.1821,
+      "Geotermoelectrica": 508.8742
+    },
+    {
+      "time": "2021/04/22 09:00",
+      "Total": 37038.5977,
+      "Eolica": 3256.9472,
+      "Fotovoltaica": 2059.2298,
+      "Biomasa": 18.9668,
+      "Hidroelectrica": 3903.3998,
+      "Geotermoelectrica": 502.7982
+    },
+    {
+      "time": "2021/04/22 10:00",
+      "Total": 37998.258,
+      "Eolica": 3448.6327,
+      "Fotovoltaica": 4713.684,
+      "Biomasa": 18.1855,
+      "Hidroelectrica": 3488.6188,
+      "Geotermoelectrica": 497.4338
+    },
+    {
+      "time": "2021/04/22 11:00",
+      "Total": 38872.9064,
+      "Eolica": 3424.5586,
+      "Fotovoltaica": 5805.7587,
+      "Biomasa": 19.3037,
+      "Hidroelectrica": 3854.0946,
+      "Geotermoelectrica": 499.4306
+    },
+    {
+      "time": "2021/04/22 12:00",
+      "Total": 39192.9086,
+      "Eolica": 3246.8978,
+      "Fotovoltaica": 6059.2612,
+      "Biomasa": 20.1209,
+      "Hidroelectrica": 4064.8311,
+      "Geotermoelectrica": 500.3408
+    },
+    {
+      "time": "2021/04/22 13:00",
+      "Total": 39630.045,
+      "Eolica": 3358.3732,
+      "Fotovoltaica": 5985.3469,
+      "Biomasa": 22.0114,
+      "Hidroelectrica": 3959.7136,
+      "Geotermoelectrica": 502.277
+    },
+    {
+      "time": "2021/04/22 14:00",
+      "Total": 40294.5654,
+      "Eolica": 3501.2855,
+      "Fotovoltaica": 5883.2496,
+      "Biomasa": 23.1,
+      "Hidroelectrica": 3805.6722,
+      "Geotermoelectrica": 501.4953
+    },
+    {
+      "time": "2021/04/22 15:00",
+      "Total": 40462.6356,
+      "Eolica": 3710.6653,
+      "Fotovoltaica": 5778.7507,
+      "Biomasa": 21.3986,
+      "Hidroelectrica": 3441.8094,
+      "Geotermoelectrica": 498.1903
+    },
+    {
+      "time": "2021/04/22 16:00",
+      "Total": 40912.8304,
+      "Eolica": 3920.0801,
+      "Fotovoltaica": 5435.9547,
+      "Biomasa": 22.0311,
+      "Hidroelectrica": 4069.9414,
+      "Geotermoelectrica": 499.9309
+    },
+    {
+      "time": "2021/04/22 17:00",
+      "Total": 41249.352,
+      "Eolica": 4002.3154,
+      "Fotovoltaica": 5044.6268,
+      "Biomasa": 22.1089,
+      "Hidroelectrica": 4400.6963,
+      "Geotermoelectrica": 499.8181
+    },
+    {
+      "time": "2021/04/22 18:00",
+      "Total": 40894.0331,
+      "Eolica": 4174.6422,
+      "Fotovoltaica": 4193.7763,
+      "Biomasa": 23.1275,
+      "Hidroelectrica": 4556.6298,
+      "Geotermoelectrica": 498.8231
+    },
+    {
+      "time": "2021/04/22 19:00",
+      "Total": 39810.2711,
+      "Eolica": 4264.3361,
+      "Fotovoltaica": 3018.922,
+      "Biomasa": 23.4579,
+      "Hidroelectrica": 4292.4369,
+      "Geotermoelectrica": 499.7601
+    },
+    {
+      "time": "2021/04/22 20:00",
+      "Total": 39716.458,
+      "Eolica": 4239.4399,
+      "Fotovoltaica": 1440.1869,
+      "Biomasa": 25.1737,
+      "Hidroelectrica": 5660.8965,
+      "Geotermoelectrica": 500.7041
+    },
+    {
+      "time": "2021/04/22 21:00",
+      "Total": 41255.6018,
+      "Eolica": 3765.1914,
+      "Fotovoltaica": 163.7582,
+      "Biomasa": 25.3392,
+      "Hidroelectrica": 8012.507,
+      "Geotermoelectrica": 501.4224
+    },
+    {
+      "time": "2021/04/22 22:00",
+      "Total": 41628.9223,
+      "Eolica": 3690.2892,
+      "Fotovoltaica": 0.0183,
+      "Biomasa": 21.6224,
+      "Hidroelectrica": 8312.7324,
+      "Geotermoelectrica": 502.0611
+    },
+    {
+      "time": "2021/04/22 23:00",
+      "Total": 41015.7991,
+      "Eolica": 3467.6825,
+      "Fotovoltaica": 0,
+      "Biomasa": 20.9874,
+      "Hidroelectrica": 8282.6304,
+      "Geotermoelectrica": 502.9946
+    },
+    {
+      "time": "2021/04/23 00:00",
+      "Total": 39758.7382,
+      "Eolica": 3317.759,
+      "Fotovoltaica": 0,
+      "Biomasa": 16.5738,
+      "Hidroelectrica": 7556.6273,
+      "Geotermoelectrica": 503.49
+    },
+    {
+      "time": "2021/04/23 01:00",
+      "Total": 37614.2148,
+      "Eolica": 3059.7194,
+      "Fotovoltaica": 0,
+      "Biomasa": 18.273,
+      "Hidroelectrica": 5584.2201,
+      "Geotermoelectrica": 502.0895
+    },
+    {
+      "time": "2021/04/23 02:00",
+      "Total": 36454.3286,
+      "Eolica": 2572.5909,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.1491,
+      "Hidroelectrica": 4959.6584,
+      "Geotermoelectrica": 502.5269
+    },
+    {
+      "time": "2021/04/23 03:00",
+      "Total": 35291.231,
+      "Eolica": 2214.2274,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.5334,
+      "Hidroelectrica": 3998.972,
+      "Geotermoelectrica": 503.5115
+    },
+    {
+      "time": "2021/04/23 04:00",
+      "Total": 34705.1118,
+      "Eolica": 2148.8304,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.8598,
+      "Hidroelectrica": 3428.377,
+      "Geotermoelectrica": 504.1545
+    },
+    {
+      "time": "2021/04/23 05:00",
+      "Total": 34357.9541,
+      "Eolica": 2287.8099,
+      "Fotovoltaica": 0.0021,
+      "Biomasa": 15.7652,
+      "Hidroelectrica": 2915.1314,
+      "Geotermoelectrica": 504.5235
+    },
+    {
+      "time": "2021/04/23 06:00",
+      "Total": 34457.4443,
+      "Eolica": 2499.7187,
+      "Fotovoltaica": 0.0291,
+      "Biomasa": 18.8241,
+      "Hidroelectrica": 3006.1751,
+      "Geotermoelectrica": 505.23
+    },
+    {
+      "time": "2021/04/23 07:00",
+      "Total": 35107.1842,
+      "Eolica": 2477.4755,
+      "Fotovoltaica": 6.113,
+      "Biomasa": 17.7682,
+      "Hidroelectrica": 3501.9984,
+      "Geotermoelectrica": 505.1829
+    },
+    {
+      "time": "2021/04/23 08:00",
+      "Total": 35782.9928,
+      "Eolica": 2436.3464,
+      "Fotovoltaica": 171.9539,
+      "Biomasa": 15.6424,
+      "Hidroelectrica": 3955.3945,
+      "Geotermoelectrica": 504.2548
+    },
+    {
+      "time": "2021/04/23 09:00",
+      "Total": 37093.4895,
+      "Eolica": 2301.584,
+      "Fotovoltaica": 2276.6583,
+      "Biomasa": 16.4052,
+      "Hidroelectrica": 4033.5308,
+      "Geotermoelectrica": 499.8441
+    },
+    {
+      "time": "2021/04/23 10:00",
+      "Total": 38461.1774,
+      "Eolica": 2452.181,
+      "Fotovoltaica": 5042.4635,
+      "Biomasa": 18.3862,
+      "Hidroelectrica": 3698.2818,
+      "Geotermoelectrica": 497.794
+    },
+    {
+      "time": "2021/04/23 11:00",
+      "Total": 38903.5903,
+      "Eolica": 2400.334,
+      "Fotovoltaica": 5957.696,
+      "Biomasa": 16.7541,
+      "Hidroelectrica": 3899.2375,
+      "Geotermoelectrica": 494.3228
+    },
+    {
+      "time": "2021/04/23 12:00",
+      "Total": 39740.4146,
+      "Eolica": 2551.1961,
+      "Fotovoltaica": 6253.6799,
+      "Biomasa": 13.4591,
+      "Hidroelectrica": 4342.454,
+      "Geotermoelectrica": 489.9388
+    },
+    {
+      "time": "2021/04/23 13:00",
+      "Total": 40395.8468,
+      "Eolica": 2782.1451,
+      "Fotovoltaica": 6216.03,
+      "Biomasa": 17.4527,
+      "Hidroelectrica": 4735.3162,
+      "Geotermoelectrica": 486.1458
+    },
+    {
+      "time": "2021/04/23 14:00",
+      "Total": 40625.2475,
+      "Eolica": 3051.3804,
+      "Fotovoltaica": 6162.0211,
+      "Biomasa": 15.3897,
+      "Hidroelectrica": 4476.8002,
+      "Geotermoelectrica": 485.4985
+    },
+    {
+      "time": "2021/04/23 15:00",
+      "Total": 41020.0291,
+      "Eolica": 2710.9263,
+      "Fotovoltaica": 6213.2025,
+      "Biomasa": 13.6368,
+      "Hidroelectrica": 4534.6708,
+      "Geotermoelectrica": 492.3086
+    },
+    {
+      "time": "2021/04/23 16:00",
+      "Total": 41290.3226,
+      "Eolica": 2492.9473,
+      "Fotovoltaica": 6003.218,
+      "Biomasa": 9.3353,
+      "Hidroelectrica": 4763.1176,
+      "Geotermoelectrica": 493.9863
+    },
+    {
+      "time": "2021/04/23 17:00",
+      "Total": 41501.4092,
+      "Eolica": 2881.0699,
+      "Fotovoltaica": 5577.8512,
+      "Biomasa": 16.5453,
+      "Hidroelectrica": 5006.6946,
+      "Geotermoelectrica": 494.6935
+    },
+    {
+      "time": "2021/04/23 18:00",
+      "Total": 41304.7685,
+      "Eolica": 3123.8541,
+      "Fotovoltaica": 5121.4246,
+      "Biomasa": 14.4045,
+      "Hidroelectrica": 4696.722,
+      "Geotermoelectrica": 494.6642
+    },
+    {
+      "time": "2021/04/23 19:00",
+      "Total": 40469.3119,
+      "Eolica": 3432.082,
+      "Fotovoltaica": 4111.2126,
+      "Biomasa": 15.8138,
+      "Hidroelectrica": 4792.5005,
+      "Geotermoelectrica": 493.6078
+    },
+    {
+      "time": "2021/04/23 20:00",
+      "Total": 40375.1151,
+      "Eolica": 3192.6546,
+      "Fotovoltaica": 1822.9958,
+      "Biomasa": 15.6214,
+      "Hidroelectrica": 5868.9011,
+      "Geotermoelectrica": 491.2623
+    },
+    {
+      "time": "2021/04/23 21:00",
+      "Total": 41745.0969,
+      "Eolica": 2890.6099,
+      "Fotovoltaica": 162.804,
+      "Biomasa": 15.9964,
+      "Hidroelectrica": 7811.2797,
+      "Geotermoelectrica": 495.0218
+    },
+    {
+      "time": "2021/04/23 22:00",
+      "Total": 42234.3863,
+      "Eolica": 2673.6183,
+      "Fotovoltaica": 0.0259,
+      "Biomasa": 18.8986,
+      "Hidroelectrica": 7981.1776,
+      "Geotermoelectrica": 496.3403
+    },
+    {
+      "time": "2021/04/23 23:00",
+      "Total": 41638.6018,
+      "Eolica": 2700.4578,
+      "Fotovoltaica": 0,
+      "Biomasa": 15.8652,
+      "Hidroelectrica": 6840.6371,
+      "Geotermoelectrica": 496.9041
+    },
+    {
+      "time": "2021/04/24 00:00",
+      "Total": 40643.0067,
+      "Eolica": 2519.1714,
+      "Fotovoltaica": 0,
+      "Biomasa": 14.1457,
+      "Hidroelectrica": 6122.4806,
+      "Geotermoelectrica": 497.7438
+    },
+    {
+      "time": "2021/04/24 01:00",
+      "Total": 38809.8987,
+      "Eolica": 2155.3099,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.4714,
+      "Hidroelectrica": 6309.096,
+      "Geotermoelectrica": 500.9179
+    },
+    {
+      "time": "2021/04/24 02:00",
+      "Total": 37233.4457,
+      "Eolica": 1688.1779,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.756,
+      "Hidroelectrica": 6372.7878,
+      "Geotermoelectrica": 500.6507
+    },
+    {
+      "time": "2021/04/24 03:00",
+      "Total": 36158.577,
+      "Eolica": 1551.2404,
+      "Fotovoltaica": 0,
+      "Biomasa": 17.7124,
+      "Hidroelectrica": 5613.885,
+      "Geotermoelectrica": 502.2716
+    },
+    {
+      "time": "2021/04/24 04:00",
+      "Total": 35233.1739,
+      "Eolica": 1541.5119,
+      "Fotovoltaica": 0,
+      "Biomasa": 15.4039,
+      "Hidroelectrica": 4642.304,
+      "Geotermoelectrica": 502.6229
+    },
+    {
+      "time": "2021/04/24 05:00",
+      "Total": 34708.0799,
+      "Eolica": 1541.5036,
+      "Fotovoltaica": 0.0019,
+      "Biomasa": 14.2376,
+      "Hidroelectrica": 4035.4802,
+      "Geotermoelectrica": 503.3006
+    },
+    {
+      "time": "2021/04/24 06:00",
+      "Total": 34396.2925,
+      "Eolica": 1574.3731,
+      "Fotovoltaica": 0.0307,
+      "Biomasa": 18.4706,
+      "Hidroelectrica": 3392.904,
+      "Geotermoelectrica": 503.668
+    },
+    {
+      "time": "2021/04/24 07:00",
+      "Total": 34647.6179,
+      "Eolica": 1579.5342,
+      "Fotovoltaica": 7.0089,
+      "Biomasa": 17.6503,
+      "Hidroelectrica": 3230.9104,
+      "Geotermoelectrica": 504.2905
+    },
+    {
+      "time": "2021/04/24 08:00",
+      "Total": 34727.0281,
+      "Eolica": 1756.9994,
+      "Fotovoltaica": 210.874,
+      "Biomasa": 13.856,
+      "Hidroelectrica": 2853.758,
+      "Geotermoelectrica": 502.8564
+    },
+    {
+      "time": "2021/04/24 09:00",
+      "Total": 35611.0333,
+      "Eolica": 1738.8659,
+      "Fotovoltaica": 2534.0468,
+      "Biomasa": 14.334,
+      "Hidroelectrica": 2315.1496,
+      "Geotermoelectrica": 500.5732
+    },
+    {
+      "time": "2021/04/24 10:00",
+      "Total": 36677.5412,
+      "Eolica": 2065.2038,
+      "Fotovoltaica": 5279.6662,
+      "Biomasa": 18.8939,
+      "Hidroelectrica": 2389.0175,
+      "Geotermoelectrica": 495.9102
+    },
+    {
+      "time": "2021/04/24 11:00",
+      "Total": 37537.3869,
+      "Eolica": 2552.1662,
+      "Fotovoltaica": 5945.0906,
+      "Biomasa": 16.9221,
+      "Hidroelectrica": 2874.2692,
+      "Geotermoelectrica": 496.3094
+    },
+    {
+      "time": "2021/04/24 12:00",
+      "Total": 37975.6127,
+      "Eolica": 2677.7588,
+      "Fotovoltaica": 6057.7707,
+      "Biomasa": 14.3478,
+      "Hidroelectrica": 2771.1218,
+      "Geotermoelectrica": 494.703
+    },
+    {
+      "time": "2021/04/24 13:00",
+      "Total": 38753.7436,
+      "Eolica": 2687.6251,
+      "Fotovoltaica": 6282.1085,
+      "Biomasa": 12.7954,
+      "Hidroelectrica": 2671.1508,
+      "Geotermoelectrica": 493.89
+    },
+    {
+      "time": "2021/04/24 14:00",
+      "Total": 38810.8067,
+      "Eolica": 2473.6137,
+      "Fotovoltaica": 6305.4002,
+      "Biomasa": 4.6991,
+      "Hidroelectrica": 2303.8437,
+      "Geotermoelectrica": 494.5983
+    },
+    {
+      "time": "2021/04/24 15:00",
+      "Total": 38787.9523,
+      "Eolica": 2259.5251,
+      "Fotovoltaica": 6310.7797,
+      "Biomasa": 5.3462,
+      "Hidroelectrica": 2283.7183,
+      "Geotermoelectrica": 493.774
+    },
+    {
+      "time": "2021/04/24 16:00",
+      "Total": 38899.5639,
+      "Eolica": 2230.0672,
+      "Fotovoltaica": 6148.4721,
+      "Biomasa": 4.462,
+      "Hidroelectrica": 2324.2868,
+      "Geotermoelectrica": 493.0438
+    },
+    {
+      "time": "2021/04/24 17:00",
+      "Total": 39412.9062,
+      "Eolica": 2103.8658,
+      "Fotovoltaica": 5723.2059,
+      "Biomasa": 4.9087,
+      "Hidroelectrica": 3003.0267,
+      "Geotermoelectrica": 493.6971
+    },
+    {
+      "time": "2021/04/24 18:00",
+      "Total": 39470.9713,
+      "Eolica": 1866.8115,
+      "Fotovoltaica": 5404.4022,
+      "Biomasa": 4.5471,
+      "Hidroelectrica": 3355.754,
+      "Geotermoelectrica": 492.0172
+    },
+    {
+      "time": "2021/04/24 19:00",
+      "Total": 39072.1155,
+      "Eolica": 1759.6846,
+      "Fotovoltaica": 4341.7889,
+      "Biomasa": 5.236,
+      "Hidroelectrica": 4189.6222,
+      "Geotermoelectrica": 493.3131
+    },
+    {
+      "time": "2021/04/24 20:00",
+      "Total": 39321.57,
+      "Eolica": 1543.6395,
+      "Fotovoltaica": 1890.093,
+      "Biomasa": 6.2149,
+      "Hidroelectrica": 6313.8119,
+      "Geotermoelectrica": 494.6827
+    },
+    {
+      "time": "2021/04/24 21:00",
+      "Total": 41193.6186,
+      "Eolica": 1425.2606,
+      "Fotovoltaica": 193.4892,
+      "Biomasa": 7.3936,
+      "Hidroelectrica": 7702.0935,
+      "Geotermoelectrica": 495.4304
+    },
+    {
+      "time": "2021/04/24 22:00",
+      "Total": 41215.1891,
+      "Eolica": 1566.0279,
+      "Fotovoltaica": 0.0202,
+      "Biomasa": 9.4502,
+      "Hidroelectrica": 7430.6591,
+      "Geotermoelectrica": 495.573
+    },
+    {
+      "time": "2021/04/24 23:00",
+      "Total": 40237.4631,
+      "Eolica": 1652.204,
+      "Fotovoltaica": 0,
+      "Biomasa": 12.9841,
+      "Hidroelectrica": 6664.3948,
+      "Geotermoelectrica": 496.8375
+    },
+    {
+      "time": "2021/04/25 00:00",
+      "Total": 38574.1043,
+      "Eolica": 1465.6002,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.0324,
+      "Hidroelectrica": 5381.4224,
+      "Geotermoelectrica": 499.1224
+    },
+    {
+      "time": "2021/04/25 01:00",
+      "Total": 37075.4745,
+      "Eolica": 1406.3523,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.9915,
+      "Hidroelectrica": 4899.8824,
+      "Geotermoelectrica": 501.5582
+    },
+    {
+      "time": "2021/04/25 02:00",
+      "Total": 35620.0766,
+      "Eolica": 1461.4646,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.1124,
+      "Hidroelectrica": 4262.9055,
+      "Geotermoelectrica": 502.9284
+    },
+    {
+      "time": "2021/04/25 03:00",
+      "Total": 34218.013,
+      "Eolica": 1487.7676,
+      "Fotovoltaica": 0,
+      "Biomasa": 25.0249,
+      "Hidroelectrica": 3990.2591,
+      "Geotermoelectrica": 503.3972
+    },
+    {
+      "time": "2021/04/25 04:00",
+      "Total": 33444.7003,
+      "Eolica": 1383.2589,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.8134,
+      "Hidroelectrica": 3681.2419,
+      "Geotermoelectrica": 503.3255
+    },
+    {
+      "time": "2021/04/25 05:00",
+      "Total": 32616.5215,
+      "Eolica": 1227.6555,
+      "Fotovoltaica": 0.0018,
+      "Biomasa": 26.0417,
+      "Hidroelectrica": 3147.7249,
+      "Geotermoelectrica": 503.9511
+    },
+    {
+      "time": "2021/04/25 06:00",
+      "Total": 32244.7282,
+      "Eolica": 1107.9337,
+      "Fotovoltaica": 0.0372,
+      "Biomasa": 26.0203,
+      "Hidroelectrica": 2846.7105,
+      "Geotermoelectrica": 504.8469
+    },
+    {
+      "time": "2021/04/25 07:00",
+      "Total": 31805.3507,
+      "Eolica": 1026.4029,
+      "Fotovoltaica": 7.4093,
+      "Biomasa": 21.5248,
+      "Hidroelectrica": 2544.0361,
+      "Geotermoelectrica": 505.3916
+    },
+    {
+      "time": "2021/04/25 08:00",
+      "Total": 31365.1444,
+      "Eolica": 1027.0235,
+      "Fotovoltaica": 186.5846,
+      "Biomasa": 20.5462,
+      "Hidroelectrica": 2356.5823,
+      "Geotermoelectrica": 504.73
+    },
+    {
+      "time": "2021/04/25 09:00",
+      "Total": 31654.1414,
+      "Eolica": 1015.3491,
+      "Fotovoltaica": 2418.2698,
+      "Biomasa": 21.6055,
+      "Hidroelectrica": 1822.2337,
+      "Geotermoelectrica": 503.5752
+    },
+    {
+      "time": "2021/04/25 10:00",
+      "Total": 32341.8932,
+      "Eolica": 1353.8645,
+      "Fotovoltaica": 5111.548,
+      "Biomasa": 22.288,
+      "Hidroelectrica": 1517.3137,
+      "Geotermoelectrica": 502.875
+    },
+    {
+      "time": "2021/04/25 11:00",
+      "Total": 32961.669,
+      "Eolica": 1870.2354,
+      "Fotovoltaica": 6051.812,
+      "Biomasa": 23.7102,
+      "Hidroelectrica": 1917.3632,
+      "Geotermoelectrica": 501.7401
+    },
+    {
+      "time": "2021/04/25 12:00",
+      "Total": 33395.984,
+      "Eolica": 2130.3033,
+      "Fotovoltaica": 6270.426,
+      "Biomasa": 17.3531,
+      "Hidroelectrica": 2393.8889,
+      "Geotermoelectrica": 492.0283
+    },
+    {
+      "time": "2021/04/25 13:00",
+      "Total": 33817.5635,
+      "Eolica": 2779.4463,
+      "Fotovoltaica": 6314.7437,
+      "Biomasa": 19.321,
+      "Hidroelectrica": 2595.3793,
+      "Geotermoelectrica": 496.8388
+    },
+    {
+      "time": "2021/04/25 14:00",
+      "Total": 34303.7427,
+      "Eolica": 3279.8223,
+      "Fotovoltaica": 6286.102,
+      "Biomasa": 22.6805,
+      "Hidroelectrica": 2558.0465,
+      "Geotermoelectrica": 495.1077
+    },
+    {
+      "time": "2021/04/25 15:00",
+      "Total": 34893.1944,
+      "Eolica": 3723.4465,
+      "Fotovoltaica": 6168.8646,
+      "Biomasa": 21.554,
+      "Hidroelectrica": 2183.9835,
+      "Geotermoelectrica": 493.8046
+    },
+    {
+      "time": "2021/04/25 16:00",
+      "Total": 35159.2626,
+      "Eolica": 4012.4202,
+      "Fotovoltaica": 5898.0849,
+      "Biomasa": 23.5568,
+      "Hidroelectrica": 2127.8867,
+      "Geotermoelectrica": 493.0264
+    },
+    {
+      "time": "2021/04/25 17:00",
+      "Total": 35529.3521,
+      "Eolica": 4337.0005,
+      "Fotovoltaica": 5296.7588,
+      "Biomasa": 23.5715,
+      "Hidroelectrica": 2503.7542,
+      "Geotermoelectrica": 491.5962
+    },
+    {
+      "time": "2021/04/25 18:00",
+      "Total": 35792.3504,
+      "Eolica": 4590.3889,
+      "Fotovoltaica": 4091.1205,
+      "Biomasa": 25.7209,
+      "Hidroelectrica": 2634.1469,
+      "Geotermoelectrica": 488.8308
+    },
+    {
+      "time": "2021/04/25 19:00",
+      "Total": 35593.5692,
+      "Eolica": 4739.5319,
+      "Fotovoltaica": 3010.9511,
+      "Biomasa": 24.7371,
+      "Hidroelectrica": 2930.1651,
+      "Geotermoelectrica": 490.2759
+    },
+    {
+      "time": "2021/04/25 20:00",
+      "Total": 36464.2313,
+      "Eolica": 4618.5947,
+      "Fotovoltaica": 1156.9173,
+      "Biomasa": 23.8764,
+      "Hidroelectrica": 4583.5106,
+      "Geotermoelectrica": 491.4285
+    },
+    {
+      "time": "2021/04/25 21:00",
+      "Total": 38909.1571,
+      "Eolica": 4343.3122,
+      "Fotovoltaica": 85.5463,
+      "Biomasa": 23.7084,
+      "Hidroelectrica": 6709.0603,
+      "Geotermoelectrica": 493.1287
+    },
+    {
+      "time": "2021/04/25 22:00",
+      "Total": 39501.2764,
+      "Eolica": 4278.333,
+      "Fotovoltaica": 0.0381,
+      "Biomasa": 23.5958,
+      "Hidroelectrica": 7207.2559,
+      "Geotermoelectrica": 494.3779
+    },
+    {
+      "time": "2021/04/25 23:00",
+      "Total": 39199.8374,
+      "Eolica": 4068.411,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.4336,
+      "Hidroelectrica": 7457.7713,
+      "Geotermoelectrica": 494.852
+    },
+    {
+      "time": "2021/04/26 00:00",
+      "Total": 37949.0242,
+      "Eolica": 3989.6525,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.4579,
+      "Hidroelectrica": 6696.2014,
+      "Geotermoelectrica": 494.8809
+    },
+    {
+      "time": "2021/04/26 01:00",
+      "Total": 35946.399,
+      "Eolica": 3509.9262,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.0359,
+      "Hidroelectrica": 5345.8147,
+      "Geotermoelectrica": 497.6586
+    },
+    {
+      "time": "2021/04/26 02:00",
+      "Total": 34627.7581,
+      "Eolica": 3296.4082,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.5611,
+      "Hidroelectrica": 4388.0042,
+      "Geotermoelectrica": 498.6108
+    },
+    {
+      "time": "2021/04/26 03:00",
+      "Total": 33618.1647,
+      "Eolica": 2944.0127,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.0999,
+      "Hidroelectrica": 3918.1699,
+      "Geotermoelectrica": 497.8952
+    },
+    {
+      "time": "2021/04/26 04:00",
+      "Total": 33266.5044,
+      "Eolica": 2741.0823,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.1666,
+      "Hidroelectrica": 3490.2169,
+      "Geotermoelectrica": 498.545
+    },
+    {
+      "time": "2021/04/26 05:00",
+      "Total": 32781.3018,
+      "Eolica": 2607.7089,
+      "Fotovoltaica": 0.0012,
+      "Biomasa": 21.8629,
+      "Hidroelectrica": 2666.4582,
+      "Geotermoelectrica": 498.6103
+    },
+    {
+      "time": "2021/04/26 06:00",
+      "Total": 32966.9462,
+      "Eolica": 2558.1524,
+      "Fotovoltaica": 0.0284,
+      "Biomasa": 21.2313,
+      "Hidroelectrica": 2685.6639,
+      "Geotermoelectrica": 491.9273
+    },
+    {
+      "time": "2021/04/26 07:00",
+      "Total": 34076.4397,
+      "Eolica": 2586.5827,
+      "Fotovoltaica": 0.6278,
+      "Biomasa": 22.7441,
+      "Hidroelectrica": 2329.0561,
+      "Geotermoelectrica": 496.4616
+    },
+    {
+      "time": "2021/04/26 08:00",
+      "Total": 35426.9248,
+      "Eolica": 2720.8341,
+      "Fotovoltaica": 157.9653,
+      "Biomasa": 22.213,
+      "Hidroelectrica": 2383.2472,
+      "Geotermoelectrica": 499.8617
+    },
+    {
+      "time": "2021/04/26 09:00",
+      "Total": 36969.6086,
+      "Eolica": 2807.153,
+      "Fotovoltaica": 1876.3475,
+      "Biomasa": 21.1177,
+      "Hidroelectrica": 2791.9387,
+      "Geotermoelectrica": 491.9509
+    },
+    {
+      "time": "2021/04/26 10:00",
+      "Total": 38860.795,
+      "Eolica": 2859.3796,
+      "Fotovoltaica": 3971.3194,
+      "Biomasa": 19.6762,
+      "Hidroelectrica": 3698.879,
+      "Geotermoelectrica": 490.5532
+    },
+    {
+      "time": "2021/04/26 11:00",
+      "Total": 39982.6926,
+      "Eolica": 2862.9694,
+      "Fotovoltaica": 5024.1643,
+      "Biomasa": 21.0694,
+      "Hidroelectrica": 4307.7222,
+      "Geotermoelectrica": 492.7074
+    },
+    {
+      "time": "2021/04/26 12:00",
+      "Total": 40483.4117,
+      "Eolica": 3029.1873,
+      "Fotovoltaica": 5526.1437,
+      "Biomasa": 23.9504,
+      "Hidroelectrica": 4431.525,
+      "Geotermoelectrica": 493.1411
+    },
+    {
+      "time": "2021/04/26 13:00",
+      "Total": 40739.1874,
+      "Eolica": 3063.7802,
+      "Fotovoltaica": 5482.4364,
+      "Biomasa": 21.1493,
+      "Hidroelectrica": 4613.0917,
+      "Geotermoelectrica": 486.7282
+    },
+    {
+      "time": "2021/04/26 14:00",
+      "Total": 41509.9188,
+      "Eolica": 2941.8284,
+      "Fotovoltaica": 5344.8541,
+      "Biomasa": 16.9101,
+      "Hidroelectrica": 5044.9632,
+      "Geotermoelectrica": 481.1924
+    },
+    {
+      "time": "2021/04/26 15:00",
+      "Total": 41971.7395,
+      "Eolica": 2955.4295,
+      "Fotovoltaica": 5139.5128,
+      "Biomasa": 19.2597,
+      "Hidroelectrica": 5374.061,
+      "Geotermoelectrica": 469.2968
+    },
+    {
+      "time": "2021/04/26 16:00",
+      "Total": 42473.3844,
+      "Eolica": 2955.1579,
+      "Fotovoltaica": 4799.3324,
+      "Biomasa": 16.171,
+      "Hidroelectrica": 6117.8346,
+      "Geotermoelectrica": 471.179
+    },
+    {
+      "time": "2021/04/26 17:00",
+      "Total": 42677.5212,
+      "Eolica": 3104.6129,
+      "Fotovoltaica": 4103.7102,
+      "Biomasa": 22.6588,
+      "Hidroelectrica": 5852.0031,
+      "Geotermoelectrica": 479.694
+    },
+    {
+      "time": "2021/04/26 18:00",
+      "Total": 42133.9406,
+      "Eolica": 3255.7782,
+      "Fotovoltaica": 3161.9633,
+      "Biomasa": 19.0756,
+      "Hidroelectrica": 5566.3077,
+      "Geotermoelectrica": 480.5084
+    },
+    {
+      "time": "2021/04/26 19:00",
+      "Total": 41447.4879,
+      "Eolica": 3225.4713,
+      "Fotovoltaica": 1786.4756,
+      "Biomasa": 21.8651,
+      "Hidroelectrica": 5873.9723,
+      "Geotermoelectrica": 480.7995
+    },
+    {
+      "time": "2021/04/26 20:00",
+      "Total": 41048.8261,
+      "Eolica": 2967.3831,
+      "Fotovoltaica": 531.7016,
+      "Biomasa": 25.1361,
+      "Hidroelectrica": 6428.8931,
+      "Geotermoelectrica": 486.0784
+    },
+    {
+      "time": "2021/04/26 21:00",
+      "Total": 42638.7403,
+      "Eolica": 2769.459,
+      "Fotovoltaica": 54.3347,
+      "Biomasa": 25.1973,
+      "Hidroelectrica": 8045.9871,
+      "Geotermoelectrica": 491.917
+    },
+    {
+      "time": "2021/04/26 22:00",
+      "Total": 43128.0062,
+      "Eolica": 2924.0312,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.8352,
+      "Hidroelectrica": 7857.1436,
+      "Geotermoelectrica": 497.5815
+    },
+    {
+      "time": "2021/04/26 23:00",
+      "Total": 42390.7808,
+      "Eolica": 3142.617,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.0498,
+      "Hidroelectrica": 7070.9319,
+      "Geotermoelectrica": 498.2107
+    },
+    {
+      "time": "2021/04/27 00:00",
+      "Total": 40844.0704,
+      "Eolica": 2962.449,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.908,
+      "Hidroelectrica": 5535.1096,
+      "Geotermoelectrica": 497.5413
+    },
+    {
+      "time": "2021/04/27 01:00",
+      "Total": 39350.2127,
+      "Eolica": 2698.3286,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.8065,
+      "Hidroelectrica": 4377.5594,
+      "Geotermoelectrica": 497.218
+    },
+    {
+      "time": "2021/04/27 02:00",
+      "Total": 37696.2702,
+      "Eolica": 2366.7518,
+      "Fotovoltaica": 0,
+      "Biomasa": 20.4316,
+      "Hidroelectrica": 4368.3229,
+      "Geotermoelectrica": 498.642
+    },
+    {
+      "time": "2021/04/27 03:00",
+      "Total": 36514.0907,
+      "Eolica": 2234.776,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.2897,
+      "Hidroelectrica": 4132.3528,
+      "Geotermoelectrica": 500.751
+    },
+    {
+      "time": "2021/04/27 04:00",
+      "Total": 35653.5405,
+      "Eolica": 2204.8068,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.1425,
+      "Hidroelectrica": 3338.1437,
+      "Geotermoelectrica": 501.3176
+    },
+    {
+      "time": "2021/04/27 05:00",
+      "Total": 35484.8846,
+      "Eolica": 2250.8335,
+      "Fotovoltaica": 0.0017,
+      "Biomasa": 22.8196,
+      "Hidroelectrica": 3083.5917,
+      "Geotermoelectrica": 501.7653
+    },
+    {
+      "time": "2021/04/27 06:00",
+      "Total": 35403.1651,
+      "Eolica": 2353.4219,
+      "Fotovoltaica": 0.0336,
+      "Biomasa": 21.2628,
+      "Hidroelectrica": 2636.4112,
+      "Geotermoelectrica": 502.8794
+    },
+    {
+      "time": "2021/04/27 07:00",
+      "Total": 35997.5498,
+      "Eolica": 2344.6998,
+      "Fotovoltaica": 7.868,
+      "Biomasa": 19.0287,
+      "Hidroelectrica": 3002.7281,
+      "Geotermoelectrica": 503.7367
+    },
+    {
+      "time": "2021/04/27 08:00",
+      "Total": 36723.5332,
+      "Eolica": 2224.2097,
+      "Fotovoltaica": 137.9536,
+      "Biomasa": 19.5419,
+      "Hidroelectrica": 4007.0346,
+      "Geotermoelectrica": 501.5436
+    },
+    {
+      "time": "2021/04/27 09:00",
+      "Total": 38094.1009,
+      "Eolica": 2268.9276,
+      "Fotovoltaica": 1715.489,
+      "Biomasa": 22.5777,
+      "Hidroelectrica": 4457.3702,
+      "Geotermoelectrica": 497.3973
+    },
+    {
+      "time": "2021/04/27 10:00",
+      "Total": 39433.4602,
+      "Eolica": 2266.9708,
+      "Fotovoltaica": 3313.3936,
+      "Biomasa": 20.3468,
+      "Hidroelectrica": 4314.5712,
+      "Geotermoelectrica": 493.8563
+    },
+    {
+      "time": "2021/04/27 11:00",
+      "Total": 40372.3795,
+      "Eolica": 2453.552,
+      "Fotovoltaica": 4431.0488,
+      "Biomasa": 24.4206,
+      "Hidroelectrica": 4349.5654,
+      "Geotermoelectrica": 496.2048
+    },
+    {
+      "time": "2021/04/27 12:00",
+      "Total": 41118.6344,
+      "Eolica": 2596.2645,
+      "Fotovoltaica": 4856.6649,
+      "Biomasa": 21.9966,
+      "Hidroelectrica": 4555.0577,
+      "Geotermoelectrica": 497.4307
+    },
+    {
+      "time": "2021/04/27 13:00",
+      "Total": 41741.8589,
+      "Eolica": 2656.7489,
+      "Fotovoltaica": 4525.3243,
+      "Biomasa": 16.2686,
+      "Hidroelectrica": 5320.9717,
+      "Geotermoelectrica": 490.7593
+    },
+    {
+      "time": "2021/04/27 14:00",
+      "Total": 42110.181,
+      "Eolica": 2911.7627,
+      "Fotovoltaica": 4867.6565,
+      "Biomasa": 21.33,
+      "Hidroelectrica": 5260.9468,
+      "Geotermoelectrica": 491.5181
+    },
+    {
+      "time": "2021/04/27 15:00",
+      "Total": 42426.4563,
+      "Eolica": 3205.8924,
+      "Fotovoltaica": 4965.5027,
+      "Biomasa": 20.8929,
+      "Hidroelectrica": 4907.4646,
+      "Geotermoelectrica": 489.6392
+    },
+    {
+      "time": "2021/04/27 16:00",
+      "Total": 42735.6383,
+      "Eolica": 3441.1047,
+      "Fotovoltaica": 4913.3184,
+      "Biomasa": 18.0286,
+      "Hidroelectrica": 4810.5689,
+      "Geotermoelectrica": 493.8349
+    },
+    {
+      "time": "2021/04/27 17:00",
+      "Total": 42948.1408,
+      "Eolica": 3688.8788,
+      "Fotovoltaica": 4291.0386,
+      "Biomasa": 17.6164,
+      "Hidroelectrica": 4727.316,
+      "Geotermoelectrica": 490.5809
+    },
+    {
+      "time": "2021/04/27 18:00",
+      "Total": 42499.6164,
+      "Eolica": 3693.4391,
+      "Fotovoltaica": 3279.1485,
+      "Biomasa": 22.6449,
+      "Hidroelectrica": 5011.9532,
+      "Geotermoelectrica": 489.9484
+    },
+    {
+      "time": "2021/04/27 19:00",
+      "Total": 41782.7123,
+      "Eolica": 3588.8069,
+      "Fotovoltaica": 2493.5759,
+      "Biomasa": 19.6303,
+      "Hidroelectrica": 4860.5114,
+      "Geotermoelectrica": 490.1908
+    },
+    {
+      "time": "2021/04/27 20:00",
+      "Total": 41442.4443,
+      "Eolica": 3260.6861,
+      "Fotovoltaica": 1142.9813,
+      "Biomasa": 15.4059,
+      "Hidroelectrica": 5598.4756,
+      "Geotermoelectrica": 493.0262
+    },
+    {
+      "time": "2021/04/27 21:00",
+      "Total": 42879.3685,
+      "Eolica": 3063.549,
+      "Fotovoltaica": 167.7028,
+      "Biomasa": 21.7656,
+      "Hidroelectrica": 7752.8269,
+      "Geotermoelectrica": 495.5516
+    },
+    {
+      "time": "2021/04/27 22:00",
+      "Total": 43519.1016,
+      "Eolica": 3023.1322,
+      "Fotovoltaica": 0.011,
+      "Biomasa": 21.6405,
+      "Hidroelectrica": 8412.5217,
+      "Geotermoelectrica": 496.0297
+    },
+    {
+      "time": "2021/04/27 23:00",
+      "Total": 43151.4272,
+      "Eolica": 2991.1216,
+      "Fotovoltaica": 0.005,
+      "Biomasa": 22.871,
+      "Hidroelectrica": 7801.4337,
+      "Geotermoelectrica": 496.8482
+    },
+    {
+      "time": "2021/04/28 00:00",
+      "Total": 41907.8315,
+      "Eolica": 2883.9297,
+      "Fotovoltaica": 0.005,
+      "Biomasa": 21.4489,
+      "Hidroelectrica": 6867.5076,
+      "Geotermoelectrica": 496.8347
+    },
+    {
+      "time": "2021/04/28 01:00",
+      "Total": 40012.5686,
+      "Eolica": 2910.0639,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.659,
+      "Hidroelectrica": 6463.0697,
+      "Geotermoelectrica": 498.2045
+    },
+    {
+      "time": "2021/04/28 02:00",
+      "Total": 38388.4848,
+      "Eolica": 2973.4999,
+      "Fotovoltaica": 0,
+      "Biomasa": 19.4832,
+      "Hidroelectrica": 6017.3791,
+      "Geotermoelectrica": 498.8783
+    },
+    {
+      "time": "2021/04/28 03:00",
+      "Total": 37199.4701,
+      "Eolica": 2900.9757,
+      "Fotovoltaica": 0,
+      "Biomasa": 24.3855,
+      "Hidroelectrica": 5022.1712,
+      "Geotermoelectrica": 498.8868
+    },
+    {
+      "time": "2021/04/28 04:00",
+      "Total": 36446.7713,
+      "Eolica": 2914.3192,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.1877,
+      "Hidroelectrica": 4070.2511,
+      "Geotermoelectrica": 498.6755
+    },
+    {
+      "time": "2021/04/28 05:00",
+      "Total": 36075.9957,
+      "Eolica": 2857.5408,
+      "Fotovoltaica": 0.0027,
+      "Biomasa": 23.2514,
+      "Hidroelectrica": 3668.6744,
+      "Geotermoelectrica": 498.8183
+    },
+    {
+      "time": "2021/04/28 06:00",
+      "Total": 35952.9973,
+      "Eolica": 2954.409,
+      "Fotovoltaica": 0.0352,
+      "Biomasa": 22.8755,
+      "Hidroelectrica": 3294.2727,
+      "Geotermoelectrica": 499.5661
+    },
+    {
+      "time": "2021/04/28 07:00",
+      "Total": 36477.9319,
+      "Eolica": 2855.7075,
+      "Fotovoltaica": 8.3355,
+      "Biomasa": 20.9581,
+      "Hidroelectrica": 3392.3129,
+      "Geotermoelectrica": 500.481
+    },
+    {
+      "time": "2021/04/28 08:00",
+      "Total": 37163.9786,
+      "Eolica": 2826.4214,
+      "Fotovoltaica": 235.8484,
+      "Biomasa": 18.6103,
+      "Hidroelectrica": 3250.3928,
+      "Geotermoelectrica": 494.2061
+    },
+    {
+      "time": "2021/04/28 09:00",
+      "Total": 38787.8109,
+      "Eolica": 2704.4217,
+      "Fotovoltaica": 2384.8376,
+      "Biomasa": 17.5564,
+      "Hidroelectrica": 3042.0464,
+      "Geotermoelectrica": 490.2763
+    },
+    {
+      "time": "2021/04/28 10:00",
+      "Total": 40105.7746,
+      "Eolica": 2777.5612,
+      "Fotovoltaica": 4659.9508,
+      "Biomasa": 22.3223,
+      "Hidroelectrica": 3297.1303,
+      "Geotermoelectrica": 489.1537
+    },
+    {
+      "time": "2021/04/28 11:00",
+      "Total": 40915.8355,
+      "Eolica": 3055.6544,
+      "Fotovoltaica": 5539.0651,
+      "Biomasa": 22.2913,
+      "Hidroelectrica": 3307.2681,
+      "Geotermoelectrica": 486.4746
+    },
+    {
+      "time": "2021/04/28 12:00",
+      "Total": 41448.6555,
+      "Eolica": 3180.2835,
+      "Fotovoltaica": 5580.269,
+      "Biomasa": 21.4448,
+      "Hidroelectrica": 3537.4022,
+      "Geotermoelectrica": 485.1639
+    },
+    {
+      "time": "2021/04/28 13:00",
+      "Total": 42144.1897,
+      "Eolica": 3430.8237,
+      "Fotovoltaica": 5862.5291,
+      "Biomasa": 17.5488,
+      "Hidroelectrica": 3532.0371,
+      "Geotermoelectrica": 485.7279
+    },
+    {
+      "time": "2021/04/28 14:00",
+      "Total": 42639.5992,
+      "Eolica": 3598.6397,
+      "Fotovoltaica": 5608.6731,
+      "Biomasa": 18.8561,
+      "Hidroelectrica": 3605.9998,
+      "Geotermoelectrica": 485.4283
+    },
+    {
+      "time": "2021/04/28 15:00",
+      "Total": 42886.5102,
+      "Eolica": 3727.4341,
+      "Fotovoltaica": 5679.5498,
+      "Biomasa": 20.3404,
+      "Hidroelectrica": 3611.1812,
+      "Geotermoelectrica": 473.4571
+    },
+    {
+      "time": "2021/04/28 16:00",
+      "Total": 43393.4483,
+      "Eolica": 3886.8092,
+      "Fotovoltaica": 5460.6595,
+      "Biomasa": 16.6147,
+      "Hidroelectrica": 4164.3243,
+      "Geotermoelectrica": 476.1984
+    },
+    {
+      "time": "2021/04/28 17:00",
+      "Total": 43487.2456,
+      "Eolica": 4024.8037,
+      "Fotovoltaica": 4701.1796,
+      "Biomasa": 15.2861,
+      "Hidroelectrica": 5107.9444,
+      "Geotermoelectrica": 487.2751
+    },
+    {
+      "time": "2021/04/28 18:00",
+      "Total": 43424.9263,
+      "Eolica": 4101.3006,
+      "Fotovoltaica": 4493.9845,
+      "Biomasa": 21.3537,
+      "Hidroelectrica": 4924.9532,
+      "Geotermoelectrica": 488.2228
+    },
+    {
+      "time": "2021/04/28 19:00",
+      "Total": 42502.7365,
+      "Eolica": 4072.3879,
+      "Fotovoltaica": 3310.6145,
+      "Biomasa": 22.6854,
+      "Hidroelectrica": 4906.0601,
+      "Geotermoelectrica": 490.3116
+    },
+    {
+      "time": "2021/04/28 20:00",
+      "Total": 42498.129,
+      "Eolica": 3939.8118,
+      "Fotovoltaica": 1396.1915,
+      "Biomasa": 20.4842,
+      "Hidroelectrica": 6555.7553,
+      "Geotermoelectrica": 492.7601
+    },
+    {
+      "time": "2021/04/28 21:00",
+      "Total": 43487.2536,
+      "Eolica": 3702.3702,
+      "Fotovoltaica": 175.6234,
+      "Biomasa": 21.6863,
+      "Hidroelectrica": 7706.9574,
+      "Geotermoelectrica": 493.7399
+    },
+    {
+      "time": "2021/04/28 22:00",
+      "Total": 44082.105,
+      "Eolica": 3861.7454,
+      "Fotovoltaica": 0.0803,
+      "Biomasa": 15.7404,
+      "Hidroelectrica": 8328.8903,
+      "Geotermoelectrica": 494.7655
+    },
+    {
+      "time": "2021/04/28 23:00",
+      "Total": 43627.7137,
+      "Eolica": 3786.8318,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.1005,
+      "Hidroelectrica": 8410.5144,
+      "Geotermoelectrica": 496.3692
+    },
+    {
+      "time": "2021/04/29 00:00",
+      "Total": 42344.499,
+      "Eolica": 3639.432,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.1301,
+      "Hidroelectrica": 7691.2481,
+      "Geotermoelectrica": 498.9301
+    },
+    {
+      "time": "2021/04/29 01:00",
+      "Total": 40290.728,
+      "Eolica": 3452.5906,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.8623,
+      "Hidroelectrica": 6662.9361,
+      "Geotermoelectrica": 499.415
+    },
+    {
+      "time": "2021/04/29 02:00",
+      "Total": 38804.6353,
+      "Eolica": 3341.2668,
+      "Fotovoltaica": 0,
+      "Biomasa": 20.8918,
+      "Hidroelectrica": 6053.7979,
+      "Geotermoelectrica": 499.5471
+    },
+    {
+      "time": "2021/04/29 03:00",
+      "Total": 37520.2757,
+      "Eolica": 3250.5526,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.2677,
+      "Hidroelectrica": 4854.2739,
+      "Geotermoelectrica": 500.0415
+    },
+    {
+      "time": "2021/04/29 04:00",
+      "Total": 36713.8349,
+      "Eolica": 3415.1441,
+      "Fotovoltaica": 0,
+      "Biomasa": 20.1704,
+      "Hidroelectrica": 4280.8056,
+      "Geotermoelectrica": 499.5949
+    },
+    {
+      "time": "2021/04/29 05:00",
+      "Total": 36138.8335,
+      "Eolica": 3188.6536,
+      "Fotovoltaica": 0,
+      "Biomasa": 22.2385,
+      "Hidroelectrica": 3712.9075,
+      "Geotermoelectrica": 499.6399
+    },
+    {
+      "time": "2021/04/29 06:00",
+      "Total": 36053.3584,
+      "Eolica": 2881.7239,
+      "Fotovoltaica": 0.0103,
+      "Biomasa": 23.3228,
+      "Hidroelectrica": 3324.1,
+      "Geotermoelectrica": 500.2049
+    },
+    {
+      "time": "2021/04/29 07:00",
+      "Total": 36405.038,
+      "Eolica": 1899.18,
+      "Fotovoltaica": 9.1663,
+      "Biomasa": 22.1868,
+      "Hidroelectrica": 3806.052,
+      "Geotermoelectrica": 499.1817
+    },
+    {
+      "time": "2021/04/29 08:00",
+      "Total": 36966.9612,
+      "Eolica": 1618.0318,
+      "Fotovoltaica": 272.2169,
+      "Biomasa": 19.6729,
+      "Hidroelectrica": 4162.3941,
+      "Geotermoelectrica": 481.0931
+    },
+    {
+      "time": "2021/04/29 09:00",
+      "Total": 38674.1605,
+      "Eolica": 1521.7946,
+      "Fotovoltaica": 2924.3482,
+      "Biomasa": 17.297,
+      "Hidroelectrica": 3807.1361,
+      "Geotermoelectrica": 478.0113
+    },
+    {
+      "time": "2021/04/29 10:00",
+      "Total": 39858.4706,
+      "Eolica": 1639.1392,
+      "Fotovoltaica": 5450.7445,
+      "Biomasa": 10.4624,
+      "Hidroelectrica": 3619.3992,
+      "Geotermoelectrica": 476.9925
+    },
+    {
+      "time": "2021/04/29 11:00",
+      "Total": 40458.0007,
+      "Eolica": 2596.6415,
+      "Fotovoltaica": 6016.3349,
+      "Biomasa": 9.0745,
+      "Hidroelectrica": 2774.2235,
+      "Geotermoelectrica": 472.4488
+    },
+    {
+      "time": "2021/04/29 12:00",
+      "Total": 41249.6329,
+      "Eolica": 2636.2783,
+      "Fotovoltaica": 6181.4665,
+      "Biomasa": 7.892,
+      "Hidroelectrica": 3115.1017,
+      "Geotermoelectrica": 470.9183
+    },
+    {
+      "time": "2021/04/29 13:00",
+      "Total": 41785.0316,
+      "Eolica": 2942.0579,
+      "Fotovoltaica": 6163.0898,
+      "Biomasa": 7.8545,
+      "Hidroelectrica": 3038.6018,
+      "Geotermoelectrica": 471.7186
+    },
+    {
+      "time": "2021/04/29 14:00",
+      "Total": 42327.2152,
+      "Eolica": 3090.9554,
+      "Fotovoltaica": 6136.9592,
+      "Biomasa": 7.702,
+      "Hidroelectrica": 3172.8986,
+      "Geotermoelectrica": 479.0565
+    },
+    {
+      "time": "2021/04/29 15:00",
+      "Total": 42592.7449,
+      "Eolica": 3241.9101,
+      "Fotovoltaica": 6073.0558,
+      "Biomasa": 9.2049,
+      "Hidroelectrica": 2650.1658,
+      "Geotermoelectrica": 474.0738
+    },
+    {
+      "time": "2021/04/29 16:00",
+      "Total": 43019.7436,
+      "Eolica": 3223.9294,
+      "Fotovoltaica": 5886.189,
+      "Biomasa": 11.1206,
+      "Hidroelectrica": 3023.7924,
+      "Geotermoelectrica": 473.0424
+    },
+    {
+      "time": "2021/04/29 17:00",
+      "Total": 43180.3323,
+      "Eolica": 3038.6098,
+      "Fotovoltaica": 5390.5091,
+      "Biomasa": 9.1582,
+      "Hidroelectrica": 3783.6269,
+      "Geotermoelectrica": 473.5732
+    },
+    {
+      "time": "2021/04/29 18:00",
+      "Total": 43012.2756,
+      "Eolica": 2921.8764,
+      "Fotovoltaica": 4752.329,
+      "Biomasa": 10.8144,
+      "Hidroelectrica": 4343.8293,
+      "Geotermoelectrica": 471.7248
+    },
+    {
+      "time": "2021/04/29 19:00",
+      "Total": 42007.2945,
+      "Eolica": 2837.7432,
+      "Fotovoltaica": 3765.3303,
+      "Biomasa": 4.6351,
+      "Hidroelectrica": 4699.5122,
+      "Geotermoelectrica": 468.9988
+    },
+    {
+      "time": "2021/04/29 20:00",
+      "Total": 41499.2677,
+      "Eolica": 2396.5339,
+      "Fotovoltaica": 1670.0058,
+      "Biomasa": 2.5775,
+      "Hidroelectrica": 6627.5436,
+      "Geotermoelectrica": 473.657
+    },
+    {
+      "time": "2021/04/29 21:00",
+      "Total": 42766.7815,
+      "Eolica": 2164.2559,
+      "Fotovoltaica": 161.6677,
+      "Biomasa": 2.3701,
+      "Hidroelectrica": 7943.6599,
+      "Geotermoelectrica": 476.5585
+    },
+    {
+      "time": "2021/04/29 22:00",
+      "Total": 43459.8905,
+      "Eolica": 1840.4414,
+      "Fotovoltaica": 0.0847,
+      "Biomasa": 2.6472,
+      "Hidroelectrica": 8087.9898,
+      "Geotermoelectrica": 490.3069
+    },
+    {
+      "time": "2021/04/29 23:00",
+      "Total": 42898.14,
+      "Eolica": 1466.7315,
+      "Fotovoltaica": 0.0847,
+      "Biomasa": 10.3978,
+      "Hidroelectrica": 8129.7441,
+      "Geotermoelectrica": 492.5665
+    },
+    {
+      "time": "2021/04/30 00:00",
+      "Total": 41974.9601,
+      "Eolica": 1166.021,
+      "Fotovoltaica": 0.0847,
+      "Biomasa": 18.4047,
+      "Hidroelectrica": 8238.8982,
+      "Geotermoelectrica": 490.7311
+    },
+    {
+      "time": "2021/04/30 01:00",
+      "Total": 40148.6681,
+      "Eolica": 903.8561,
+      "Fotovoltaica": 0,
+      "Biomasa": 20.2498,
+      "Hidroelectrica": 7149.2722,
+      "Geotermoelectrica": 496.0358
+    },
+    {
+      "time": "2021/04/30 02:00",
+      "Total": 38559.3249,
+      "Eolica": 960.1972,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.1627,
+      "Hidroelectrica": 5751.3329,
+      "Geotermoelectrica": 498.3442
+    },
+    {
+      "time": "2021/04/30 03:00",
+      "Total": 37388.4992,
+      "Eolica": 1128.8666,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.8535,
+      "Hidroelectrica": 4555.7114,
+      "Geotermoelectrica": 498.9706
+    },
+    {
+      "time": "2021/04/30 04:00",
+      "Total": 36378.4051,
+      "Eolica": 1584.1932,
+      "Fotovoltaica": 0,
+      "Biomasa": 15.5743,
+      "Hidroelectrica": 3557.1416,
+      "Geotermoelectrica": 499.7309
+    },
+    {
+      "time": "2021/04/30 05:00",
+      "Total": 35936.215,
+      "Eolica": 1933.5242,
+      "Fotovoltaica": 0,
+      "Biomasa": 20.6505,
+      "Hidroelectrica": 2916.9376,
+      "Geotermoelectrica": 502.2379
+    },
+    {
+      "time": "2021/04/30 06:00",
+      "Total": 35794.5886,
+      "Eolica": 2040.9876,
+      "Fotovoltaica": 0.0099,
+      "Biomasa": 20.8402,
+      "Hidroelectrica": 2861.385,
+      "Geotermoelectrica": 503.061
+    },
+    {
+      "time": "2021/04/30 07:00",
+      "Total": 36001.0266,
+      "Eolica": 1875.3869,
+      "Fotovoltaica": 9.6007,
+      "Biomasa": 12.5833,
+      "Hidroelectrica": 3657.9392,
+      "Geotermoelectrica": 503.2913
+    },
+    {
+      "time": "2021/04/30 08:00",
+      "Total": 36597.5916,
+      "Eolica": 1504.0546,
+      "Fotovoltaica": 229.2639,
+      "Biomasa": 13.4583,
+      "Hidroelectrica": 4306.9984,
+      "Geotermoelectrica": 502.4516
+    },
+    {
+      "time": "2021/04/30 09:00",
+      "Total": 37818.669,
+      "Eolica": 1222.5476,
+      "Fotovoltaica": 2525.726,
+      "Biomasa": 19.8862,
+      "Hidroelectrica": 3702.2012,
+      "Geotermoelectrica": 499.5284
+    },
+    {
+      "time": "2021/04/30 10:00",
+      "Total": 39215.3888,
+      "Eolica": 1382.6114,
+      "Fotovoltaica": 4990.8717,
+      "Biomasa": 17.5424,
+      "Hidroelectrica": 3243.8204,
+      "Geotermoelectrica": 502.3462
+    },
+    {
+      "time": "2021/04/30 11:00",
+      "Total": 39834.5569,
+      "Eolica": 1418.5693,
+      "Fotovoltaica": 5503.5931,
+      "Biomasa": 13.3492,
+      "Hidroelectrica": 3402.7814,
+      "Geotermoelectrica": 502.4214
+    },
+    {
+      "time": "2021/04/30 12:00",
+      "Total": 40329.3997,
+      "Eolica": 1511.8312,
+      "Fotovoltaica": 5787.7329,
+      "Biomasa": 19.039,
+      "Hidroelectrica": 3673.6578,
+      "Geotermoelectrica": 499.048
+    },
+    {
+      "time": "2021/04/30 13:00",
+      "Total": 40746.0623,
+      "Eolica": 1528.8085,
+      "Fotovoltaica": 5835.856,
+      "Biomasa": 21.3695,
+      "Hidroelectrica": 3842.6317,
+      "Geotermoelectrica": 494.4622
+    },
+    {
+      "time": "2021/04/30 14:00",
+      "Total": 40839.1846,
+      "Eolica": 1619.8087,
+      "Fotovoltaica": 5606.9044,
+      "Biomasa": 20.6583,
+      "Hidroelectrica": 3949.2061,
+      "Geotermoelectrica": 494.3308
+    },
+    {
+      "time": "2021/04/30 15:00",
+      "Total": 41132.0449,
+      "Eolica": 1829.917,
+      "Fotovoltaica": 5321.114,
+      "Biomasa": 17.2414,
+      "Hidroelectrica": 4074.9013,
+      "Geotermoelectrica": 493.8722
+    },
+    {
+      "time": "2021/04/30 16:00",
+      "Total": 41228.8197,
+      "Eolica": 1995.8223,
+      "Fotovoltaica": 5067.4468,
+      "Biomasa": 17.1205,
+      "Hidroelectrica": 3830.3641,
+      "Geotermoelectrica": 491.2151
+    },
+    {
+      "time": "2021/04/30 17:00",
+      "Total": 41304.0134,
+      "Eolica": 1919.5862,
+      "Fotovoltaica": 4624.6789,
+      "Biomasa": 21.377,
+      "Hidroelectrica": 4076.6597,
+      "Geotermoelectrica": 493.519
+    },
+    {
+      "time": "2021/04/30 18:00",
+      "Total": 40553.715,
+      "Eolica": 1741.5424,
+      "Fotovoltaica": 4062.5822,
+      "Biomasa": 21.6789,
+      "Hidroelectrica": 3673.3308,
+      "Geotermoelectrica": 499.8978
+    },
+    {
+      "time": "2021/04/30 19:00",
+      "Total": 39402.471,
+      "Eolica": 1699.8781,
+      "Fotovoltaica": 3173.674,
+      "Biomasa": 22.3397,
+      "Hidroelectrica": 3051.0528,
+      "Geotermoelectrica": 499.9844
+    },
+    {
+      "time": "2021/04/30 20:00",
+      "Total": 39119.6013,
+      "Eolica": 1573.1429,
+      "Fotovoltaica": 1347.3839,
+      "Biomasa": 22.5375,
+      "Hidroelectrica": 4342.2244,
+      "Geotermoelectrica": 497.6861
+    },
+    {
+      "time": "2021/04/30 21:00",
+      "Total": 40265.2728,
+      "Eolica": 1277.539,
+      "Fotovoltaica": 174.5701,
+      "Biomasa": 22.0981,
+      "Hidroelectrica": 6217.7227,
+      "Geotermoelectrica": 499.0351
+    },
+    {
+      "time": "2021/04/30 22:00",
+      "Total": 40547.9682,
+      "Eolica": 1069.6955,
+      "Fotovoltaica": 0.1581,
+      "Biomasa": 23.6527,
+      "Hidroelectrica": 7376.2045,
+      "Geotermoelectrica": 501.7843
+    },
+    {
+      "time": "2021/04/30 23:00",
+      "Total": 39917.2208,
+      "Eolica": 1019.8927,
+      "Fotovoltaica": 0,
+      "Biomasa": 21.3852,
+      "Hidroelectrica": 7492.4789,
+      "Geotermoelectrica": 502.1254
+    },
+    {
+      "time": "2021/05/01 00:00",
+      "Total": 39018.0065,
+      "Eolica": 1145.6718,
+      "Fotovoltaica": 0,
+      "Biomasa": 23.6244,
+      "Hidroelectrica": 6753.4207,
+      "Geotermoelectrica": 502.9985
+    },
+    {
+      "time": "",
+      "Total": 26754741.45,
+      "Eolica": "",
+      "Fotovoltaica": "",
+      "Biomasa": "",
+      "Hidroelectrica": "",
+      "Geotermoelectrica": ""
+    },
+    {
+      "time": "",
+      "Total": 2675.474145,
+      "Eolica": "",
+      "Fotovoltaica": "",
+      "Biomasa": "",
+      "Hidroelectrica": "",
+      "Geotermoelectrica": ""
+    },
+    {
+      "time": "",
+      "Total": 26.75474145,
+      "Eolica": "",
+      "Fotovoltaica": "",
+      "Biomasa": "",
+      "Hidroelectrica": "",
+      "Geotermoelectrica": ""
+    }
+  ]
+}
