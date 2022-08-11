@@ -240,11 +240,11 @@
                 <span> - Monthly energy use vs.</span>
                     </span>
                 <select id="explore1Vis_x_opt"  class="form-control selectWidth controls" style="text-transform:capitalize">
-                    <option value ="temperature" >temperature</option>
-                    <option value ="dehumidification">dehumidification</option>
-                    <option value="cooling degrees" selected>cooling degrees</option>
-                    <option value="heating degrees">heating degrees</option>
-                    <option value="solar radiation">solar radiation</option>
+                    <option value ="Eolica" >Eolica</option>
+                    <option value ="Fotovoltaica">Fotovoltaica</option>
+                    <option value="Hidroelectrica" selected>Hidroelectrica</option>
+                    <option value="Geotermoelectrica">Geotermoelectrica</option>
+                    <option value="Biomasa">Biomasa</option>
                     <option value="Total">Total</option>
                 </select>
             </form>
@@ -306,7 +306,7 @@
             var rank_vis = new RankVis(d3.select("#rankVis"), monthlyEnergy, option, MyEventHandler);
             var energy_vis = new EnergyVis(d3.select("#energyVis"), monthlyEnergy, option, MyEventHandler);
 
-            var temp_vis = new WeatherVis(d3.select("#tempVis"), weather, "Temperature", MyEventHandler);
+            var temp_vis = new WeatherVis(d3.select("#tempVis"), weather, "Eolica", MyEventHandler);
             var solar_vis = new WeatherVis(d3.select("#solarVis"), weather, "Solar", MyEventHandler);
             var wind_vis = new WeatherVis(d3.select("#windVis"), weather, "Wind", MyEventHandler);
 
