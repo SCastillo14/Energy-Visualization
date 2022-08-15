@@ -147,9 +147,9 @@ Explore1Vis.prototype.updateVis = function(){
     //this.color.domain(this.displayData.map(function(d) { return d.type }));
 
     // updates axis
-    var unit = {"Eolica": "(" + String.fromCharCode(176) + "C)", "Fotovoltaica": "(kg/kg)",
-        "Hidroelectrica": "(" + String.fromCharCode(176) + "C)", "Geotermoelectrica": "(" + String.fromCharCode(176) + "C)",
-        "Biomasa": "(W/m2)", "Total": "(m/s)",
+    var unit = {"wind speed": "(" + String.fromCharCode(176) + "C)", "min temperature": "(kg/kg)",
+        "temperature": "(" + String.fromCharCode(176) + "C)", "dehumidification": "(" + String.fromCharCode(176) + "C)",
+        "solar radiation": "(W/m2)", "time": "(m/s)",
         "electric" : "(Wh/sf)", "chilled water": "(kg-Days/sf)", "steam" : "(kBtu/sf)"
     };
 
