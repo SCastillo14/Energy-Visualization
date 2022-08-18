@@ -8390,5 +8390,33 @@
         ], 
         "longitude": -101.25, 
         "area": 30607
+    },
+    "Eólica": {
+        "function": "Central", 
+        "Latitude": 21.016667,
+        "steam": [
+            {
+                "consumption": 699.15, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 699, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 699, 
+                "month": "2018-01-01"
+            }, 
+            {
+                "consumption": 699, 
+                "month": "2019-04-01"
+            }, 
+            {
+                "consumption": 699,                 
+                "month": "2020-05-01"
+            }
+        ], 
+        "longitude": -101.25, 
+        "area": 30607
     }
 } 
