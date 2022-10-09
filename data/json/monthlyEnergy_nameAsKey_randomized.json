@@ -2365,7 +2365,32 @@
             }
         ], 
         "longitude": -115.4523, 
-        "area": 71550
+        "area": 71550,
+        "chilled water":[
+            {
+                "consumption": 2561.430, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 2875.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 2875.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 2875.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 2855.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 2880.000, 
+                "month": "2021-01-01"
+            } 
+        ]
     },
     "Jalisco": {
         "function": "dormitory", 
@@ -3253,7 +3278,33 @@
             }
         ], 
         "longitude": -90.5255400, 
-        "area": 57484.9
+        "area": 57484.9,
+        "chilled water":[
+            {
+                "consumption": 411.900, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 408.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 408.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 408.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 398.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 398.000, 
+                "month": "2021-01-01"
+            } 
+
+        ]
     }, 
     "Chiapas": {
         "function": "office and classroom",
@@ -3549,7 +3600,33 @@
             }
         ], 
         "area": 73311, 
-        "longitude": -931292
+        "longitude": -931292,
+        "chilled water":[
+            {
+                "consumption": 4828.480, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 4828.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 4828.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 4828.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 4828.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 4828.000, 
+                "month": "2021-01-01"
+            } 
+
+        ]
     },
     "Sinaloa": {
         "function": "dormitory", 
@@ -5029,7 +5106,33 @@
             }
         ], 
         "longitude": -112.2701, 
-        "area": 73909
+        "area": 73909,
+        "chilled water":[
+            {
+                "consumption": 645.111, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 791.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 791.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 791.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 782.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 937.000, 
+                "month": "2021-01-01"
+            } 
+
+        ]
     },
     "Coahuila": {
         "function": "residence hall",
