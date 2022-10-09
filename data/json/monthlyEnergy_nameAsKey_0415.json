@@ -294,30 +294,6 @@
         ], 
         "longitude": -115.4523, 
         "area": 71550
-        "chilled water": [
-            {
-                "consumption": 2561.430, 
-                "month": "2016-12-01"
-            },
-            {
-                "consumption": 2875.000, 
-                "month": "2017-12-01"
-            },{
-                "consumption": 2875.000, 
-                "month": "2018-12-01"
-            },
-            {
-                "consumption": 2875.000, 
-                "month": "2019-12-01"
-            },{
-                "consumption": 2855.00, 
-                "month": "2020-12-01"
-            },
-            {
-                "consumption": 2880.000, 
-                "month": "2021-12-01"
-            },
-        ]
     }, 
     "Baja California Sur": {
         "function": "Baja California Sur", 
