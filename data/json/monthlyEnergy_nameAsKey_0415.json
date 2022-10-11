@@ -4124,7 +4124,32 @@
             }
         ], 
         "longitude": -101.25, 
-        "area": 30607
+        "area": 30607,
+        "chilled water":[
+            {
+                "consumption": 2386.600, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 2181.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 2181.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 2181.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 2465.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 2464.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Jalisco": {
         "function": "Occidental", 
@@ -4420,7 +4445,32 @@
             }
         ], 
         "longitude": -101.25, 
-        "area": 30607
+        "area": 30607,
+        "chilled water":[
+            {
+                "consumption": 375.520, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 1126.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 1126.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 1126.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 1126.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 1126.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Michoacán": {
         "function": "Central", 
@@ -4716,7 +4766,32 @@
             }
         ], 
         "longitude": -101.25, 
-        "area": 30607
+        "area": 30607,
+        "chilled water":[
+            {
+                "consumption": 729.030, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 1929.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 1929.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 1929.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 1954.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 1979.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Morelos": {
         "function": "Oriental", 
