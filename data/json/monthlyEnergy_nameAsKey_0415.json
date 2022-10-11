@@ -1581,7 +1581,32 @@
                 }
             ], 
             "area": 247455, 
-            "longitude": -1060691
+            "longitude": -1060691,
+            "chilled water":[
+                {
+                    "consumption": 2554.160, 
+                    "month": "2016-01-01"
+                }, 
+                {
+                    "consumption": 2585.000, 
+                    "month": "2017-01-01"
+                }, 
+                {
+                    "consumption": 2585.000, 
+                    "month": "2018-01-01"
+                },{
+                    "consumption": 2585.000, 
+                    "month": "2019-01-01"
+                }, 
+                {
+                    "consumption": 3461.000, 
+                    "month": "2020-01-01"
+                }, 
+                {
+                    "consumption": 3461.000, 
+                    "month": "2021-01-01"
+                }
+            ] 
     },
     "Coahuila": {
         "function": "Noroeste",
@@ -1877,7 +1902,32 @@
             }
         ], 
         "area": 151595, 
-        "longitude": -100.9977 
+        "longitude": -100.9977,
+        "chilled water":[
+            {
+                "consumption": 2989.500, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 3047.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 3047.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 3047.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 3047.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 3047.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Colima": {
         "function": "Occidental",
@@ -2173,7 +2223,32 @@
             }
         ], 
         "area": 5627, 
-        "longitude": -103.7271400 
+        "longitude": -103.7271400,
+        "chilled water":[
+            {
+                "consumption": 2753.908, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 2754.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 2754.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 2754.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 2754.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 2754.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Ciudad de Mexico": {
         "function": "Central", 
@@ -2469,7 +2544,32 @@
             }
         ], 
         "longitude": -99.126600, 
-        "area": 1485
+        "area": 1485,
+        "chilled water":[
+            {
+                "consumption": 266.000, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 266.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 266.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 266.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 266.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 266.000, 
+                "month": "2021-01-01"
+            }
+        ]
     }, 
     "Durango": {
         "function": "Norte",
@@ -2765,7 +2865,32 @@
             }
         ], 
         "longitude": -99.126600, 
-        "area": 1485
+        "area": 1485,
+        "chilled water":[
+            {
+                "consumption": 1563.800, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 1608.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 1608.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 1608.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 1592.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 1592.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Estado de Mexico": {
         "function": "Central",
@@ -3357,7 +3482,32 @@
             }
         ], 
         "longitude": -101.25, 
-        "area": 30607
+        "area": 30607,
+        "chilled water":[
+            {
+                "consumption": 1438.000, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 1458.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 1458.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 1458.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 1438.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 1438.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Guerrero": {
         "function": "Central", 
@@ -3653,7 +3803,32 @@
             }
         ], 
         "longitude": -101.25, 
-        "area": 30607
+        "area": 30607,
+        "chilled water":[
+            {
+                "consumption": 4586.360, 
+                "month": "2016-01-01"
+            }, 
+            {
+                "consumption": 3416.000, 
+                "month": "2017-01-01"
+            }, 
+            {
+                "consumption": 3416.000, 
+                "month": "2018-01-01"
+            },{
+                "consumption": 3416.000, 
+                "month": "2019-01-01"
+            }, 
+            {
+                "consumption": 3416.000, 
+                "month": "2020-01-01"
+            }, 
+            {
+                "consumption": 3416.000, 
+                "month": "2021-01-01"
+            }
+        ]
     },
     "Hidalgo": {
         "function": "Occidental", 
