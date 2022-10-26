@@ -150,7 +150,7 @@ Explore1Vis.prototype.updateVis = function(){
     var unit = {"wind speed": "(" + String.fromCharCode(176) + "C)", "min temperature": "(kg/kg)",
         "temperature": "(" + String.fromCharCode(176) + "C)", "dehumidification": "(" + String.fromCharCode(176) + "C)",
         "solar radiation": "(W/m2)", "time": "(m/s)",
-        "electric" : "(Wh/sf)", "chilled water": "(kg-Days/sf)", "steam" : "(kBtu/sf)"
+        "electric" : "(MWh)", "chilled water": "(kg-Days/sf)", "steam" : "(kBtu/sf)"
     };
 
     this.svg.select(".y.axis")
