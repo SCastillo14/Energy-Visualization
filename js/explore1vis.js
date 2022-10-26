@@ -115,7 +115,7 @@ Explore1Vis.prototype.wrangleData= function(_filterFunction){
         var x_time = dateTimeFormatter.parse(data_x[j].time);
         if (y_time.getYear() == x_time.getYear() && y_time.getMonth() == x_time.getMonth()) {
             this.displayData.push({"x": data_x[j][xVariable],
-                "y": data_y[i]["consumption"]/area * 1000,
+                "y": data_y[i]["consumption"],
                 "month": data_y[i].month.split("-")[0] + "-" + data_y[i].month.split("-")[1]});
             k = j;
             continue;
