@@ -79,7 +79,7 @@ WeatherVis.prototype.updateVis = function(_option){
 	if (_option == "wind speed") {
 		var max = d3.max(this.displayData.data, function(d) { return d; });
 		var min = d3.min(this.displayData.data, function(d) { return d; });
-		this.y.domain([min - 0.3 * (max - min), max + 0.3 * (max - min)]).range([this.height, 0]);
+		this.y.domain([min - 0.5 * (max - min), max + 0.5 * (max - min)]).range([this.height, 0]);
 	}
 	else {
 		this.y.domain([0, 1.5 * d3.max(this.displayData.data, function(d) { return d; })]).range([this.height, 0]);
