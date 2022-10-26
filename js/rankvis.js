@@ -6,7 +6,7 @@ var dateFormatter = d3.time.format("%Y-%m-%d");
 var color_energy = {"chilled water": "blue", "steam": "red", "electric": "green"};
 
 var dateEnd = "2021-01-01";
-var dateStart = "2020-01-01";
+var dateStart = "2016-01-01";
 
 
 RankVis = function(_parentElement, _data, _option, _eventHandler){
