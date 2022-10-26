@@ -139,7 +139,7 @@
                 <label id = "Show_buildings_with_data_of" class="control-label gray-tooltip">Tipo de Información:</label>
                 <select id="building_opt" class="form-control selectWidth controls">
                     <option value="electric" selected>Generación Bruta por Entidad Federativa</option>
-                    <option value="chilled water">Capacidad por entidad federativa</option>
+                    <option value="chilled water">Capacidad por Entidad Federativa</option>
                     <option value="steam">Steam</option>
                     <option value="all">Todos</option>
                 </select>
@@ -201,8 +201,8 @@
         <nav>
             <ul class="pager">
                 <span id="Energy_Use_and_Weather" class = "controls subtitle gray-tooltip">Energy Use and Weather: </span>
-                <li><a href="#" onClick="SelectTab(1)">Basic</a></li>
-                <li><a href="#" onClick="SelectTab(2)">Explorative</a></li>
+                <li><a href="#" onClick="SelectTab(1)">Grafica Básica</a></li>
+                <li><a href="#" onClick="SelectTab(2)">Grafica Explorativa</a></li>
             </ul>
         </nav>
     </div>
@@ -237,19 +237,19 @@
             <form class="form-inline" style="text-transform:capitalize">
                 <span id="Monthly_energy_use_vs" class = "gray-tooltip">
                 <span id="buildingName_explore1Vis">Durango</span>
-                <span> - Monthly energy use vs.</span>
+                <span> - Energía mensual vs.</span>
                     </span>
                 <select id="explore1Vis_x_opt"  class="form-control selectWidth controls" style="text-transform:capitalize">
-                    <option value ="wind speed" >wind speed</option>
-                    <option value ="min temperature">min temperature</option>
-                    <option value="temperature" selected>temperature</option>
-                    <option value="dehumidification">dehumidification</option>
-                    <option value="solar radiation">solar radiation</option>
+                    <option value ="wind speed" >Velocidad del aire</option>
+                    <option value ="min temperature">Temperatura min</option>
+                    <option value="temperature" selected>Temperatura</option>
+                    <option value="dehumidification">Humedad</option>
+                    <option value="solar radiation">Radiación Solar</option>
                 </select>
             </form>
         </div>
         <div class="col-md-4" >
-            <div><br>Linear Regression Results</div>
+            <div><br>Resultados Regreción Lineal</div>
             <div align = "left" id = "explore1Equation"></div>
             <hr>
             <div align = "left">
