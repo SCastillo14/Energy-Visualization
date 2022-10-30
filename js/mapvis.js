@@ -7,7 +7,7 @@ MapVis = function(_parentElement, _monthlyEnergy, _option, _eventHandler){
     this.eventHandler = _eventHandler;
 
     this.margin = {top: 0, right: 0, bottom: 0, left: 0};
-    this.height = 800 - this.margin.top - this.margin.bottom;
+    this.height = 400 - this.margin.top - this.margin.bottom;
     this.width = getInnerWidth(this.parentElement) - this.margin.left - this.margin.right;
 
     this.wrangleData();
