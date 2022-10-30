@@ -5204,7 +5204,7 @@
     }, 
     "Baja California Sur": {
         "function": "office and classroom", 
-        "latitude": 27.3361, 
+        "latitude": 42.375464000000001, 
         "electric": [
             {
                 "consumption": 170517.52, 
@@ -5495,8 +5495,8 @@
                 "month": "2021-12-01"
             }
         ], 
-        "longitude": -112.2701, 
-        "area": 73909,
+        "longitude": -71.112871999999996, 
+        "area": 8725,
         "chilled water":[
             {
                 "consumption": 645.111, 

@@ -1,7 +1,7 @@
 {
     "Baja California": {
         "function": "Baja California", 
-        "latitude": 32.6245, 
+        "latitude": 42.380538999999999, 
         "electric": [
             {
                 "consumption": 917113.69, 
@@ -292,8 +292,8 @@
                 "month": "2021-12-01"
             }
         ], 
-        "longitude": -115.4523, 
-        "area": 71550,
+        "longitude": -71.118146999999993, 
+        "area": 5692,
         "chilled water":[
             {
                 "consumption": 2561.430, 
@@ -588,7 +588,7 @@
     }, 
     "Baja California Sur": {
         "function": "Baja California Sur", 
-        "latitude": 27.3361, 
+        "latitude": 42.375464000000001, 
         "electric": [
             {
                 "consumption": 170517.52, 
@@ -879,8 +879,8 @@
                 "month": "2021-12-01"
             }
         ], 
-        "longitude": -112.2701, 
-        "area": 73909,
+        "longitude": -71.112871999999996, 
+        "area": 8725,
         "chilled water":[
             {
                 "consumption": 645.111, 
