@@ -366,7 +366,7 @@ WeatherVis.prototype.filterAndAggregate = function(_option){
 		filter = "time";
 	}
     //Dear JS hipster, a more hip variant of this construct would be:
-    var filter = _filter || function(){return true;}
+    // var filter = _filter || function(){return true;}
 	var filteredData = this.data["monthly"];
 	
 	var res = {};
