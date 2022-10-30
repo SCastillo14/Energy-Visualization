@@ -4692,7 +4692,7 @@
     }, 
     "Durango": {
         "function": "Norte",
-        "Latitude": 240277, 
+        "latitude": 240277, 
         "electric": [
             {
                 "consumption": 15165, 
@@ -5278,7 +5278,7 @@
     },
     "Estado de Mexico": {
         "function": "Central",
-        "Latitude": 194326,  
+        "latitude": 194326,  
         "electric": [
             {
                 "consumption": 602557.86, 
@@ -5577,7 +5577,7 @@
     }, 
     "Guanajuato": {
         "function": "Occidental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 602557.86, 
@@ -6163,7 +6163,7 @@
     },
     "Guerrero": {
         "function": "Central", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 1296529.01, 
@@ -6749,7 +6749,7 @@
     },
     "Hidalgo": {
         "function": "Occidental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 1077738.3, 
@@ -7335,7 +7335,7 @@
     },
     "Jalisco": {
         "function": "Occidental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 27850.3, 
@@ -7921,7 +7921,7 @@
     },
     "Michoacán": {
         "function": "Central", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 296076.85, 
@@ -8507,7 +8507,7 @@
     },
     "Morelos": {
         "function": "Oriental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 0, 
@@ -9093,7 +9093,7 @@
     },
     "Nayarit": {
         "function": "Occidental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 55526.37, 
@@ -9679,7 +9679,7 @@
     },
     "Nuevo León": {
         "function": "Noroeste", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 763871.33, 
@@ -10265,7 +10265,7 @@
     },
     "Oaxaca": {
         "function": "Oriental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 328767.57, 
@@ -10851,7 +10851,7 @@
     },
     "Puebla": {
         "function": "Oriental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 339415.4, 
@@ -11437,7 +11437,7 @@
     },
     "Querétaro": {
         "function": "Occidental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 345601.83, 
@@ -12023,7 +12023,7 @@
     },
     "Quintana Roo": {
         "function": "Peninsular", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 1378.35, 
@@ -12609,7 +12609,7 @@
     },
     "San Luis Potosí": {
         "function": "Occidental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 722550.73, 
@@ -13195,7 +13195,7 @@
     },
     "Sinaloa": {
         "function": "Noroeste", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 326773.54, 
@@ -13781,7 +13781,7 @@
     },
     "Sonora": {
         "function": "Noroeste", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 726144.43, 
@@ -14367,7 +14367,7 @@
     },
     "Tamaulipas": {
         "function": "Noroeste", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 2354867.32, 
@@ -14953,7 +14953,7 @@
     },
     "Veracruz": {
         "function": "Oriental", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 2182411.54, 
@@ -15539,7 +15539,7 @@
     },
     "Yucatán": {
         "function": "Peninsular", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 538787.33, 
@@ -16126,7 +16126,7 @@
     },
     "Plantas Móviles": {
         "function": "Central", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "electric": [
             {
                 "consumption": 613.92, 
@@ -16230,7 +16230,7 @@
     },
     "Eólica": {
         "function": "Central", 
-        "Latitude": 21.016667,
+        "latitude": 21.016667,
         "steam": [
             {
                 "consumption": 699.15, 
