@@ -102,7 +102,7 @@ MapVis.prototype.initVis = function() {
     this.map = new google.maps.Map(mapContainer, mapOptions);
 
     var styledMapOptions = {
-        name: 'Mapa de Mexico'
+        name: 'Harvard Map'
     };
 
     var ltcMapType = new google.maps.StyledMapType(featureOpts, styledMapOptions);
