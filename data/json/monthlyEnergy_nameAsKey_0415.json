@@ -2795,9 +2795,9 @@
             }
         ]
     }, 
-    "11 Grant Street": {
+    "Michoacán": {
         "function": "residential", 
-        "latitude": 42.369695999999998, 
+        "latitude": 19.168611, 
         "electric": [
             {
                 "consumption": 2747.4099999999999, 
@@ -2928,8 +2928,8 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.115504999999999, 
-        "area": 5563
+        "longitude": -101.899722, 
+        "area": 58598.7
     }, 
     "17 Sumner Road": {
         "function": "office", 
@@ -3197,9 +3197,9 @@
         ], 
         "latitude": 42.376309999999997
     }, 
-    "28 Hingham Street": {
+    "Estado de Mexico": {
         "function": "residential", 
-        "latitude": 42.365025000000003, 
+        "latitude": 19.354167, 
         "electric": [
             {
                 "consumption": 5728.4099999999999, 
@@ -3330,7 +3330,7 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.115137000000004, 
+        "longitude": -99.630833, 
         "area": 9201
     }, 
     "5 Cowperthwaite Street": {
