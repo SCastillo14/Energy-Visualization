@@ -80,7 +80,7 @@ MapVis.prototype.initVis = function() {
     ];
 
     var mapOptions = {
-        zoom: 20,
+        zoom: 5,
         center: harvardYard ,
         mapTypeControlOptions: {
             mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
