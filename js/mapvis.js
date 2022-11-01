@@ -23,7 +23,7 @@ MapVis.prototype.initVis = function() {
 
     var that = this;
 
-    var harvardYard = new google.maps.LatLng(42.374332, -71.116789);
+    var harvardYard = new google.maps.LatLng(23.634501, -102.552784);
 
     var MY_MAPTYPE_ID = 'ltc_style';
 
@@ -80,7 +80,7 @@ MapVis.prototype.initVis = function() {
     ];
 
     var mapOptions = {
-        zoom: 15,
+        zoom: 10,
         center: harvardYard ,
         mapTypeControlOptions: {
             mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
