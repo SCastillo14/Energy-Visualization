@@ -12229,9 +12229,9 @@
             }
         ]
     }, 
-    "Weld Boat House": {
+    "Colima": {
         "function": "atheletics", 
-        "latitude": 42.369405999999998, 
+        "latitude": 19.096667, 
         "electric": [
             {
                 "consumption": 1784.0, 
@@ -12362,8 +12362,8 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.122129999999999, 
-        "area": 26513
+        "longitude": -103.960833, 
+        "area": 5625
     }, 
     "Sherman Fairchild Biochemistry": {
         "function": "lab", 
@@ -17283,7 +17283,7 @@
             }
         ]
     }, 
-    "Murr Building": {
+    "Guanajuato": {
         "function": "atheletics", 
         "electric": [
             {
@@ -17415,9 +17415,9 @@
                 "month": "2015-02-01"
             }
         ], 
-        "area": 118133, 
-        "longitude": -71.125719000000004, 
-        "latitude": 42.367404999999998, 
+        "area": 30608, 
+        "longitude": -101.262778, 
+        "latitude": 21.018889, 
         "steam": [
             {
                 "consumption": 45.700000000000003, 
@@ -18211,9 +18211,9 @@
             }
         ]
     },
-    "Stadium": {
+    "Hidalgo": {
         "function": "atheletics", 
-        "latitude": 42.366467999999998, 
+        "latitude": 20.478333, 
         "electric": [
             {
                 "consumption": 35245.0, 
@@ -18344,8 +18344,8 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.127008000000004, 
-        "area": 49410
+        "longitude": -98.863611, 
+        "area": 20821.4
     }, 
     "Harvard Hall": {
         "function": "office and classroom", 
@@ -20735,7 +20735,7 @@
             }
         ]
     },
-    "Palmer Dixon Courts": {
+    "Jalisco": {
         "function": "atheletics", 
         "electric": [
             {
@@ -20867,9 +20867,9 @@
                 "month": "2015-02-01"
             }
         ], 
-        "area": 23897, 
-        "longitude": -71.126812000000001, 
-        "latitude": 42.368941, 
+        "area": 78588, 
+        "longitude": -103.676389, 
+        "latitude": 20.566667, 
         "steam": [
             {
                 "consumption": 0.45000000000000001, 
@@ -22196,9 +22196,9 @@
             }
         ]
     },
-    "Newell Boat House": {
+    "Nayarit": {
         "function": "atheletics", 
-        "latitude": 42.369675000000001, 
+        "latitude": 21.743889, 
         "electric": [
             {
                 "consumption": 2261.0, 
@@ -22329,8 +22329,8 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.125832000000003, 
-        "area": 22498
+        "longitude": -105.228333, 
+        "area": 27857
     },
     "Dunster House": {
         "function": "dormitory", 
@@ -23130,7 +23130,7 @@
             }
         ]
     },
-    "Dillon Field House": {
+    "Querétaro": {
         "function": "atheletics", 
         "electric": [
             {
@@ -23262,9 +23262,9 @@
                 "month": "2015-02-01"
             }
         ], 
-        "area": 46275, 
-        "longitude": -71.126024999999998, 
-        "latitude": 42.368465, 
+        "area": 11699, 
+        "longitude": -100.391, 
+        "latitude": 20.591, 
         "steam": [
             {
                 "consumption": 44.799999999999997, 
@@ -25122,7 +25122,7 @@
             }
         ]
     }, 
-    "Bright Hockey Center": {
+    "San Luis Potosí": {
         "function": "atheletics", 
         "electric": [
             {
@@ -25254,9 +25254,9 @@
                 "month": "2015-02-01"
             }
         ], 
-        "area": 96499, 
-        "longitude": -71.127452000000005, 
-        "latitude": 42.368411999999999, 
+        "area": 65268, 
+        "longitude": -100.429722, 
+        "latitude": 22.603333, 
         "steam": [
             {
                 "consumption": 198.37, 
@@ -25919,143 +25919,7 @@
             }
         ], 
         "latitude": 42.372979999999998
-    }, 
-    "Blodgett Pool": {
-        "function": "atheletics", 
-        "latitude": 42.367705999999998, 
-        "electric": [
-            {
-                "consumption": 78384.0, 
-                "month": "2012-07-01"
-            }, 
-            {
-                "consumption": 73731.0, 
-                "month": "2012-08-01"
-            }, 
-            {
-                "consumption": 78937.0, 
-                "month": "2012-09-01"
-            }, 
-            {
-                "consumption": 71657.0, 
-                "month": "2012-10-01"
-            }, 
-            {
-                "consumption": 90548.0, 
-                "month": "2012-11-01"
-            }, 
-            {
-                "consumption": 65568.0, 
-                "month": "2012-12-01"
-            }, 
-            {
-                "consumption": 40332.0, 
-                "month": "2013-01-01"
-            }, 
-            {
-                "consumption": 62456.0, 
-                "month": "2013-02-01"
-            }, 
-            {
-                "consumption": 64947.699999999997, 
-                "month": "2013-03-01"
-            }, 
-            {
-                "consumption": 70574.0, 
-                "month": "2013-04-01"
-            }, 
-            {
-                "consumption": 71818.0, 
-                "month": "2013-05-01"
-            }, 
-            {
-                "consumption": 59155.0, 
-                "month": "2013-06-01"
-            }, 
-            {
-                "consumption": 81442.0, 
-                "month": "2013-07-01"
-            }, 
-            {
-                "consumption": 63582.0, 
-                "month": "2013-08-01"
-            }, 
-            {
-                "consumption": 53454.0, 
-                "month": "2013-09-01"
-            }, 
-            {
-                "consumption": 48004.0, 
-                "month": "2013-10-01"
-            }, 
-            {
-                "consumption": 69539.0, 
-                "month": "2013-11-01"
-            }, 
-            {
-                "consumption": 47941.0, 
-                "month": "2013-12-01"
-            }, 
-            {
-                "consumption": 42652.0, 
-                "month": "2014-01-01"
-            }, 
-            {
-                "consumption": 89343.399999999994, 
-                "month": "2014-02-01"
-            }, 
-            {
-                "consumption": 61693.599999999999, 
-                "month": "2014-03-01"
-            }, 
-            {
-                "consumption": 52834.75, 
-                "month": "2014-04-01"
-            }, 
-            {
-                "consumption": 59511.25, 
-                "month": "2014-05-01"
-            }, 
-            {
-                "consumption": 34724.0, 
-                "month": "2014-06-01"
-            }, 
-            {
-                "consumption": 48153.0, 
-                "month": "2014-07-01"
-            }, 
-            {
-                "consumption": 73305.0, 
-                "month": "2014-08-01"
-            }, 
-            {
-                "consumption": 72502.0, 
-                "month": "2014-09-01"
-            }, 
-            {
-                "consumption": 61681.0, 
-                "month": "2014-10-01"
-            }, 
-            {
-                "consumption": 59928.0, 
-                "month": "2014-11-01"
-            }, 
-            {
-                "consumption": 48725.0, 
-                "month": "2014-12-01"
-            }, 
-            {
-                "consumption": 50415.0, 
-                "month": "2015-01-01"
-            }, 
-            {
-                "consumption": 46063.0, 
-                "month": "2015-02-01"
-            }
-        ], 
-        "longitude": -71.124904000000001, 
-        "area": 55247
-    }, 
+    },
     "Hollis Hall": {
         "function": "dormitory", 
         "electric": [
@@ -27249,273 +27113,7 @@
                 "month": "2015-02-01"
             }
         ]
-    }, 
-    "Gordon Track and Tennis Center": {
-        "function": "atheletics", 
-        "electric": [
-            {
-                "consumption": 14842.0, 
-                "month": "2012-07-01"
-            }, 
-            {
-                "consumption": 14136.0, 
-                "month": "2012-08-01"
-            }, 
-            {
-                "consumption": 14742.0, 
-                "month": "2012-09-01"
-            }, 
-            {
-                "consumption": 19123.0, 
-                "month": "2012-10-01"
-            }, 
-            {
-                "consumption": 21428.0, 
-                "month": "2012-11-01"
-            }, 
-            {
-                "consumption": 18746.0, 
-                "month": "2012-12-01"
-            }, 
-            {
-                "consumption": 20390.0, 
-                "month": "2013-01-01"
-            }, 
-            {
-                "consumption": 22147.0, 
-                "month": "2013-02-01"
-            }, 
-            {
-                "consumption": 27900.0, 
-                "month": "2013-03-01"
-            }, 
-            {
-                "consumption": 21887.0, 
-                "month": "2013-04-01"
-            }, 
-            {
-                "consumption": 18739.0, 
-                "month": "2013-05-01"
-            }, 
-            {
-                "consumption": 15915.0, 
-                "month": "2013-06-01"
-            }, 
-            {
-                "consumption": 15132.0, 
-                "month": "2013-07-01"
-            }, 
-            {
-                "consumption": 12508.0, 
-                "month": "2013-08-01"
-            }, 
-            {
-                "consumption": 13243.0, 
-                "month": "2013-09-01"
-            }, 
-            {
-                "consumption": 15847.0, 
-                "month": "2013-10-01"
-            }, 
-            {
-                "consumption": 20465.0, 
-                "month": "2013-11-01"
-            }, 
-            {
-                "consumption": 18389.0, 
-                "month": "2013-12-01"
-            }, 
-            {
-                "consumption": 18895.0, 
-                "month": "2014-01-01"
-            }, 
-            {
-                "consumption": 26513.0, 
-                "month": "2014-02-01"
-            }, 
-            {
-                "consumption": 24068.0, 
-                "month": "2014-03-01"
-            }, 
-            {
-                "consumption": 23003.0, 
-                "month": "2014-04-01"
-            }, 
-            {
-                "consumption": 22646.0, 
-                "month": "2014-05-01"
-            }, 
-            {
-                "consumption": 23248.0, 
-                "month": "2014-06-01"
-            }, 
-            {
-                "consumption": 21370.0, 
-                "month": "2014-07-01"
-            }, 
-            {
-                "consumption": 18332.0, 
-                "month": "2014-08-01"
-            }, 
-            {
-                "consumption": 17022.0, 
-                "month": "2014-09-01"
-            }, 
-            {
-                "consumption": 17004.0, 
-                "month": "2014-10-01"
-            }, 
-            {
-                "consumption": 19616.0, 
-                "month": "2014-11-01"
-            }, 
-            {
-                "consumption": 19660.0, 
-                "month": "2014-12-01"
-            }, 
-            {
-                "consumption": 20111.0, 
-                "month": "2015-01-01"
-            }, 
-            {
-                "consumption": 19037.0, 
-                "month": "2015-02-01"
-            }
-        ], 
-        "area": 75021, 
-        "longitude": -71.128280000000004, 
-        "latitude": 42.368015999999997, 
-        "steam": [
-            {
-                "consumption": 17.140000000000001, 
-                "month": "2012-07-01"
-            }, 
-            {
-                "consumption": 18.59, 
-                "month": "2012-08-01"
-            }, 
-            {
-                "consumption": 20.719999999999999, 
-                "month": "2012-09-01"
-            }, 
-            {
-                "consumption": 19.379999999999999, 
-                "month": "2012-10-01"
-            }, 
-            {
-                "consumption": 146.5, 
-                "month": "2012-11-01"
-            }, 
-            {
-                "consumption": 197.56999999999999, 
-                "month": "2012-12-01"
-            }, 
-            {
-                "consumption": 471.74000000000001, 
-                "month": "2013-01-01"
-            }, 
-            {
-                "consumption": 477.56999999999999, 
-                "month": "2013-02-01"
-            }, 
-            {
-                "consumption": 343.5, 
-                "month": "2013-03-01"
-            }, 
-            {
-                "consumption": 355.38, 
-                "month": "2013-04-01"
-            }, 
-            {
-                "consumption": 141.12, 
-                "month": "2013-05-01"
-            }, 
-            {
-                "consumption": 19.940000000000001, 
-                "month": "2013-06-01"
-            }, 
-            {
-                "consumption": 18.48, 
-                "month": "2013-07-01"
-            }, 
-            {
-                "consumption": 18.030000000000001, 
-                "month": "2013-08-01"
-            }, 
-            {
-                "consumption": 16.460000000000001, 
-                "month": "2013-09-01"
-            }, 
-            {
-                "consumption": 20.379999999999999, 
-                "month": "2013-10-01"
-            }, 
-            {
-                "consumption": 246.84999999999999, 
-                "month": "2013-11-01"
-            }, 
-            {
-                "consumption": 320.31999999999999, 
-                "month": "2013-12-01"
-            }, 
-            {
-                "consumption": 403.87, 
-                "month": "2014-01-01"
-            }, 
-            {
-                "consumption": 487.87, 
-                "month": "2014-02-01"
-            }, 
-            {
-                "consumption": 394.45999999999998, 
-                "month": "2014-03-01"
-            }, 
-            {
-                "consumption": 293.10000000000002, 
-                "month": "2014-04-01"
-            }, 
-            {
-                "consumption": 255.81, 
-                "month": "2014-05-01"
-            }, 
-            {
-                "consumption": 13.779999999999999, 
-                "month": "2014-06-01"
-            }, 
-            {
-                "consumption": 12.99, 
-                "month": "2014-07-01"
-            }, 
-            {
-                "consumption": 19.960000000000001, 
-                "month": "2014-08-01"
-            }, 
-            {
-                "consumption": 16.890000000000001, 
-                "month": "2014-09-01"
-            }, 
-            {
-                "consumption": 16.239999999999998, 
-                "month": "2014-10-01"
-            }, 
-            {
-                "consumption": 196.0, 
-                "month": "2014-11-01"
-            }, 
-            {
-                "consumption": 369.38, 
-                "month": "2014-12-01"
-            }, 
-            {
-                "consumption": 390.32999999999998, 
-                "month": "2015-01-01"
-            }, 
-            {
-                "consumption": 431.75, 
-                "month": "2015-02-01"
-            }
-        ]
-    }, 
+    },
     "Greenough Hall": {
         "function": "dormitory", 
         "electric": [
@@ -28966,272 +28564,6 @@
             }, 
             {
                 "consumption": 722.17999999999995, 
-                "month": "2015-02-01"
-            }
-        ]
-    },
-    "Malkin Athletic Center": {
-        "function": "atheletics", 
-        "electric": [
-            {
-                "consumption": 71202.0, 
-                "month": "2012-07-01"
-            }, 
-            {
-                "consumption": 71965.0, 
-                "month": "2012-08-01"
-            }, 
-            {
-                "consumption": 77164.0, 
-                "month": "2012-09-01"
-            }, 
-            {
-                "consumption": 68397.0, 
-                "month": "2012-10-01"
-            }, 
-            {
-                "consumption": 80298.0, 
-                "month": "2012-11-01"
-            }, 
-            {
-                "consumption": 60571.0, 
-                "month": "2012-12-01"
-            }, 
-            {
-                "consumption": 28277.0, 
-                "month": "2013-01-01"
-            }, 
-            {
-                "consumption": 25489.0, 
-                "month": "2013-02-01"
-            }, 
-            {
-                "consumption": 38735.0, 
-                "month": "2013-03-01"
-            }, 
-            {
-                "consumption": 29970.0, 
-                "month": "2013-04-01"
-            }, 
-            {
-                "consumption": 67250.0, 
-                "month": "2013-05-01"
-            }, 
-            {
-                "consumption": 70950.0, 
-                "month": "2013-06-01"
-            }, 
-            {
-                "consumption": 80247.0, 
-                "month": "2013-07-01"
-            }, 
-            {
-                "consumption": 73696.0, 
-                "month": "2013-08-01"
-            }, 
-            {
-                "consumption": 81868.0, 
-                "month": "2013-09-01"
-            }, 
-            {
-                "consumption": 73224.0, 
-                "month": "2013-10-01"
-            }, 
-            {
-                "consumption": 69983.0, 
-                "month": "2013-11-01"
-            }, 
-            {
-                "consumption": 23960.0, 
-                "month": "2013-12-01"
-            }, 
-            {
-                "consumption": 41814.0, 
-                "month": "2014-01-01"
-            }, 
-            {
-                "consumption": 44651.0, 
-                "month": "2014-02-01"
-            }, 
-            {
-                "consumption": 47181.0, 
-                "month": "2014-03-01"
-            }, 
-            {
-                "consumption": 30072.0, 
-                "month": "2014-04-01"
-            }, 
-            {
-                "consumption": 59584.0, 
-                "month": "2014-05-01"
-            }, 
-            {
-                "consumption": 79805.0, 
-                "month": "2014-06-01"
-            }, 
-            {
-                "consumption": 86319.0, 
-                "month": "2014-07-01"
-            }, 
-            {
-                "consumption": 79436.0, 
-                "month": "2014-08-01"
-            }, 
-            {
-                "consumption": 75131.0, 
-                "month": "2014-09-01"
-            }, 
-            {
-                "consumption": 40330.0, 
-                "month": "2014-10-01"
-            }, 
-            {
-                "consumption": 40428.0, 
-                "month": "2014-11-01"
-            }, 
-            {
-                "consumption": 56418.0, 
-                "month": "2014-12-01"
-            }, 
-            {
-                "consumption": 40697.0, 
-                "month": "2015-01-01"
-            }, 
-            {
-                "consumption": 32577.0, 
-                "month": "2015-02-01"
-            }
-        ], 
-        "area": 152483, 
-        "longitude": -71.119439999999997, 
-        "latitude": 42.371471, 
-        "steam": [
-            {
-                "consumption": 21.879999999999999, 
-                "month": "2012-07-01"
-            }, 
-            {
-                "consumption": 28.050000000000001, 
-                "month": "2012-08-01"
-            }, 
-            {
-                "consumption": 28.5, 
-                "month": "2012-09-01"
-            }, 
-            {
-                "consumption": 277.51999999999998, 
-                "month": "2012-10-01"
-            }, 
-            {
-                "consumption": 1386.99, 
-                "month": "2012-11-01"
-            }, 
-            {
-                "consumption": 927.91999999999996, 
-                "month": "2012-12-01"
-            }, 
-            {
-                "consumption": 1031.8299999999999, 
-                "month": "2013-01-01"
-            }, 
-            {
-                "consumption": 1149.5599999999999, 
-                "month": "2013-02-01"
-            }, 
-            {
-                "consumption": 676.79999999999995, 
-                "month": "2013-03-01"
-            }, 
-            {
-                "consumption": 536.17999999999995, 
-                "month": "2013-04-01"
-            }, 
-            {
-                "consumption": 346.81999999999999, 
-                "month": "2013-05-01"
-            }, 
-            {
-                "consumption": 29.43, 
-                "month": "2013-06-01"
-            }, 
-            {
-                "consumption": 11.41, 
-                "month": "2013-07-01"
-            }, 
-            {
-                "consumption": 0.0, 
-                "month": "2013-08-01"
-            }, 
-            {
-                "consumption": 0.0, 
-                "month": "2013-09-01"
-            }, 
-            {
-                "consumption": 250.03, 
-                "month": "2013-10-01"
-            }, 
-            {
-                "consumption": 479.37, 
-                "month": "2013-11-01"
-            }, 
-            {
-                "consumption": 835.13, 
-                "month": "2013-12-01"
-            }, 
-            {
-                "consumption": 1069.29, 
-                "month": "2014-01-01"
-            }, 
-            {
-                "consumption": 1118.9400000000001, 
-                "month": "2014-02-01"
-            }, 
-            {
-                "consumption": 882.37, 
-                "month": "2014-03-01"
-            }, 
-            {
-                "consumption": 526.09000000000003, 
-                "month": "2014-04-01"
-            }, 
-            {
-                "consumption": 289.36000000000001, 
-                "month": "2014-05-01"
-            }, 
-            {
-                "consumption": 336.33999999999997, 
-                "month": "2014-06-01"
-            }, 
-            {
-                "consumption": 91.340000000000003, 
-                "month": "2014-07-01"
-            }, 
-            {
-                "consumption": 98.920000000000002, 
-                "month": "2014-08-01"
-            }, 
-            {
-                "consumption": 114.13, 
-                "month": "2014-09-01"
-            }, 
-            {
-                "consumption": 234.18000000000001, 
-                "month": "2014-10-01"
-            }, 
-            {
-                "consumption": 574.76999999999998, 
-                "month": "2014-11-01"
-            }, 
-            {
-                "consumption": 1033.4200000000001, 
-                "month": "2014-12-01"
-            }, 
-            {
-                "consumption": 1130.21, 
-                "month": "2015-01-01"
-            }, 
-            {
-                "consumption": 1303.3900000000001, 
                 "month": "2015-02-01"
             }
         ]
