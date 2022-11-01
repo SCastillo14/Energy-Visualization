@@ -1,7 +1,7 @@
 {
-    "18-18A Mellen Street": {
+    "Ciudad de Mexico": {
         "function": "residential", 
-        "latitude": 42.380538999999999, 
+        "latitude": 19.42847, 
         "electric": [
             {
                 "consumption": 1131.8699999999999, 
@@ -132,7 +132,7 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.118146999999993, 
+        "longitude": -99.12766, 
         "area": 5692
     }, 
     "1727 Cambridge Street": {
