@@ -1063,9 +1063,9 @@
             }
         ]
     }, 
-    "7 Grant Street": {
+    "Guerrero": {
         "function": "residential", 
-        "latitude": 42.369835000000002, 
+        "latitude": 17.613056, 
         "electric": [
             {
                 "consumption": 3625.7399999999998, 
@@ -1196,8 +1196,8 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.115103000000005, 
-        "area": 5563
+        "longitude": -99.95, 
+        "area": 64281
     }, 
     "University Hall": {
         "function": "office and classroom", 
