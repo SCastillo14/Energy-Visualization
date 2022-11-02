@@ -8375,7 +8375,7 @@
             }
         ]
     }, 
-    "Hemenway Gymnasium": {
+    "Baja California Sur": {
         "function": "gym", 
         "electric": [
             {
@@ -8508,7 +8508,7 @@
             }
         ], 
         "area": 35583, 
-        "longitude": -71.119499000000005, 
+        "longitude": -111.88, 
         "chilled water": [
             {
                 "consumption": 596.65999999999997, 
@@ -8639,7 +8639,7 @@
                 "month": "2015-02-01"
             }
         ], 
-        "latitude": 42.376942, 
+        "latitude": 25.44, 
         "steam": [
             {
                 "consumption": 137.03999999999999, 
@@ -12111,9 +12111,9 @@
         "longitude": -104.911944, 
         "area": 123364
     },
-    "1705 Massachusetts Avenue, Dudley House": {
+    "Baja California": {
         "function": "dining service", 
-        "latitude": 42.383294999999997, 
+        "latitude": 29.95, 
         "electric": [
             {
                 "consumption": 550.0, 
@@ -12244,7 +12244,7 @@
                 "month": "2015-02-01"
             }
         ], 
-        "longitude": -71.119174000000001, 
+        "longitude": -115.116667, 
         "area": 5868
     },
     "Gund Hall": {
