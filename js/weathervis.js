@@ -374,7 +374,7 @@ WeatherVis.prototype.filterAndAggregate = function(_option){
 	res.data = [];
 
 	for (i = 0; i < filteredData.length; i++) {
-		if (dateFormatter.parse(filteredData[i].time) < dateFormatter.parse("2021-12-31 01:00") && dateFormatter.parse(filteredData[i].time) >= dateFormatter.parse("2020-01-01 01:00")) {
+		if (dateFormatter.parse(filteredData[i].time) < dateFormatter.parse("2021-12-31 01:00") && dateFormatter.parse(filteredData[i].time) >= dateFormatter.parse("2021-01-01 01:00")) {
 			res.time.push(monthNameFormat(dateFormatter.parse(filteredData[i].time)));
 			res.data.push(filteredData[i][filter]);
 		}
