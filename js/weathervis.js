@@ -123,13 +123,13 @@ WeatherVis.prototype.updateVis = function(_option){
 	  .style("font-size", "14px")
 		.text(function () {
 			if (_option == "Temperature") {
-				return "Weather Data - Temperature";
+				return "Datos de Clima - Temperatura";
 			}
 			if (_option == "Solar") {
-				return "Weather Data - Solar Radiation";
+				return "Datos de Clima - Radiación Solar";
 			}
 			if (_option == "Wind") {
-				return "Weather Data - Wind Speed";
+				return "Datos de Clima - Velocidad promedio de viento";
 			}
 		});
 	// updates graph
