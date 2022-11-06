@@ -371,12 +371,12 @@ MapVis.prototype.createNodes = function() {
             div.transition()
                 .duration(200)
                 .style("opacity", .9);
-            div .html("Name: " + d.name
+            div .html("Estado: " + d.name
                 + "</br>" + "Area: " + that.thousandNumFormat(d.area) + " sq ft"
-                + "</br>" + "Electricidad Total: " + that.thousandNumFormat(d.totalElectric) + " kWh"
-                + "</br>" + "Total Chilled Water: " + that.thousandNumFormat(d.totalChilledWater) + " Ton-Days"
-                + "</br>" + "Total Steam: " + that.thousandNumFormat(d.totalSteam) + " MMBtu"
-                + "</br>" + "Function: " + d.buildingFunction
+                + "</br>" + "Generación Total: " + that.thousandNumFormat(d.totalElectric) + " kWh"
+                + "</br>" + "Capacidad Total: " + that.thousandNumFormat(d.totalChilledWater) + " KW"
+               /* + "</br>" + "Total Steam: " + that.thousandNumFormat(d.totalSteam) + " MMBtu"
+                + "</br>" + "Function: " + d.buildingFunction*/
             )
                 .style("left", (d3.event.pageX + 8) + "px")
                 .style("top", (d3.event.pageY - 28) + "px");
