@@ -134,7 +134,7 @@ EnergyVis.prototype.updateVis = function(_option){
         .style("font-size","12px")
         .text(function () { if (_option == "electric") { return "Wh/sf"; }
             if (_option == "chilled water") { return " kg-Days/sf"; }
-            if (_option == "steam") { return "kBtu/sf"; } });
+            if (_option == "steam") { return "%"; } });
 
     this.svg.select(".x.axis")
         .call(this.xAxis);
