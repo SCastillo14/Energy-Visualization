@@ -132,8 +132,8 @@ EnergyVis.prototype.updateVis = function(_option){
         .attr("dy", ".71em")
         .style("text-anchor", "end")
         .style("font-size","12px")
-        .text(function () { if (_option == "electric") { return "Wh/sf"; }
-            if (_option == "chilled water") { return " kg-Days/sf"; }
+        .text(function () { if (_option == "electric") { return " MWh "; }
+            if (_option == "chilled water") { return " MW "; }
             if (_option == "steam") { return "%"; } });
 
     this.svg.select(".x.axis")
