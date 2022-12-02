@@ -204,7 +204,6 @@ EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
 		else if (_energyType == "steam"){
 			filteredData = this.data[filter].steam; // default
 		}
-        }
         else if (_energyType == "HiDrO"){
             filteredData = this.data[filter]["HiDrO"]; // default
         }
