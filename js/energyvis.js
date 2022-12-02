@@ -1,4 +1,4 @@
-var color_energy = {"chilled water": "blue", "steam": "red", "electric": "green"};
+var color_energy = {"chilled water": "blue", "steam": "red", "electric": "green","HiDrO": "yellow"};
 
 EnergyVis = function(_parentElement, _data, _option, _eventHandler){
     this.parentElement = _parentElement;
