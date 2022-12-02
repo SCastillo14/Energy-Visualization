@@ -133,8 +133,9 @@ EnergyVis.prototype.updateVis = function(_option){
         .style("text-anchor", "end")
         .style("font-size","12px")
         .text(function () { if (_option == "electric") { return " MWh "; }
-            if (_option == "chilled water") { return " MW "; }
-            if (_option == "steam") { return "%"; } });
+            if (_option == "chilled water") { return " MWh "; }
+            if (_option == "steam") { return "MWh"; } 
+            if (_option == "HiDrO") { return "MWh"; } });
 
     this.svg.select(".x.axis")
         .call(this.xAxis);
@@ -203,6 +204,10 @@ EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
 		else if (_energyType == "steam"){
 			filteredData = this.data[filter].steam; // default
 		}
+        }
+        else if (_energyType == "HiDrO"){
+            filteredData = this.data[filter]["HiDrO"]; // default
+        }
 	}
     //Dear JS hipster, a more hip variant of this construct would be:
     // var filter = _filter || function(){return true;}
