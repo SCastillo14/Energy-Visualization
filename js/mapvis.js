@@ -372,7 +372,7 @@ MapVis.prototype.createNodes = function() {
                 .duration(200)
                 .style("opacity", .9);
             div .html("Estado: " + d.name
-                + "</br>" + "Area: " + that.thousandNumFormat(d.area) + " sq ft"
+                + "</br>" + "Area: " + that.thousandNumFormat(d.area) + " m2"
                 + "</br>" + "Generación Total: " + that.thousandNumFormat(d.totalElectric) + " MWh"
                 + "</br>" + "Capacidad Total: " + that.thousandNumFormat(d.totalChilledWater) + " MW"
                /* + "</br>" + "Total Steam: " + that.thousandNumFormat(d.totalSteam) + " MMBtu"
