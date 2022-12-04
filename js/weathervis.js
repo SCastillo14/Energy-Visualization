@@ -1,4 +1,4 @@
-windspeed
+wind speed
 WeatherVis = function(_parentElement, _data, _option, _eventHandler){
     this.parentElement = _parentElement;
     this.data = _data;
