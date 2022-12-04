@@ -155,10 +155,10 @@ Explore1Vis.prototype.updateVis = function(){
     //this.color.domain(this.displayData.map(function(d) { return d.type }));
 
     // updates axis
-    var unit = {"temperature": "(" + String.fromCharCode(176) + "C)", "dehumidification": "(kg/kg)",
-        "cooling degrees": "(" + String.fromCharCode(176) + "C)", "heating degrees": "(" + String.fromCharCode(176) + "C)",
-        "solar radiation": "(W/m2)", "wind speed": "(m/s)",
-        "electric" : "(MWh)", "chilled water": "(MW)", "steam" : "(kBtu/sf)"
+    var unit = {"temperature": "(" + String.fromCharCode(176) + "MWh)", "dehumidification": "(MWh)",
+        "cooling degrees": "(" + String.fromCharCode(176) + "MWh)", "heating degrees": "(" + String.fromCharCode(176) + "MWh)",
+        "solar radiation": "(MWh)", "wind speed": "(MWh)",
+        "electric" : "(MWh)", "chilled water": "(MWh)", "steam" : "(MWh)"
     };
 
     this.svg.select(".y.axis")
