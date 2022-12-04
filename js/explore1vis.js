@@ -1,4 +1,4 @@
-
+Gen Eólica CFE
 /*
  *
  * ======================================================
@@ -157,7 +157,7 @@ Explore1Vis.prototype.updateVis = function(){
     // updates axis
     var unit = {"temperature": "(" + String.fromCharCode(176) + "MWh)", "dehumidification": "(MWh)",
         "cooling degrees": "(" + String.fromCharCode(176) + "MWh)", "heating degrees": "(" + String.fromCharCode(176) + "MWh)",
-        "solar radiation": "(MWh)", "wind speed": "(MWh)",
+        "solar radiation": "(MWh)", "Gen Eólica CFE": "(MWh)",
         "generacion" : "(MWh)", "Capacidad": "(MWh)", "steam" : "(MWh)"
     };
 
