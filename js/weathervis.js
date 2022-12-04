@@ -112,7 +112,7 @@ WeatherVis.prototype.updateVis = function(_option){
 		.style("font-size", "8px")
 	    .attr("dy", "-.5em")
     	.text(function () { if (_option == "Temperature") { return ""; }
-	  						if (_option == "Solar") { return "2"; }
+	  						if (_option == "Solar") { return ""; }
 							if (_option == "Wind") { return ""; } });
 							
 	// chart title
