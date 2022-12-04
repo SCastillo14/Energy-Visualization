@@ -135,15 +135,15 @@ MapVis.prototype.wrangleData= function(){
     that.displayData = [];
 
     for(var building in that.monthlyEnergy){
-        var totalElectric = 0;
+        var totalgeneracion = 0;
         var totalChilledWater = 0;
         var totalSteam = 0;
 
-        if(monthlyEnergy[building].hasOwnProperty('electric')) {
-            monthlyEnergy[building].electric.forEach(function (d) {
-                totalElectric += d['consumption']
+        if(monthlyEnergy[building].hasOwnProperty('generacion')) {
+            monthlyEnergy[building].generacion.forEach(function (d) {
+                totalgeneracion += d['consumption']
             })
-            totalElectric = Math.round(totalElectric)
+            totalgeneracion = Math.round(totalgeneracion)
         }
 
         if(monthlyEnergy[building].hasOwnProperty('chilled water')){
@@ -165,7 +165,7 @@ MapVis.prototype.wrangleData= function(){
             name:building,
             longitude:monthlyEnergy[building]['longitude'],
             latitude:monthlyEnergy[building]['latitude'],
-            totalElectric:totalElectric,
+            totalgeneracion:totalgeneracion,
             totalChilledWater:totalChilledWater,
             totalSteam:totalSteam,
             area:monthlyEnergy[building]['area'],
@@ -209,14 +209,14 @@ MapVis.prototype.updateVis = function(_buildingName) {
             nodes.filter(function (d){return d['totalSteam'] == 0}).style("visibility", "hidden")
             break
 
-        case 'electric':
-            circles.style("fill", electricColor).style("stroke-width", "0px");
-            nodes.filter(function (d){return d['totalElectric'] == 0}).style("visibility", "hidden")
+        case 'generacion':
+            circles.style("fill", generacionColor).style("stroke-width", "0px");
+            nodes.filter(function (d){return d['totalgeneracion'] == 0}).style("visibility", "hidden")
             break
 
         case 'all':
             circles.style("fill", allColor).style("stroke-width", "0px");
-            nodes.filter(function (d){return d['totalElectric'] == 0}).style("visibility", "hidden")
+            nodes.filter(function (d){return d['totalgeneracion'] == 0}).style("visibility", "hidden")
             nodes.filter(function (d){return d['totalSteam'] == 0}).style("visibility", "hidden")
             nodes.filter(function (d){return d['totalChilledWater'] == 0}).style("visibility", "hidden")
             break
@@ -254,8 +254,8 @@ MapVis.prototype.updateVis = function(_buildingName) {
                     color = steamColor;
                     break;
 
-                case 'electric':
-                    color = electricColor;
+                case 'generacion':
+                    color = generacionColor;
                     break;
 
                 case 'all':
@@ -373,7 +373,7 @@ MapVis.prototype.createNodes = function() {
                 .style("opacity", .9);
             div .html("Estado: " + d.name
                 + "</br>" + "Area: " + that.thousandNumFormat(d.area) + " m2"
-                + "</br>" + "Generación Total: " + that.thousandNumFormat(d.totalElectric) + " MWh"
+                + "</br>" + "Generación Total: " + that.thousandNumFormat(d.totalgeneracion) + " MWh"
                 + "</br>" + "Capacidad Total: " + that.thousandNumFormat(d.totalChilledWater) + " MW"
                /* + "</br>" + "Total Steam: " + that.thousandNumFormat(d.totalSteam) + " MMBtu"
                 + "</br>" + "Function: " + d.buildingFunction*/

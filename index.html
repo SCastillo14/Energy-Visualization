@@ -34,7 +34,7 @@
 
     <!--Define some colors-->
     <script type='text/javascript' >
-        var electricColor = "green"; <!--"#ABDB25"-->
+        var generacionColor = "green"; <!--"#ABDB25"-->
         var chilledWaterColor = "blue";
         var steamColor = "red";
         var allColor = "purple"
@@ -94,8 +94,8 @@
                 <!--a href="#" id="disclaimer" data-toggle="modal"
                    data-target="#disclaimerModal">Disclaimer</a-->
                 |<a href="https://www.datos.gob.mx/busca/organization/sener" target="_blank" id="">Datos Abiertos SENER</a>|
-                |<a href="https://sie.energia.gob.mx/bdiController.do?action=about" target="_blank" id="">SIE SENER</a>|
-                |<a href="https://github.com/SCastillo14/Energy-Visualization/blob/main/readme.md" target="_blank" id="Youtube_demo">Repositorio Github</a>|
+                <a href="https://sie.energia.gob.mx/bdiController.do?action=about" target="_blank" id="">SIE SENER</a>|
+                <a href="https://github.com/SCastillo14/Energy-Visualization/blob/main/readme.md" target="_blank" id="Youtube_demo">Repositorio Github</a>|
                 
             </p>
         </div>
@@ -142,14 +142,14 @@
 
                 <label id = "Show_buildings_with_data_of" class="control-label gray-tooltip">Tipo de información:</label>
                 <select id="building_opt" class="form-control selectWidth controls">
-                    <option value="electric" selected>Generación por entidad federativa</option>
+                    <option value="generacion" selected>Generación por entidad federativa</option>
                     <option value="chilled water">Capacidad por entidad federativa</option>
                     <option value="all">Todos los datos</option>
                 </select>
 
                 <label id = "Select_energy_type" class="control-label gray-tooltip">Selecciona el tipo de energía:</label>
                 <select id="energy_opt" class="form-control selectWidth controls">
-                    <option value="electric" selected>Generación bruta por entidad federativa</option>
+                    <option value="generacion" selected>Generación bruta por entidad federativa</option>
                     <option value="chilled water">Capacidad instalada por entidad federativa</option>
                 </select>
 
@@ -202,7 +202,7 @@
     <div class="row">
         <nav>
             <ul class="pager">
-                <span id="Energy_Use_and_Weather" class = "controls subtitle gray-tooltip">Energía y Clima: </span>
+                <span id="Energy_Use_and_Weather" class = "controls subtitle gray-tooltip">Capacidad y Generación: </span>
                 <li><a href="#" onClick="SelectTab(1)">Basica</a></li>
                 <li><a href="#" onClick="SelectTab(2)">Explorativa</a></li>
             </ul>

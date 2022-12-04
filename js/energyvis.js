@@ -1,4 +1,4 @@
-var color_energy = {"chilled water": "blue", "steam": "red", "electric": "green","HiDrO": "yellow"};
+var color_energy = {"chilled water": "blue", "steam": "red", "generacion": "green","HiDrO": "yellow"};
 
 EnergyVis = function(_parentElement, _data, _option, _eventHandler){
     this.parentElement = _parentElement;
@@ -132,7 +132,7 @@ EnergyVis.prototype.updateVis = function(_option){
         .attr("dy", ".71em")
         .style("text-anchor", "end")
         .style("font-size","12px")
-        .text(function () { if (_option == "electric") { return " MWh "; }
+        .text(function () { if (_option == "generacion") { return " MWh "; }
             if (_option == "chilled water") { return " MWh "; }
             if (_option == "steam") { return "MWh"; } 
             if (_option == "HiDrO") { return "MWh"; } });
@@ -195,8 +195,8 @@ EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
 	var filteredData;
 
 	if (_buildingName != "null"){
-		if (_energyType == "electric"){
-			filteredData = this.data[filter].electric;
+		if (_energyType == "generacion"){
+			filteredData = this.data[filter].generacion;
 		}
 		else if (_energyType == "chilled water"){
 			filteredData = this.data[filter]["chilled water"]; // default

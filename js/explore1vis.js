@@ -20,7 +20,7 @@ var dateFormatter = d3.time.format("%Y-%m-%d");
 var dateTimeFormatter = d3.time.format("%Y-%m-%d %H:%M");
 var xVariable;
 
-var color_energy = {"chilled water": "blue", "steam": "red", "electric": "green"};
+var color_energy = {"chilled water": "blue", "steam": "red", "generacion": "green"};
 
 Explore1Vis = function(_parentElement, _textElement,_data, _weather, _option){
     var that = this;
@@ -158,7 +158,7 @@ Explore1Vis.prototype.updateVis = function(){
     var unit = {"temperature": "(" + String.fromCharCode(176) + "MWh)", "dehumidification": "(MWh)",
         "cooling degrees": "(" + String.fromCharCode(176) + "MWh)", "heating degrees": "(" + String.fromCharCode(176) + "MWh)",
         "solar radiation": "(MWh)", "wind speed": "(MWh)",
-        "electric" : "(MWh)", "chilled water": "(MWh)", "steam" : "(MWh)"
+        "generacion" : "(MWh)", "chilled water": "(MWh)", "steam" : "(MWh)"
     };
 
     this.svg.select(".y.axis")

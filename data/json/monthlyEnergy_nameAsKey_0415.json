@@ -2,7 +2,7 @@
     "Ciudad de Mexico": {
         "function": "residential", 
         "latitude": 19.42847, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 41683,
                 "month": "2015-01-01"
@@ -660,7 +660,7 @@
     "Campeche": {
         "function": "office and classroom", 
         "latitude": 18.836389, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 106084.2,
                 "month": "2015-01-01"
@@ -1317,7 +1317,7 @@
     }, 
     "Quintana Roo": {
         "function": "office and classroom", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 2309.08,
                 "month": "2015-01-01"
@@ -1975,7 +1975,7 @@
     }, 
     "Chiapas": {
         "function": "lab", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 461256.52, 
                 "month": "2016-01-01"
@@ -2562,7 +2562,7 @@
     "Guerrero": {
         "function": "residential", 
         "latitude": 17.613056, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 1296529.01, 
                 "month": "2016-01-01"
@@ -3147,7 +3147,7 @@
     }, 
     "Yucatán": {
         "function": "office and classroom", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 538787.33, 
                 "month": "2016-01-01"
@@ -3733,7 +3733,7 @@
     }, 
     "Coahuila": {
         "function": "dormitory", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 1607642.01, 
                 "month": "2016-01-01"
@@ -4319,7 +4319,7 @@
     }, 
     "Nuevo León": {
         "function": "dormitory", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 763871.33, 
                 "month": "2016-01-01"
@@ -4906,7 +4906,7 @@
     "Michoacán": {
         "function": "residential", 
         "latitude": 19.168611, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 296076.85, 
                 "month": "2016-01-01"
@@ -5492,7 +5492,7 @@
     "Estado de Mexico": {
         "function": "residential", 
         "latitude": 19.354167, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 602557.86, 
                 "month": "2016-01-01"
@@ -5787,7 +5787,7 @@
     },
     "Chihuahua": {
         "function": "library", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 1198181.54, 
                 "month": "2016-01-01"
@@ -6373,7 +6373,7 @@
     }, 
     "Morelos": {
         "function": "lab", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 0, 
                 "month": "2016-01-01"
@@ -6959,7 +6959,7 @@
     }, 
     "Sinaloa": {
         "function": "dormitory", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 326773.54, 
                 "month": "2016-01-01"
@@ -7546,7 +7546,7 @@
     "Sonora": {
         "function": "dormitory", 
         "latitude": 29.833333, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 726144.43, 
                 "month": "2016-01-01"
@@ -8131,7 +8131,7 @@
     }, 
     "Oaxaca": {
         "function": "lab", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 328767.57, 
                 "month": "2016-01-01"
@@ -8717,7 +8717,7 @@
     },
     "Puebla": {
         "function": "lab", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 339415.4, 
                 "month": "2016-01-01"
@@ -9979,7 +9979,7 @@
     }, 
     "Tamaulipas": {
         "function": "dormitory", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 2354867.32, 
                 "month": "2016-01-01"
@@ -10565,7 +10565,7 @@
     },
     "Veracruz": {
         "function": "lab", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 2182411.54, 
                 "month": "2016-01-01"
@@ -11151,7 +11151,7 @@
     },
     "Baja California Sur": {
         "function": "gym", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 170517.52, 
                 "month": "2016-01-01"
@@ -11738,7 +11738,7 @@
     "Colima": {
         "function": "atheletics", 
         "latitude": 19.096667, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 1280688.35, 
                 "month": "2016-01-01"
@@ -12324,7 +12324,7 @@
     "Durango": {
         "function": "library", 
         "latitude": 24.934722, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 15165, 
                 "month": "2016-01-01"
@@ -12910,7 +12910,7 @@
     "Baja California": {
         "function": "dining service", 
         "latitude": 29.95, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 917113.69, 
                 "month": "2016-01-01"
@@ -13496,7 +13496,7 @@
     },
     "Guanajuato": {
         "function": "atheletics", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 602557.86, 
                 "month": "2016-01-01"
@@ -14083,7 +14083,7 @@
     "Hidalgo": {
         "function": "atheletics", 
         "latitude": 20.478333, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 1077738.3, 
                 "month": "2016-01-01"
@@ -14668,7 +14668,7 @@
     },
     "Jalisco": {
         "function": "atheletics", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 27850.3, 
                 "month": "2016-01-01"
@@ -15255,7 +15255,7 @@
     "Nayarit": {
         "function": "atheletics", 
         "latitude": 21.743889, 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 55526.37, 
                 "month": "2016-01-01"
@@ -15840,7 +15840,7 @@
     },
     "Querétaro": {
         "function": "atheletics", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 345601.83, 
                 "month": "2016-01-01"
@@ -16426,7 +16426,7 @@
     },
     "San Luis Potosí": {
         "function": "atheletics", 
-        "electric": [
+        "generacion": [
             {
                 "consumption": 722550.73, 
                 "month": "2016-01-01"
