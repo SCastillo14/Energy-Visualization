@@ -99,13 +99,13 @@ WeatherVis.prototype.updateVis = function(_option){
 		.style("font-size","12px")
 		.text(function () {
 			if (_option == "Temperature") {
-				return String.fromCharCode(176) + "C";
+				return String.fromCharCode(176) + "MWh";
 			}
 			if (_option == "Solar") {
-				return "kW/m";
+				return "MWh";
 			}
 			if (_option == "Wind") {
-				return "m/s";
+				return "MWh";
 			}
 		})
 		.append("tspan")
