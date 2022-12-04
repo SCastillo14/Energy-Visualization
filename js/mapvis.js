@@ -146,8 +146,8 @@ MapVis.prototype.wrangleData= function(){
             totalgeneracion = Math.round(totalgeneracion)
         }
 
-        if(monthlyEnergy[building].hasOwnProperty('chilled water')){
-            monthlyEnergy[building]['chilled water'].forEach(function (d){
+        if(monthlyEnergy[building].hasOwnProperty('Capacidad')){
+            monthlyEnergy[building]['Capacidad'].forEach(function (d){
                 totalChilledWater += d['consumption']
             })
             totalChilledWater = Math.round(totalChilledWater)
@@ -199,7 +199,7 @@ MapVis.prototype.updateVis = function(_buildingName) {
 
     //show or hide buildings based on building data type
     switch(d3.select("#building_opt").property('value')){
-        case 'chilled water':
+        case 'Capacidad':
             circles.style("fill", chilledWaterColor).style("stroke-width", "0px")
             nodes.filter(function (d){return d['totalChilledWater'] == 0}).style("visibility", "hidden")
             break
@@ -246,7 +246,7 @@ MapVis.prototype.updateVis = function(_buildingName) {
             var color;
             switch(d3.select("#building_opt").property('value')){
 
-                case 'chilled water':
+                case 'Capacidad':
                     color = chilledWaterColor;
                     break;
 

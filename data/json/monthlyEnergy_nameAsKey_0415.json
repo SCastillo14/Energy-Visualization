@@ -366,7 +366,7 @@
         ], 
         "longitude": -99.12766, 
         "area": 5692,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 266
@@ -1024,7 +1024,7 @@
         ], 
         "longitude": -90.403333, 
         "area": 57924,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 411.9
@@ -1682,7 +1682,7 @@
         "area": 50212, 
         "longitude": -87.916667,  
         "latitude": 19.6,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 288.56
@@ -2268,7 +2268,7 @@
         "area": 219166, 
         "longitude": -92.45,
         "latitude": 16.53,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 4828.9
@@ -2854,7 +2854,7 @@
         ], 
         "longitude": -99.95, 
         "area": 64281,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 4586.36
@@ -3440,7 +3440,7 @@
         "area": 43379, 
         "longitude": -89,  
         "latitude": 20.833333,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 1516.5
@@ -5198,7 +5198,7 @@
         ], 
         "longitude": -101.899722, 
         "area": 58598.7,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 729.36
@@ -6080,7 +6080,7 @@
         "area": 3333, 
         "longitude": -106.5, 
         "latitude": 29,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 2828.9
@@ -6666,7 +6666,7 @@
         "area": 4950, 
         "longitude": -99.070278,
         "latitude": 18.7475,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 656
@@ -7838,7 +7838,7 @@
         ], 
         "longitude": -110.95, 
         "area": 179355,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 3271.3
@@ -8424,7 +8424,7 @@
         "area": 93952, 
         "longitude": -96.414167, 
         "latitude": 16.898056,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 1053.25
@@ -9009,7 +9009,7 @@
         ], 
         "area": 34251, 
         "longitude": -97.888333, 
-        "chilled water": [
+        "Capacidad": [
             {
                 "consumption": 13700236.99,
                 "month": "2016-01-01"
@@ -11444,7 +11444,7 @@
         "area": 35583, 
         "longitude": -111.88, 
         "latitude": 25.44,
-        "chilled water":[
+        "Capacidad":[
             {
                 "consumption": 645.111, 
                 "month": "2016-01-01"
@@ -12030,7 +12030,7 @@
         ], 
         "longitude": -103.960833, 
         "area": 5625,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 2752.9
@@ -12616,7 +12616,7 @@
         ], 
         "longitude": -104.911944, 
         "area": 123364,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 1563.8
@@ -13202,7 +13202,7 @@
         ], 
         "longitude": -115.116667, 
         "area": 5868,
-        "chilled water":[
+        "Capacidad":[
             {
                 "consumption": 2561.430, 
                 "month": "2016-01-01"
@@ -14375,7 +14375,7 @@
         ], 
         "longitude": -98.863611, 
         "area": 20821.4,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 2386.36
@@ -15547,7 +15547,7 @@
         ], 
         "longitude": -105.228333, 
         "area": 27857,
-        "chilled water":[
+        "Capacidad":[
             {
                 "month": "2016-01-01",
                 "consumption": 1837.03

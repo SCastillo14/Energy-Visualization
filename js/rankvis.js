@@ -3,7 +3,7 @@ var barHeight = 15;
 
 var DURATION = 500;
 var dateFormatter = d3.time.format("%Y-%m-%d");
-var color_energy = {"chilled water": "blue", "steam": "red", "generacion": "green"};
+var color_energy = {"Capacidad": "blue", "steam": "red", "generacion": "green"};
 
 var dateEnd = "2022-06-01";
 var dateStart = "2020-01-01";
@@ -233,7 +233,7 @@ RankVis.prototype.filterAndAggregate = function(_filter){
             }
             temp = temp / building['area'];
             var all = false;
-            if (building.hasOwnProperty('generacion') && building.hasOwnProperty('chilled water') && building.hasOwnProperty('steam'))
+            if (building.hasOwnProperty('generacion') && building.hasOwnProperty('Capacidad') && building.hasOwnProperty('steam'))
                 all = true;
             res_org.push({buildingName: key, energyUse: temp, rank: 0, function: building['function'], 'all': all});
         }
