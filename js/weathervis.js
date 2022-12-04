@@ -1,4 +1,4 @@
-Gen Eólica CFE
+wind speedwind speed
 WeatherVis = function(_parentElement, _data, _option, _eventHandler){
     this.parentElement = _parentElement;
     this.data = _data;
@@ -363,7 +363,7 @@ WeatherVis.prototype.filterAndAggregate = function(_option){
 		filter = "solar radiation";
 	}
 	else if (_option == "Wind"){
-		filter = "Gen Eólica CFE";
+		filter = "wind speed";
 	}
     //Dear JS hipster, a more hip variant of this construct would be:
     // var filter = _filter || function(){return true;}
