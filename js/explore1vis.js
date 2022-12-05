@@ -154,7 +154,7 @@ Explore1Vis.prototype.updateVis = function(){
     //this.color.domain(this.displayData.map(function(d) { return d.type }));
 
     // updates axis
-    var unit = {"temperature": "(" + String.fromCharCode(176) + "MWh)", "dehumidification": "(MWh)",
+    var unit = {"Hidroeléctrica": "(" + String.fromCharCode(176) + "MWh)", "dehumidification": "(MWh)",
         "Generación eólica total": "(" + String.fromCharCode(176) + "MWh)", "heating degrees": "(" + String.fromCharCode(176) + "MWh)",
         "solar radiation": "(MWh)", "wind speed": "(MWh)",
         "generacion" : "(MWh)", "Capacidad": "(MWh)", "steam" : "(MWh)"

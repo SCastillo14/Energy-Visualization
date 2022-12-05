@@ -75,7 +75,7 @@ WeatherVis.prototype.updateVis = function(_option){
     // updates scales
     this.x.domain(this.displayData.time.map(function(d, i) { return i; }));
 
-	if (_option == "Temperature") {
+	if (_option == "Hidroeléctrica") {
 		var max = d3.max(this.displayData.data, function(d) { return d; });
 		var min = d3.min(this.displayData.data, function(d) { return d; });
 		this.y.domain([min - 0.5 * (max - min), max + 0.5 * (max - min)]).range([this.height, 0]);
@@ -97,7 +97,7 @@ WeatherVis.prototype.updateVis = function(_option){
    	    .style("text-anchor", "end")
 		.style("font-size","12px")
 		.text(function () {
-			if (_option == "Temperature") {
+			if (_option == "Hidroeléctrica") {
 				return String.fromCharCode(176) + "MWh";
 			}
 			if (_option == "Solar") {
@@ -110,7 +110,7 @@ WeatherVis.prototype.updateVis = function(_option){
 		.append("tspan")
 		.style("font-size", "8px")
 	    .attr("dy", "-.5em")
-    	.text(function () { if (_option == "Temperature") { return ""; }
+    	.text(function () { if (_option == "Hidroeléctrica") { return ""; }
 	  						if (_option == "Solar") { return ""; }
 							if (_option == "Wind") { return ""; } });
 							
@@ -121,7 +121,7 @@ WeatherVis.prototype.updateVis = function(_option){
 	  .attr("text-anchor", "middle")
 	  .style("font-size", "14px")
 		.text(function () {
-			if (_option == "Temperature") {
+			if (_option == "Hidroeléctrica") {
 				return "Generación por energía hidroeléctrica";
 			}
 			if (_option == "Solar") {
@@ -132,7 +132,7 @@ WeatherVis.prototype.updateVis = function(_option){
 			}
 		});
 	// updates graph
-	if (_option == "Temperature") {
+	if (_option == "Hidroeléctrica") {
 		// Data join
 		var line = d3.svg.line()
 		  .interpolate("linear")
@@ -355,8 +355,8 @@ WeatherVis.prototype.filterAndAggregate = function(_option){
 	var dateFormatter = d3.time.format("%Y-%m-%d %H:%M");
 	var monthNameFormat = d3.time.format("%b");
 	
-    if (_option == "Temperature"){
-        filter = "temperature";
+    if (_option == "Hidroeléctrica"){
+        filter = "Hidroeléctrica";
     }
 	else if (_option == "Solar"){
 		filter = "solar radiation";
