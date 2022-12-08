@@ -124,7 +124,7 @@ WeatherVis.prototype.updateVis = function(_option){
 			if (_option == "Hidroeléctrica") {
 				return "Generación por energía hidroeléctrica";
 			}
-			if (_option == "Fotovoltaica") {
+			if (_option == "Solar") {
 				return "Generación por energía fotovoltaica";
 			}
 			if (_option == "Wind") {
@@ -359,7 +359,7 @@ WeatherVis.prototype.filterAndAggregate = function(_option){
         filter = "Hidroeléctrica";
     }
 	else if (_option == "Solar"){
-		filter = "solar radiation";
+		filter = "Fotovoltaica";
 	}
 	else if (_option == "Wind"){
 		filter = "wind speed";
