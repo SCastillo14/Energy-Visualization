@@ -124,7 +124,7 @@ WeatherVis.prototype.updateVis = function(_option){
 			if (_option == "Hidroeléctrica") {
 				return "Generación por energía hidroeléctrica";
 			}
-			if (_option == "Solar") {
+			if (_option == "Fotovoltaica") {
 				return "Generación por energía fotovoltaica";
 			}
 			if (_option == "Wind") {
