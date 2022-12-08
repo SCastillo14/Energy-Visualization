@@ -156,7 +156,7 @@ Explore1Vis.prototype.updateVis = function(){
     // updates axis
     var unit = {"Hidroeléctrica": "(" + String.fromCharCode(176) + "MWh)", "dehumidification": "(MWh)",
         "Generación eólica total": "(" + String.fromCharCode(176) + "MWh)", "Ciclo Combinado": "(" + String.fromCharCode(176) + "MWh)",
-        "solar radiation": "(MWh)", "wind speed": "(MWh)",
+        "Fotovoltaica": "(MWh)", "wind speed": "(MWh)",
         "generacion" : "(MWh)", "Capacidad": "(MWh)", "steam" : "(MWh)"
     };
 
