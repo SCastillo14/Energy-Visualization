@@ -1,4 +1,3 @@
-
 var barHeight = 15;
 
 var DURATION = 500;

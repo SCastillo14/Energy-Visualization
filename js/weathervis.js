@@ -1,4 +1,4 @@
-"Fotovoltaica"WeatherVis = function(_parentElement, _data, _option, _eventHandler){
+WeatherVis = function(_parentElement, _data, _option, _eventHandler){
     this.parentElement = _parentElement;
     this.data = _data;
 	this.option = _option;
