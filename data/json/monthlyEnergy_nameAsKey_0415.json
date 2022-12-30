@@ -11736,7 +11736,7 @@
         ]
     },
     "Colima": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "latitude": 19.096667, 
         "generacion": [
             {
@@ -13495,7 +13495,7 @@
         ]
     },
     "Guanajuato": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "generacion": [
             {
                 "consumption": 602557.86, 
@@ -14081,7 +14081,7 @@
         ]
     },
     "Hidalgo": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "latitude": 20.478333, 
         "generacion": [
             {
@@ -14667,7 +14667,7 @@
         ]
     },
     "Jalisco": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "generacion": [
             {
                 "consumption": 27850.3, 
@@ -15253,7 +15253,7 @@
         ]
     },
     "Nayarit": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "latitude": 21.743889, 
         "generacion": [
             {
@@ -15839,7 +15839,7 @@
         ]
     },
     "Querétaro": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "generacion": [
             {
                 "consumption": 345601.83, 
@@ -16425,7 +16425,7 @@
         ]
     },
     "San Luis Potosí": {
-        "function": "atheletics", 
+        "function": "Occidental", 
         "generacion": [
             {
                 "consumption": 722550.73, 
