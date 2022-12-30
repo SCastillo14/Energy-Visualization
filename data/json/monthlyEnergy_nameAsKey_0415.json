@@ -1,6 +1,6 @@
 {
     "Ciudad de Mexico": {
-        "function": "residential", 
+        "function": "Central", 
         "latitude": 19.42847, 
         "generacion": [
             {
@@ -658,7 +658,7 @@
         ]
     }, 
     "Campeche": {
-        "function": "office and classroom", 
+        "function": "Peninsular and classroom", 
         "latitude": 18.836389, 
         "generacion": [
             {
@@ -1316,7 +1316,7 @@
         ]
     }, 
     "Quintana Roo": {
-        "function": "office and classroom", 
+        "function": "Peninsular and classroom", 
         "generacion": [
             {
                 "consumption": 2309.08,
@@ -1974,7 +1974,7 @@
         ]
     }, 
     "Chiapas": {
-        "function": "lab", 
+        "function": "Oriental", 
         "generacion": [
             {
                 "consumption": 461256.52, 
@@ -2560,7 +2560,7 @@
          ]
     }, 
     "Guerrero": {
-        "function": "residential", 
+        "function": "Central", 
         "latitude": 17.613056, 
         "generacion": [
             {
@@ -3146,7 +3146,7 @@
         ]
     }, 
     "Yucatán": {
-        "function": "office and classroom", 
+        "function": "Peninsular and classroom", 
         "generacion": [
             {
                 "consumption": 538787.33, 
@@ -3732,7 +3732,7 @@
         ]
     }, 
     "Coahuila": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "generacion": [
             {
                 "consumption": 1607642.01, 
@@ -4318,7 +4318,7 @@
         ]
     }, 
     "Nuevo León": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "generacion": [
             {
                 "consumption": 763871.33, 
@@ -4904,7 +4904,7 @@
         ]
     }, 
     "Michoacán": {
-        "function": "residential", 
+        "function": "Central", 
         "latitude": 19.168611, 
         "generacion": [
             {
@@ -5490,7 +5490,7 @@
         ]
     },
     "Estado de Mexico": {
-        "function": "residential", 
+        "function": "Central", 
         "latitude": 19.354167, 
         "generacion": [
             {
@@ -5786,7 +5786,7 @@
         "area": 9201
     },
     "Chihuahua": {
-        "function": "library", 
+        "function": "Norte", 
         "generacion": [
             {
                 "consumption": 1198181.54, 
@@ -6372,7 +6372,7 @@
         ] 
     }, 
     "Morelos": {
-        "function": "lab", 
+        "function": "Oriental", 
         "generacion": [
             {
                 "consumption": 0, 
@@ -6958,7 +6958,7 @@
         ]
     }, 
     "Sinaloa": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "generacion": [
             {
                 "consumption": 326773.54, 
@@ -7544,7 +7544,7 @@
         ]
     },
     "Sonora": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "latitude": 29.833333, 
         "generacion": [
             {
@@ -8130,7 +8130,7 @@
         ]
     }, 
     "Oaxaca": {
-        "function": "lab", 
+        "function": "Oriental", 
         "generacion": [
             {
                 "consumption": 328767.57, 
@@ -8716,7 +8716,7 @@
         ]
     },
     "Puebla": {
-        "function": "lab", 
+        "function": "Oriental", 
         "generacion": [
             {
                 "consumption": 339415.4, 
@@ -9978,7 +9978,7 @@
         ]
     }, 
     "Tamaulipas": {
-        "function": "dormitory", 
+        "function": "Noroeste", 
         "generacion": [
             {
                 "consumption": 2354867.32, 
@@ -10564,7 +10564,7 @@
         ]
     },
     "Veracruz": {
-        "function": "lab", 
+        "function": "Oriental", 
         "generacion": [
             {
                 "consumption": 2182411.54, 
@@ -11150,7 +11150,7 @@
         ]
     },
     "Baja California Sur": {
-        "function": "gym", 
+        "function": "Baja California Sur", 
         "generacion": [
             {
                 "consumption": 170517.52, 
@@ -12322,7 +12322,7 @@
         ]
     },
     "Durango": {
-        "function": "library", 
+        "function": "Norte", 
         "latitude": 24.934722, 
         "generacion": [
             {
@@ -12908,7 +12908,7 @@
         ]
     },
     "Baja California": {
-        "function": "dining service", 
+        "function": "Baja California", 
         "latitude": 29.95, 
         "generacion": [
             {
