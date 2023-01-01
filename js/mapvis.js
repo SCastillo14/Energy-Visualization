@@ -23,7 +23,7 @@ MapVis.prototype.initVis = function() {
 
     var that = this;
 
-    var harvardYard = new google.maps.LatLng(23.634501, -102.552784);
+    var Mexicomap = new google.maps.LatLng(23.634501, -102.552784);
 
     var MY_MAPTYPE_ID = 'ltc_style';
 
@@ -81,7 +81,7 @@ MapVis.prototype.initVis = function() {
 
     var mapOptions = {
         zoom: 5,
-        center: harvardYard ,
+        center: Mexicomap ,
         mapTypeControlOptions: {
             mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
         },
