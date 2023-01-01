@@ -110,9 +110,9 @@ Explore1Vis.prototype.wrangleData= function(_filterFunction){
     //// the default is: var options = {filter: function(){return true;} }
     //var options = _options || {filter: function(){return true;}};
 
-    var data_y = this.data[this.option.buildingName][this.option.energyType];
+    var data_y = this.data[this.option.EstateName][this.option.energyType];
     var data_x = this.weather["monthly"];
-    var area = this.data[this.option.buildingName]['area'];
+    var area = this.data[this.option.EstateName]['area'];
 
     console.log(data_x)
 

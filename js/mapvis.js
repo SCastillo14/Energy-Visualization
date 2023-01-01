@@ -175,9 +175,9 @@ MapVis.prototype.wrangleData= function(){
     this.buildingLocation = that.buildingLocation;
 }
 
-MapVis.prototype.updateVis = function(_buildingName) {
+MapVis.prototype.updateVis = function(_EstateName) {
     var that = this;
-    var selBuildingName = _buildingName;
+    var selEstateName = _EstateName;
     var nodes = d3.selectAll(".node");
     var circles = nodes.select("circle");
     var function_opt = d3.select("#function_opt").property('value')
@@ -229,7 +229,7 @@ MapVis.prototype.updateVis = function(_buildingName) {
 
     var selectedNode;
     selectedNode = nodes.filter(function (d) {
-        return d.name == selBuildingName
+        return d.name == selEstateName
     });
 
     selectedNode
@@ -388,13 +388,13 @@ MapVis.prototype.createNodes = function() {
         });
 
 
-    function clickedBuilding(buildingName) {
+    function clickedBuilding(EstateName) {
 
-        $(that.eventHandler).trigger("selectionChanged", buildingName)
+        $(that.eventHandler).trigger("selectionChanged", EstateName)
 
     }
 }
 
-MapVis.prototype.onSelectionChange= function (_buildingName){
-    this.updateVis(_buildingName)
+MapVis.prototype.onSelectionChange= function (_EstateName){
+    this.updateVis(_EstateName)
 }

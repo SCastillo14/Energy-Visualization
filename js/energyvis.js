@@ -63,7 +63,7 @@ EnergyVis.prototype.initVis = function(){
 
 
     // filter, aggregate, modify date
-    this.wrangleData(this.option.buildingName, this.option.energyType);
+    this.wrangleData(this.option.EstateName, this.option.energyType);
 
     // call the update method
     this.updateVis(this.option.energyType);
@@ -155,7 +155,7 @@ EnergyVis.prototype.onSelectionChange = function (_option){
 
 
     // filter, aggregate, modify date
-    this.wrangleData(this.option.buildingName, this.option.energyType);
+    this.wrangleData(this.option.EstateName, this.option.energyType);
 
     // call the update method
     this.updateVis(this.option.energyType);
@@ -165,10 +165,10 @@ EnergyVis.prototype.onSelectionChange = function (_option){
  * Method to wrangle the data. In this case it takes an options object
  * @param _filterFunction - a function that filters data or "null" if none
  */
-EnergyVis.prototype.wrangleData= function(_buildingName, _energyType){
+EnergyVis.prototype.wrangleData= function(_EstateName, _energyType){
 
     // displayData should hold the data whiche is visualized
-    this.displayData = this.filterAndAggregate(_buildingName, _energyType);
+    this.displayData = this.filterAndAggregate(_EstateName, _energyType);
 
 }
 
@@ -178,7 +178,7 @@ EnergyVis.prototype.wrangleData= function(_buildingName, _energyType){
  * @param _filter - A filter can be, e.g.,  a function that is only true for data of a given time range
  * @returns {Array|*}
  */
-EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
+EnergyVis.prototype.filterAndAggregate = function(_EstateName, _energyType){
 
 
     // Set filter to a function that accepts all items
@@ -187,14 +187,14 @@ EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
 	var dateFormatter = d3.time.format("%Y-%m-%d");
 	var monthNameFormat = d3.time.format("%b");
 
-    if (_buildingName != "null"){
-		filter = _buildingName;
+    if (_EstateName != "null"){
+		filter = _EstateName;
 	}
 
 	
 	var filteredData;
 
-	if (_buildingName != "null"){
+	if (_EstateName != "null"){
 		if (_energyType == "generacion"){
 			filteredData = this.data[filter].generacion;
 		}
@@ -212,15 +212,15 @@ EnergyVis.prototype.filterAndAggregate = function(_buildingName, _energyType){
     // var filter = _filter || function(){return true;}
 	
 	var area = 0;
-	if (_buildingName != "null"){
-    	area = this.data[this.option.buildingName]['area'];
+	if (_EstateName != "null"){
+    	area = this.data[this.option.EstateName]['area'];
 	}
 	
 	var res = {};
 	res.time = [];
 	res.data = [];
 
-	if (_buildingName != "null"){
+	if (_EstateName != "null"){
 		for (i = 0; i < filteredData.length; i++) {
 			if (dateFormatter.parse(filteredData[i].month) < dateFormatter.parse("2022-06-01") && dateFormatter.parse(filteredData[i].month) >= dateFormatter.parse("2021-01-01")) {
 				res.time.push(monthNameFormat(dateFormatter.parse(filteredData[i].month)));

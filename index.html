@@ -182,7 +182,7 @@
                 <label id = "Sort_ranking_by" class="gray-tooltip">Filtrar por:</label>
                 <select id="rank_opt" class="form-control selectWidth controls input-sm">
                     <option value="energyUse" selected>Uso de Energía</option>
-                    <option value="buildingName">A-Z</option>
+                    <option value="EstateName">A-Z</option>
                 </select>
             </form>
         </div>
@@ -219,7 +219,7 @@
         <div class="col-md-8" id="energyVis">
             <span id="Monthly_Energy_Use" class = "gray-tooltip">
             <span >Energía Mensual - </span>
-            <span id="BuildingName" style="text-transform:capitalize">BuildingName</span>
+            <span id="EstateName" style="text-transform:capitalize">EstateName</span>
             <span> - </span>
             <span id="EnergyType" style="text-transform:capitalize">>EnergyType</span>
                 </span>
@@ -239,7 +239,7 @@
         <div class="col-md-8" id="explore1Vis">
             <form class="form-inline" style="text-transform:capitalize">
                 <span id="Monthly_energy_use_vs" class = "gray-tooltip">
-                <span id="buildingName_explore1Vis">All</span>
+                <span id="EstateName_explore1Vis">All</span>
                 <span> - Energía mensual vs.</span>
                     </span>
                 <select id="explore1Vis_x_opt"  class="form-control selectWidth controls" style="text-transform:capitalize">
@@ -285,7 +285,7 @@
         var defaultBuilding = "Puebla";
         var monthlyEnergy = [];
         var weather = [];
-        var option = {"buildingName": defaultBuilding, "buildingEnergyType": '', "energyType": '', "buildingFunction": '', "sortType": ''};
+        var option = {"EstateName": defaultBuilding, "buildingEnergyType": '', "energyType": '', "buildingFunction": '', "sortType": ''};
         var buildingLocation = [];
 
 
@@ -297,9 +297,9 @@
             // Read selection values
             d3.select("#energy_opt").property('disabled', true);
             readOption();
-            d3.select("#BuildingName").text(option.buildingName);
+            d3.select("#EstateName").text(option.EstateName);
             d3.select("#EnergyType").text(option.energyType);
-            d3.select("#buildingName_explore1Vis").text(option.buildingName);
+            d3.select("#EstateName_explore1Vis").text(option.EstateName);
 
             //Create an eventHandler  --> DONE :)
             var MyEventHandler = new Object();
@@ -319,27 +319,27 @@
             document.getElementById('tab2').style.display = "none";
 
             // bind the eventHandler to the Vis Objects
-            $(MyEventHandler).bind("selectionChanged", function (event, buildingName) {
+            $(MyEventHandler).bind("selectionChanged", function (event, EstateName) {
                 //call the change function on each vis that needs to change
-                map_vis.onSelectionChange(buildingName);
+                map_vis.onSelectionChange(EstateName);
 
                 //Bin added
-                option.buildingName = buildingName;
+                option.EstateName = EstateName;
 
                 // prevent selected building does not have the selected energy type
-                if(!monthlyEnergy[option.buildingName][option.energyType]) {
-                    option.buildingName = defaultBuilding;
+                if(!monthlyEnergy[option.EstateName][option.energyType]) {
+                    option.EstateName = defaultBuilding;
                 }
 
                 energy_vis.onSelectionChange(option);
                 explore1_vis.onSelectionChange();
                 rank_vis.onSelectionChange();
-                d3.select("#BuildingName").text(option.buildingName);
-                d3.select("#buildingName_explore1Vis").text(option.buildingName);
+                d3.select("#EstateName").text(option.EstateName);
+                d3.select("#EstateName_explore1Vis").text(option.EstateName);
 
 
                 // Animate scroll
-                var top = rank_vis.getYPosition(buildingName) - 320;
+                var top = rank_vis.getYPosition(EstateName) - 320;
                 if (top < 0) top = 0;
                 $("#rankVis").animate({ scrollTop: top} );
 
@@ -361,8 +361,8 @@
                 readOption();
 
                 // prevent selected building does not have the selected energy type
-                if(!monthlyEnergy[option.buildingName][option.energyType]) {
-                    option.buildingName = defaultBuilding;
+                if(!monthlyEnergy[option.EstateName][option.energyType]) {
+                    option.EstateName = defaultBuilding;
 
 
                     toastr.options = {
@@ -388,22 +388,22 @@
 
                 //pass the options selected to the onSelectionChange methods for each vis to update them based on selection
                 energy_vis.onSelectionChange(option);
-                map_vis.onSelectionChange(option.buildingName);
+                map_vis.onSelectionChange(option.EstateName);
                 explore1_vis.onSelectionChange();
                 rank_vis.onSelectionChange();
 
 
-                if (option.buildingName != "null") {
-                    d3.select("#BuildingName").text(option.buildingName);
+                if (option.EstateName != "null") {
+                    d3.select("#EstateName").text(option.EstateName);
                 }
                 else {
-                    d3.select("#BuildingName").text("No Building Selected");
+                    d3.select("#EstateName").text("No Building Selected");
                 }
                 d3.select("#EnergyType").text(option.energyType);
-                d3.select("#buildingName_explore1Vis").text(option.buildingName);
+                d3.select("#EstateName_explore1Vis").text(option.EstateName);
 
                 //scroll back to top in case it only shows blank
-                var top = rank_vis.getYPosition(option.buildingName) - 320;
+                var top = rank_vis.getYPosition(option.EstateName) - 320;
                 if(!top || top < 0) {top = 0}
                 $("#rankVis").animate({ scrollTop: top} );
             });
@@ -411,7 +411,7 @@
             d3.select("#rank_opt").on("change", function() {
                 readOption();
                 rank_vis.onSelectionChange();
-                var top = rank_vis.getYPosition(option.buildingName) - 320;
+                var top = rank_vis.getYPosition(option.EstateName) - 320;
                 if(!top || top < 0) {top = 0}
                 $("#rankVis").animate({ scrollTop: top} );
 

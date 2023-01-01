@@ -72,20 +72,20 @@ RankVis.prototype.updateVis = function(){
     // updates scales
     this.x.domain([0, d3.max(this.displayData, function(d) { return d.energyUse; })]);
     this.y.rangeRoundBands([0, barHeight * that.displayData.length], 0.2)
-        .domain(this.displayData.map(function(d) { return d.buildingName; }));
+        .domain(this.displayData.map(function(d) { return d.EstateName; }));
 
 
     // updates graph
 
     // Data join
     var bar = this.svg.selectAll(".bar")
-        .data(this.displayData, function(d){return d.buildingName;});
+        .data(this.displayData, function(d){return d.EstateName;});
 
     // Append new bar groups, if required
     var bar_enter = bar.enter().append("g")
         .attr("class", "bar")
         .on("click", function (d){
-            clickedBuilding(d.buildingName)
+            clickedBuilding(d.EstateName)
         });
 
     // Append a rect and a text only for the Enter set (new g)
@@ -108,7 +108,7 @@ RankVis.prototype.updateVis = function(){
         .style("text-anchor","end");
 
     bar.select(".label").select("text")
-        .text(function(d){return d.buildingName})
+        .text(function(d){return d.EstateName})
         .attr("x",5)
         .attr("y",that.y.rangeBand() / 2)
         .attr("dy","0.85em")
@@ -121,7 +121,7 @@ RankVis.prototype.updateVis = function(){
         .attr("height", that.y.rangeBand())
 		.on('mouseover', function(){d3.select(this).style('cursor', 'pointer');})
         .style("fill", function(d) {
-            if(d.buildingName == that.option.buildingName) {
+            if(d.EstateName == that.option.EstateName) {
                 return color_energy[that.option.energyType];}
             else {
                 return "gray";
@@ -136,13 +136,13 @@ RankVis.prototype.updateVis = function(){
     bar.transition()
         .duration(DURATION)
         .attr("transform", function(d,i) {
-            return "translate(0," + (that.y(d.buildingName)-that.y(that.displayData[0].buildingName)) +")";});
+            return "translate(0," + (that.y(d.EstateName)-that.y(that.displayData[0].EstateName)) +")";});
 
     bar.exit()
         .remove();
 
-    function clickedBuilding(buildingName) {
-        $(that.eventHandler).trigger("selectionChanged", buildingName)
+    function clickedBuilding(EstateName) {
+        $(that.eventHandler).trigger("selectionChanged", EstateName)
 
     }
 };
@@ -234,7 +234,7 @@ RankVis.prototype.filterAndAggregate = function(_filter){
             var all = false;
             if (building.hasOwnProperty('generacion') && building.hasOwnProperty('Capacidad') && building.hasOwnProperty('steam'))
                 all = true;
-            res_org.push({buildingName: key, energyUse: temp, rank: 0, function: building['function'], 'all': all});
+            res_org.push({EstateName: key, energyUse: temp, rank: 0, function: building['function'], 'all': all});
         }
 
     }
@@ -256,7 +256,7 @@ RankVis.prototype.filterAndAggregate = function(_filter){
     res_ranked.map(function(d,i) {d.rank = i + 1; });
 
     res_ranked.sort(function(a,b) {
-        if(that.option.sortType == "buildingName")
+        if(that.option.sortType == "EstateName")
             return d3.ascending(a[that.option.sortType], b[that.option.sortType]);
         else
             return d3.descending(a[that.option.sortType], b[that.option.sortType]);
@@ -266,11 +266,11 @@ RankVis.prototype.filterAndAggregate = function(_filter){
     return res_ranked;
 };
 
-RankVis.prototype.getYPosition = function (buildingName){
+RankVis.prototype.getYPosition = function (EstateName){
     var that = this;
 
     if (that.displayData[0])
-        return (that.y(buildingName)-that.y(that.displayData[0].buildingName));
+        return (that.y(EstateName)-that.y(that.displayData[0].EstateName));
     else
         return 0;
 };
