@@ -282,10 +282,10 @@
         placeTooltip();
 
         // variables keeping global knowledge of the data
-        var defaultBuilding = "Puebla";
+        var defaultEstate = "Puebla";
         var monthlyEnergy = [];
         var weather = [];
-        var option = {"EstateName": defaultBuilding, "buildingEnergyType": '', "energyType": '', "buildingFunction": '', "sortType": ''};
+        var option = {"EstateName": defaultEstate, "buildingEnergyType": '', "energyType": '', "buildingFunction": '', "sortType": ''};
         var buildingLocation = [];
 
 
@@ -328,7 +328,7 @@
 
                 // prevent selected building does not have the selected energy type
                 if(!monthlyEnergy[option.EstateName][option.energyType]) {
-                    option.EstateName = defaultBuilding;
+                    option.EstateName = defaultEstate;
                 }
 
                 energy_vis.onSelectionChange(option);
@@ -362,7 +362,7 @@
 
                 // prevent selected building does not have the selected energy type
                 if(!monthlyEnergy[option.EstateName][option.energyType]) {
-                    option.EstateName = defaultBuilding;
+                    option.EstateName = defaultEstate;
 
 
                     toastr.options = {
