@@ -142,7 +142,7 @@
             <form id="form_opt" class="form-inline">
 
                 <label id = "Show_buildings_with_data_of" class="control-label gray-tooltip">Tipo de información:</label>
-                <select id="building_opt" class="form-control selectWidth controls">
+                <select id="Estate_opt" class="form-control selectWidth controls">
                     <option value="generacion" selected>Generación por entidad federativa</option>
                     <option value="Capacidad">Capacidad por entidad federativa</option>
                     <option value="all">Todos los datos</option>
@@ -349,8 +349,8 @@
             // Listen to selection changes
             d3.select("#form_opt").on("change", function() {
                 // Listen to building selection
-                if (d3.select("#building_opt").property('value') != "all") {
-                    d3.select("#energy_opt").property('value', d3.select("#building_opt").property('value'));
+                if (d3.select("#Estate_opt").property('value') != "all") {
+                    d3.select("#energy_opt").property('value', d3.select("#Estate_opt").property('value'));
                     d3.select("#energy_opt").property('disabled', true);
                 }
                 else {
@@ -451,7 +451,7 @@
 
         var readOption = function() {
             // Read selection values
-            option.buildingEnergyType = d3.select("#building_opt").property('value');
+            option.buildingEnergyType = d3.select("#Estate_opt").property('value');
             option.energyType = d3.select("#energy_opt").property('value');
             option.buildingFunction = d3.select("#function_opt").property('value');
             option.sortType = d3.select("#rank_opt").property('value');

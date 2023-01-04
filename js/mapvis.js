@@ -198,7 +198,7 @@ MapVis.prototype.updateVis = function(_EstateName) {
         .style("opacity", 0.7);
 
     //show or hide buildings based on building data type
-    switch(d3.select("#building_opt").property('value')){
+    switch(d3.select("#Estate_opt").property('value')){
         case 'Capacidad':
             circles.style("fill", chilledWaterColor).style("stroke-width", "0px")
             nodes.filter(function (d){return d['totalChilledWater'] == 0}).style("visibility", "hidden")
@@ -244,7 +244,7 @@ MapVis.prototype.updateVis = function(_EstateName) {
     selectedNode.select("circle")
         .style("fill", function(d) {
             var color;
-            switch(d3.select("#building_opt").property('value')){
+            switch(d3.select("#Estate_opt").property('value')){
 
                 case 'Capacidad':
                     color = chilledWaterColor;
