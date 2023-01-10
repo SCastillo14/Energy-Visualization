@@ -1,4 +1,4 @@
-WeatherVis = function(_parentElement, _data, _option, _eventHandler){
+CleanEnergyvis = function(_parentElement, _data, _option, _eventHandler){
     this.parentElement = _parentElement;
     this.data = _data;
 	this.option = _option;
@@ -18,7 +18,7 @@ WeatherVis = function(_parentElement, _data, _option, _eventHandler){
 /**
  * Method that sets up the SVG and the variables
  */
-WeatherVis.prototype.initVis = function(){
+CleanEnergyvis.prototype.initVis = function(){
 
 	var that = this;
     // constructs SVG layout
@@ -68,7 +68,7 @@ WeatherVis.prototype.initVis = function(){
 /**
  * the drawing function - should use the D3 selection, enter, exit
  */
-WeatherVis.prototype.updateVis = function(_option){
+CleanEnergyvis.prototype.updateVis = function(_option){
 
     var that = this;
 
@@ -321,7 +321,7 @@ WeatherVis.prototype.updateVis = function(_option){
  * be defined here.
  * @param selection
  */
-WeatherVis.prototype.onSelectionChange = function (selectionStart, selectionEnd){
+CleanEnergyvis.prototype.onSelectionChange = function (selectionStart, selectionEnd){
 
     // TODO: call wrangle function
 	this.wrangleData(function(d){return d.time>=selectionStart && d.time<=selectionEnd;});
@@ -333,7 +333,7 @@ WeatherVis.prototype.onSelectionChange = function (selectionStart, selectionEnd)
  * Method to wrangle the data. In this case it takes an options object
  * @param _filterFunction - a function that filters data or "null" if none
  */
-WeatherVis.prototype.wrangleData= function(_option){
+CleanEnergyvis.prototype.wrangleData= function(_option){
 
     // displayData should hold the data whiche is visualized
     this.displayData = this.filterAndAggregate(_option);
@@ -346,7 +346,7 @@ WeatherVis.prototype.wrangleData= function(_option){
  * @param _filter - A filter can be, e.g.,  a function that is only true for data of a given time range
  * @returns {Array|*}
  */
-WeatherVis.prototype.filterAndAggregate = function(_option){
+CleanEnergyvis.prototype.filterAndAggregate = function(_option){
 
 
     // Set filter to a function that accepts all items

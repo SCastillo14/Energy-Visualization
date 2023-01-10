@@ -45,7 +45,7 @@
     <!-- add own vis classes-->
     <script src = "js/mapvis.js"></script>
     <script src = "js/energyvis.js"></script>
-    <script src = "js/weathervis.js"></script>
+    <script src = "js/CleanEnergyvis.js"></script>
     <script src = "js/rankvis.js"></script>
     <script src = "js/explore1vis.js"></script>
     <script src="js/toastr.js"></script>
@@ -309,9 +309,9 @@
             var rank_vis = new RankVis(d3.select("#rankVis"), monthlyEnergy, option, MyEventHandler);
             var energy_vis = new EnergyVis(d3.select("#energyVis"), monthlyEnergy, option, MyEventHandler);
 
-            var temp_vis = new WeatherVis(d3.select("#tempVis"), weather, "Hidroeléctrica", MyEventHandler);
-            var solar_vis = new WeatherVis(d3.select("#solarVis"), weather, "Solar", MyEventHandler);
-            var wind_vis = new WeatherVis(d3.select("#windVis"), weather, "Wind", MyEventHandler);
+            var temp_vis = new CleanEnergyvis(d3.select("#tempVis"), weather, "Hidroeléctrica", MyEventHandler);
+            var solar_vis = new CleanEnergyvis(d3.select("#solarVis"), weather, "Solar", MyEventHandler);
+            var wind_vis = new CleanEnergyvis(d3.select("#windVis"), weather, "Wind", MyEventHandler);
 
             var explore1_vis = new Explore1Vis(d3.select("#explore1Vis"), d3.select("#explore1Equation"), monthlyEnergy, weather, option);
 
