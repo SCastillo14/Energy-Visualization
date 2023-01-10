@@ -141,7 +141,7 @@ CleanEnergyvis.prototype.updateVis = function(_option){
 		  
 		this.svg.append("path")
 			.datum(this.displayData.data)
-			.attr("class","weatherLine")
+			.attr("class","CleanEnergyLine")
 			.attr("d", line);
 
         //create a div holder for the tooltip
