@@ -141,7 +141,7 @@
 
             <form id="form_opt" class="form-inline">
 
-                <label id = "Show_buildings_with_data_of" class="control-label gray-tooltip">Tipo de información:</label>
+                <label id = "Show_Estate_with_data_of" class="control-label gray-tooltip">Tipo de información:</label>
                 <select id="Estate_opt" class="form-control selectWidth controls">
                     <option value="generacion" selected>Generación por entidad federativa</option>
                     <option value="Capacidad">Capacidad por entidad federativa</option>
@@ -154,7 +154,7 @@
                     <option value="Capacidad">Capacidad instalada por entidad federativa</option>
                 </select>
 
-                <label id = "Filter_buildings_by_function" class="control-label gray-tooltip" >Filtrar por regiones del SEN:</label>
+                <label id = "Filter_Estate_by_function" class="control-label gray-tooltip" >Filtrar por regiones del SEN:</label>
                 <select id="function_opt" class="form-control selectWidth controls">
                     <option value="all" selected>Todos</option>
                     <option value="Occidental">Occidental</option>
@@ -510,7 +510,7 @@
             title: "Selecciona el tipo de visualizacion Basica | Explorativa"
         });
 
-        $('#Show_buildings_with_data_of').tooltip({
+        $('#Show_Estate_with_data_of').tooltip({
             placement : 'bottom',
             title: "Selecciona el tipo de información que necesites."
         });
@@ -520,7 +520,7 @@
             title: "Al seleccionar el tipo de energía se mostrará la generación especifica del proceso seleccionado."
         });
 
-        $('#Filter_buildings_by_function').tooltip({
+        $('#Filter_Estate_by_function').tooltip({
             placement : 'bottom',
             title: "Al seleccionar la filtración de datos por regiones del SEN podrás encontrar las 8 regiones interconectadas en el SEN"
         });
